@@ -14,6 +14,8 @@
 
 ### Mar 8 -- Lucas Branco -- What is... a [Higgs bundle](https://en.wikipedia.org/wiki/Higgs_bundle)?
 
+This is the first of two talks about Higgs bundles over a curve. Designed with students in mind, our aim is to provide an overview of some aspects of the Higgs bundles and their moduli space. By recalling these concepts, we lay the groundwork for the subsequent talk.
+
 ### Mar 8 -- Altan Erdnigor -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction), part I/II
 
 ### Mar 15 -- Lucas Branco -- Gaiotto Lagrangians 
@@ -212,6 +214,8 @@ The pentagram map on polygons in the projective plane was introduced by R.Schwar
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
 ### Mar 8 -- **Lucas Branco** -- What is... a [Higgs bundle](https://en.wikipedia.org/wiki/Higgs_bundle)?
+
+This is the first of two talks about Higgs bundles over a curve. Designed with students in mind, our aim is to provide an overview of some aspects of the Higgs bundles and their moduli space. By recalling these concepts, we lay the groundwork for the subsequent talk.
 
 ### Mar 1 -- [**José Carlos Valencia Alvites**](http://www.uel.br/pos/pgmac/professores/prof_JoseCarlos.html) -- On [lattice Quantum Chromodynamics](https://en.wikipedia.org/wiki/Lattice_QCD) models in the strong coupling regime
 
