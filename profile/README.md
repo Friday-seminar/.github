@@ -16,7 +16,13 @@
 
 This is the first of two talks about Higgs bundles over a curve. Designed with students in mind, our aim is to provide an overview of some aspects of the Higgs bundles and their moduli space. By recalling these concepts, we lay the groundwork for the subsequent talk.
 
-### Mar 8 -- Altan Erdnigor -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction), part I/II
+### Mar 8 -- Altan Erdnigor -- Geometric Quantization and Equivariant Topology, part I/II
+
+In Hamiltonian mechanics, the state space is the cotangent bundle T^∗(X) of the configuration space X.  In quantum mechanics, the state space is the Hilbert space of complex valued "wave functions" L^2(X). The theory of geometric quantization attempts to understand the correspondence T^∗(X) -> L^2(X).
+
+Geometric quantization is intricately connected to complex and symplectic geometry, representation theory of Lie groups, the Atiyah-Singer theorem, and more.  In this talk we will delve into these connections in detail following the Ginzburg-Guillemin-Karshon book "Moment maps, cobordisms, and Hamiltonian group actions".
+
+The second talk in this series will focus on linearization in equivariant cobordism, culminating in the proof of the "Quantization commutes with Reduction" theorem.
 
 ### Mar 15 -- Lucas Branco -- Gaiotto Lagrangians 
 
