@@ -106,10 +106,10 @@ Holidays: March 29, May 31
 
 ## 2024 Summer (Jan 8 -- Mar 1)
 
-- Mar 1, 15h -- [José Carlos Valencia Alvites](http://www.uel.br/pos/pgmac/professores/prof_JoseCarlos.html) -- On [lattice Quantum Chromodynamics](https://en.wikipedia.org/wiki/Lattice_QCD) models in the strong coupling regime
+- Mar 1 -- [José Carlos Valencia Alvites](http://www.uel.br/pos/pgmac/professores/prof_JoseCarlos.html) -- On [lattice Quantum Chromodynamics](https://en.wikipedia.org/wiki/Lattice_QCD) models in the strong coupling regime
 - Feb 23 -- [Misha Verbitsky](http://verbit.ru) -- Deformation theory of holomorphically symplectic manifolds
 - Feb 9 -- Alex Gomez -- A real analogue of the Moore--Tachikawa category
-- Feb 2, 16h -- Bruno Suassuna -- Wigner--Weyl transform
+- Feb 2 -- Bruno Suassuna -- Wigner--Weyl transform
 - Jan 26, 16h --  Dmitrii Korshunov -- Flexible polyhedra and symplectic geometry
 - Jan 26, 14h -- Orchidea Maria Lecian -- Some new theorems on scarred waveforms in desymmetrised PSL(2,Z) billiards and in those of its congruence subgroups
 - Jan 19 -- Altan Erdnigor -- [Quivers](https://en.wikipedia.org/wiki/Quiver_(mathematics)) and [Gabriel's theorem](https://en.wikipedia.org/wiki/Gabriel's_theorem)
