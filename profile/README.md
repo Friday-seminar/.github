@@ -12,11 +12,11 @@
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
 
-### Mar 8 -- Lucas Branco -- What is... a [Higgs bundle](https://en.wikipedia.org/wiki/Higgs_bundle)?
+### Mar 8, 14h -- Lucas Branco -- What is... a [Higgs bundle](https://en.wikipedia.org/wiki/Higgs_bundle)?
 
 This is the first of two talks about Higgs bundles over a curve. Designed with students in mind, our aim is to provide an overview of some aspects of the Higgs bundles and their moduli space. By recalling these concepts, we lay the groundwork for the subsequent talk.
 
-### Mar 8 -- Altan Erdnigor -- [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization) and Equivariant Topology, part I/II
+### Mar 8, 16h -- Altan Erdnigor -- [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization) and Equivariant Topology, part I/II
 
 In Hamiltonian mechanics, the phase space is the cotangent bundle $T^*(X)$ of the configuration space X.  In quantum mechanics, the state space is the Hilbert space of complex valued "wave functions" $L^2(X)$. The theory of geometric quantization attempts to understand the correspondence $T^*(X) -> L^2(X)$.
 
@@ -24,11 +24,11 @@ Geometric quantization is intricately connected to complex and symplectic geomet
 
 The second talk in this series will focus on linearization in equivariant cobordism, culminating in the proof of the "[Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction)" theorem.
 
-### Mar 15 -- Lucas Branco -- Gaiotto Lagrangians 
+### Mar 15, 14h -- Lucas Branco -- Gaiotto Lagrangians 
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
-### Mar 15 -- Altan Erdnigor -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction), part II/II
+### Mar 15, 16h -- Altan Erdnigor -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction), part II/II
 
 The second talk in this series will focus on linearization in equivariant cobordism, culminating in the proof of the [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction) theorem.
 
