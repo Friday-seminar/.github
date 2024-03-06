@@ -18,11 +18,11 @@ This is the first of two talks about Higgs bundles over a curve. Designed with s
 
 ### Mar 8, 16h -- Altan Erdnigor -- [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization) and Equivariant Topology, part I/II
 
-In Hamiltonian mechanics, the phase space is the cotangent bundle $T^*(X)$ of the configuration space X.  In quantum mechanics, the state space is the Hilbert space of complex valued "wave functions" $L^2(X)$. The theory of geometric quantization attempts to understand the correspondence $T^*(X) -> L^2(X)$.
+In Hamiltonian mechanics, the phase space is the cotangent bundle $T^* X$ of the configuration space X.  In quantum mechanics, the state space is the Hilbert space of complex valued "wave functions" $L^2(X)$. The theory of geometric quantization attempts to understand the correspondence between $T^* X$ and $L^2(X)$.
 
 Geometric quantization is intricately connected to complex and symplectic geometry, representation theory of Lie groups, the Atiyah-Singer theorem, and more.  In this talk we will delve into these connections in detail following the Ginzburg-Guillemin-Karshon book "Moment maps, cobordisms, and Hamiltonian group actions".
 
-The second talk in this series will focus on linearization in equivariant cobordism, culminating in the proof of the "[Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction)" theorem.
+The second talk in this series will focus on linearization in equivariant cobordism, culminating in the proof of the [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction) theorem.
 
 ### Mar 15, 14h -- Lucas Branco -- Gaiotto Lagrangians 
 
@@ -234,7 +234,7 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
 
 ### Mar 8, 16h -- **Altan Erdnigor** -- [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization) and Equivariant Topology, part I/II
 
-In Hamiltonian mechanics, the phase space is the cotangent bundle $T^*(X)$ of the configuration space X.  In quantum mechanics, the state space is the Hilbert space of complex valued "wave functions" $L^2(X)$. The theory of geometric quantization attempts to understand the correspondence $T^*(X) -> L^2(X)$.
+In Hamiltonian mechanics, the phase space is the cotangent bundle $T^* X$ of the configuration space X.  In quantum mechanics, the state space is the Hilbert space of complex valued "wave functions" $L^2(X)$. The theory of geometric quantization attempts to understand the correspondence between $T^* X$ and $L^2(X)$.
 
 Geometric quantization is intricately connected to complex and symplectic geometry, representation theory of Lie groups, the Atiyah-Singer theorem, and more.  In this talk we will delve into these connections in detail following the Ginzburg-Guillemin-Karshon book "Moment maps, cobordisms, and Hamiltonian group actions".
 
