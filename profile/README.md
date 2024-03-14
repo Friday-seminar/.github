@@ -12,11 +12,16 @@
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
 
-### Mar 8, 14h -- Lucas Branco -- What is... a [Higgs bundle](https://en.wikipedia.org/wiki/Higgs_bundle)?
 
-This is the first of two talks about Higgs bundles over a curve. Designed with students in mind, our aim is to provide an overview of some aspects of the Higgs bundles and their moduli space. By recalling these concepts, we lay the groundwork for the subsequent talk.
+### Mar 22 -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
 
-### Mar 8, 16h -- Altan Erdnigor -- [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization) and Equivariant Topology, part I/II
+The pentagram map on polygons in the projective plane was introduced by R.Schwartz in 1992 and is by now one of the most popular and classical discrete integrable systems. We survey definitions and integrability properties of the pentagram maps on generic plane polygons and their generalizations to higher dimensions. In particular, we define long-diagonal pentagram maps on polygons in $\mathbf{RP}^d$, encompassing all known integrable cases. We also describe the corresponding continuous limit of such pentagram maps: in dimension d it turns out to be the $(2, d + 1)$-equation of the KdV hierarchy, generalizing the Boussinesq equation in 2D. This is a joint work with F.Soloviev and A.Izosimov.
+
+### TBA -- Lucas Branco -- Gaiotto Lagrangians 
+
+Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
+
+### TBA -- Altan Erdnigor -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction), part II/II
 
 In Hamiltonian mechanics, the phase space is the cotangent bundle $T^* X$ of the configuration space X.  In quantum mechanics, the state space is the Hilbert space of complex valued "wave functions" $L^2(X)$. The theory of geometric quantization attempts to understand the correspondence between $T^* X$ and $L^2(X)$.
 
@@ -24,17 +29,7 @@ Geometric quantization is intricately connected to complex and symplectic geomet
 
 The second talk in this series will focus on linearization in equivariant cobordism, culminating in the proof of the [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction) theorem.
 
-### Mar 15, 14h -- Lucas Branco -- Gaiotto Lagrangians 
-
-Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
-
-### Mar 15, 16h -- Altan Erdnigor -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction), part II/II
-
 The second talk in this series will focus on linearization in equivariant cobordism, culminating in the proof of the [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction) theorem.
-
-### Mar 22 -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
-
-The pentagram map on polygons in the projective plane was introduced by R.Schwartz in 1992 and is by now one of the most popular and classical discrete integrable systems. We survey definitions and integrability properties of the pentagram maps on generic plane polygons and their generalizations to higher dimensions. In particular, we define long-diagonal pentagram maps on polygons in $\mathbf{RP}^d$, encompassing all known integrable cases. We also describe the corresponding continuous limit of such pentagram maps: in dimension d it turns out to be the $(2, d + 1)$-equation of the KdV hierarchy, generalizing the Boussinesq equation in 2D. This is a joint work with F.Soloviev and A.Izosimov.
 
 ### Mar 29 -- no seminar (Good Friday)
 
