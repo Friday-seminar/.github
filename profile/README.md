@@ -9,8 +9,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
+# 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊 
 
+## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
 ### Mar 22 -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
