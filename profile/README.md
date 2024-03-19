@@ -43,8 +43,6 @@ Geometric quantization is intricately connected to complex and symplectic geomet
 
 The second talk in this series will focus on linearization in equivariant cobordism, culminating in the proof of the [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction) theorem.
 
-The second talk in this series will focus on linearization in equivariant cobordism, culminating in the proof of the [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction) theorem.
-
 
 ### TBA -- Bruno Suassuna -- scaling-winding factorization (tropical talk III)
 
