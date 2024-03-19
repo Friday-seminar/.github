@@ -218,6 +218,14 @@ Holidays: March 29, May 31
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
+### TBA -- **Lucas Branco** -- Gaiotto Lagrangians 
+
+Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
+
+### Apr 5 (TBC) -- **Altan Erdnigor** -- [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization) and Equivariant Topology, part I/II : [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction)
+
+The second talk in this series will focus on linearization in equivariant cobordism, culminating in the proof of the [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction) theorem.
+
 ### Apr 5 -- **Ilya Karzhemanov** -- Surjective rational maps and [del Pezzo surfaces](https://en.wikipedia.org/wiki/Del_Pezzo_surface)
 
 We consider surjective (not necessarily regular) rational endomorphisms f of smooth del Pezzo surfaces X. We prove that f can have degree bigger than 1 only when $K_X^2 > 5$. Some geometric properties of f in the case of other varieties will also be discussed. The talk is based on joint works with I. Zhdanovskiy and A. Lekontseva.
@@ -229,14 +237,6 @@ Magnetic flows are the toy models for the motion of a charged particle over a Ri
 ### Mar 22, 14:00 -- [**Boris Khesin**](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)  (Joint Symplectic Seminar, talk 1/2)
  
 The pentagram map on polygons in the projective plane was introduced by R.Schwartz in 1992 and is by now one of the most popular and classical discrete integrable systems. We survey definitions and integrability properties of the pentagram maps on generic plane polygons and their generalizations to higher dimensions. In particular, we define long-diagonal pentagram maps on polygons in $\mathbf{RP}^d$, encompassing all known integrable cases. We also describe the corresponding continuous limit of such pentagram maps: in dimension d it turns out to be the $(2, d + 1)$-equation of the KdV hierarchy, generalizing the Boussinesq equation in 2D. This is a joint work with F.Soloviev and A.Izosimov.
-
-### Mar 15 -- **Altan Erdnigor** -- [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization) and Equivariant Topology, part I/II : [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction)
-
-The second talk in this series will focus on linearization in equivariant cobordism, culminating in the proof of the [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction) theorem.
-
-### Mar 15 -- **Lucas Branco** -- Gaiotto Lagrangians 
-
-Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
 ### Mar 8, 16h -- **Altan Erdnigor** -- [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization) and Equivariant Topology, part I/II
 
