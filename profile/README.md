@@ -13,23 +13,13 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-## This Friday (March 22) the Friday seminar hosts the [Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio) of Rio de Janeiro
-## 14h -- Boris Khesin (Toronto); 16h -- Valerio Assenza (IMPA); 18h -- confraternização
+### March 26 (Tuesday) -- [Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio) of Rio de Janeiro is reschedules in IMPA
 
-### Mar 22, 14:00 -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
+### Mar 27 (Wednesday) -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
 
 The pentagram map on polygons in the projective plane was introduced by R.Schwartz in 1992 and is by now one of the most popular and classical discrete integrable systems. We survey definitions and integrability properties of the pentagram maps on generic plane polygons and their generalizations to higher dimensions. In particular, we define long-diagonal pentagram maps on polygons in $\mathbf{RP}^d$, encompassing all known integrable cases. We also describe the corresponding continuous limit of such pentagram maps: in dimension d it turns out to be the $(2, d + 1)$-equation of the KdV hierarchy, generalizing the Boussinesq equation in 2D. This is a joint work with F.Soloviev and A.Izosimov.
 
-### Mar 22, 16:00 -- Valerio Assenza -- Geometrical aspects of magnetic flows
-
-Magnetic flows are the toy models for the motion of a charged particle over a Riemannian manifold under the influence of a magnetic force. These dynamics appear in several physical and mathematical contexts and they had been investigating with different approaches in the last four decades. From a geometrical point of view, to every magnetic system we associate an operator called magnetic curvature. Such an operator encodes the classical Riemannian curvature together with terms of perturbation due to the magnetic interaction, and it carries relevant properties in terms of magnetic dynamics. For instance, in this talk we bring into the discussion of magnetic flows a theorem by E.Hopf (refined by Green): if a geodesic flow is without conjugate points, then the total scalar curvature is non positive and equal to zero if and only if the metric is flat. The generalization of this result leads naturally to investigate the flatness in a magnetic sense. This is part of a joint work with James Marshall Reber and Ivo Terek.
-
 ### Mar 29 -- no seminar (Good Friday)
-
-### Apr 5 -- Ilya Karzhemanov -- Surjective rational maps and [del Pezzo surfaces](https://en.wikipedia.org/wiki/Del_Pezzo_surface)
-
-We consider surjective (not necessarily regular) rational endomorphisms f of smooth del Pezzo surfaces X. We prove that f can have degree bigger than 1 only when $K_X^2 > 5$. Some geometric properties of f in the case of other varieties will also be discussed. The talk is based on joint works with I. Zhdanovskiy and A. Lekontseva.
-
 
 ### TBA -- Lucas Branco -- Gaiotto Lagrangians 
 
@@ -99,10 +89,8 @@ Holidays: March 29, May 31
 
 - tba -- Altan Erdnigor -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction), part II/II
 - tba -- Lucas Branco -- Gaiotto Lagrangians
-- Apr 5 -- Ilya Karzhemanov -- Surjective rational maps and [del Pezzo surfaces](https://en.wikipedia.org/wiki/Del_Pezzo_surface)
 - Mar 29 -- [Sexta-Feira da Paixão](https://pt.wikipedia.org/wiki/Sexta-feira_Santa)
-- Mar 22, 16h -- Valerio Assenza -- Geometrical aspects of magnetic flows (Joint Symplectic Seminar)
-- Mar 22, 14h -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map) (Joint Symplectic Seminar)
+- Mar 27 (Wed) -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
 - Mar 8, 16h -- Altan Erdnigor -- [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization) and Equivariant Topology, part I/II
 - Mar 8, 14h -- Lucas Branco -- What is... a [Higgs bundle](https://en.wikipedia.org/wiki/Higgs_bundle)?
 
@@ -226,15 +214,8 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
 
 The second talk in this series will focus on linearization in equivariant cobordism, culminating in the proof of the [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction) theorem.
 
-### Apr 5 -- **Ilya Karzhemanov** -- Surjective rational maps and [del Pezzo surfaces](https://en.wikipedia.org/wiki/Del_Pezzo_surface)
 
-We consider surjective (not necessarily regular) rational endomorphisms f of smooth del Pezzo surfaces X. We prove that f can have degree bigger than 1 only when $K_X^2 > 5$. Some geometric properties of f in the case of other varieties will also be discussed. The talk is based on joint works with I. Zhdanovskiy and A. Lekontseva.
-
-### Mar 22, 16:00 -- **Valerio Assenza** -- Geometrical aspects of magnetic flows (Joint Symplectic Seminar, talk 2/2)
-
-Magnetic flows are the toy models for the motion of a charged particle over a Riemannian manifold under the influence of a magnetic force. These dynamics appear in several physical and mathematical contexts and they had been investigating with different approaches in the last four decades. From a geometrical point of view, to every magnetic system we associate an operator called magnetic curvature. Such an operator encodes the classical Riemannian curvature together with terms of perturbation due to the magnetic interaction, and it carries relevant properties in terms of magnetic dynamics. For instance, in this talk we bring into the discussion of magnetic flows a theorem by E.Hopf (refined by Green): if a geodesic flow is without conjugate points, then the total scalar curvature is non positive and equal to zero if and only if the metric is flat. The generalization of this result leads naturally to investigate the flatness in a magnetic sense. This is part of a joint work with James Marshall Reber and Ivo Terek.
-
-### Mar 22, 14:00 -- [**Boris Khesin**](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)  (Joint Symplectic Seminar, talk 1/2)
+### Mar 27 (Wednesday, due to rains on Friday) -- [**Boris Khesin**](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
  
 The pentagram map on polygons in the projective plane was introduced by R.Schwartz in 1992 and is by now one of the most popular and classical discrete integrable systems. We survey definitions and integrability properties of the pentagram maps on generic plane polygons and their generalizations to higher dimensions. In particular, we define long-diagonal pentagram maps on polygons in $\mathbf{RP}^d$, encompassing all known integrable cases. We also describe the corresponding continuous limit of such pentagram maps: in dimension d it turns out to be the $(2, d + 1)$-equation of the KdV hierarchy, generalizing the Boussinesq equation in 2D. This is a joint work with F.Soloviev and A.Izosimov.
 
