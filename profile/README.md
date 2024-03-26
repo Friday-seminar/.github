@@ -13,7 +13,7 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### March 26 (Tuesday) -- [Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio) of Rio de Janeiro is reschedules in IMPA
+### March 26 (Tuesday) -- [Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio) is rescheduled in IMPA
 
 ### Mar 27 (Wednesday) -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
 
