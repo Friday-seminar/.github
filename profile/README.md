@@ -15,7 +15,7 @@
 
 ### March 26 (Tuesday) -- [Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio) is rescheduled in IMPA
 
-### Mar 27 (Wednesday) -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
+### Mar 27 (Wednesday), 13:00, L856 -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
 
 The pentagram map on polygons in the projective plane was introduced by R.Schwartz in 1992 and is by now one of the most popular and classical discrete integrable systems. We survey definitions and integrability properties of the pentagram maps on generic plane polygons and their generalizations to higher dimensions. In particular, we define long-diagonal pentagram maps on polygons in $\mathbf{RP}^d$, encompassing all known integrable cases. We also describe the corresponding continuous limit of such pentagram maps: in dimension d it turns out to be the $(2, d + 1)$-equation of the KdV hierarchy, generalizing the Boussinesq equation in 2D. This is a joint work with F.Soloviev and A.Izosimov.
 
@@ -90,7 +90,7 @@ Holidays: March 29, May 31
 - tba -- Altan Erdnigor -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction), part II/II
 - tba -- Lucas Branco -- Gaiotto Lagrangians
 - Mar 29 -- [Sexta-Feira da Paixão](https://pt.wikipedia.org/wiki/Sexta-feira_Santa)
-- Mar 27 (Wed) -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
+- Mar 27 (Wed) 13h -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
 - Mar 8, 16h -- Altan Erdnigor -- [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization) and Equivariant Topology, part I/II
 - Mar 8, 14h -- Lucas Branco -- What is... a [Higgs bundle](https://en.wikipedia.org/wiki/Higgs_bundle)?
 
