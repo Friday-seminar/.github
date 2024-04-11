@@ -21,11 +21,7 @@ The pentagram map on polygons in the projective plane was introduced by R.Schwar
 
 ### Mar 29 -- no seminar (Good Friday)
 
-### TBA -- Lucas Branco -- Gaiotto Lagrangians 
-
-Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
-
-### TBA -- Altan Erdnigor -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction), part II/II
+### April 5 -- Altan Erdnigor -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction), part II/II
 
 In Hamiltonian mechanics, the phase space is the cotangent bundle $T^* X$ of the configuration space X.  In quantum mechanics, the state space is the Hilbert space of complex valued "wave functions" $L^2(X)$. The theory of geometric quantization attempts to understand the correspondence between $T^* X$ and $L^2(X)$.
 
@@ -33,10 +29,13 @@ Geometric quantization is intricately connected to complex and symplectic geomet
 
 The second talk in this series will focus on linearization in equivariant cobordism, culminating in the proof of the [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction) theorem.
 
-
-### TBA -- Bruno Suassuna -- scaling-winding factorization (tropical talk III)
+### April 5 -- Bruno Suassuna -- scaling-winding factorization (tropical talk III)
 
 In this short talk, the goal is to discuss rational maps from $( \mathbb{C}^* )^n$ to itself that preserves the usual logarithmic-volume form. For $n=1$, the form is $dz / z$, and for $( \mathbb{C}^* )^n$ we take the product over coordinates $z_1,...,z_n$. For $n=1$, the only rational map that preserves the log-volume form is $f(z) = c z$; there are much more interesting examples for $n>1$. We state the Scaling-Winding Theorem for rational maps which scale the log-volue form and discuss how we can prove it; for this we need to define the naive tropicalization of the map. In analogy with the famous (open) Jacobian Conjecture, we can ask: if a rational endomorphism of $(\mathbb{C}^*)^n$ that preserves the usual log-volume form must be bi-rational. This is not true! We will show a counter-example for $n=2$, which in light of the Scaling-Winding theorem means a rational map from 2 variables to itself, preserving the log-volume form and which has winding number 2.
+
+### TBA -- Lucas Branco -- Gaiotto Lagrangians 
+
+Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
 ## we are:
 a research and study group of students and professors from post-graduate mathematics programs of
