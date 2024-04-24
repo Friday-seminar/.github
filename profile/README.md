@@ -13,25 +13,9 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### March 26 (Tuesday) -- [Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio) is rescheduled in IMPA
+### April 26 -- Alex, Sergey
 
-### Mar 27 (Wednesday), 13:00, L856 -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
-
-The pentagram map on polygons in the projective plane was introduced by R.Schwartz in 1992 and is by now one of the most popular and classical discrete integrable systems. We survey definitions and integrability properties of the pentagram maps on generic plane polygons and their generalizations to higher dimensions. In particular, we define long-diagonal pentagram maps on polygons in $\mathbf{RP}^d$, encompassing all known integrable cases. We also describe the corresponding continuous limit of such pentagram maps: in dimension d it turns out to be the $(2, d + 1)$-equation of the KdV hierarchy, generalizing the Boussinesq equation in 2D. This is a joint work with F.Soloviev and A.Izosimov.
-
-### Mar 29 -- no seminar (Good Friday)
-
-### April 5 -- Altan Erdnigor -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction), part II/II
-
-In Hamiltonian mechanics, the phase space is the cotangent bundle $T^* X$ of the configuration space X.  In quantum mechanics, the state space is the Hilbert space of complex valued "wave functions" $L^2(X)$. The theory of geometric quantization attempts to understand the correspondence between $T^* X$ and $L^2(X)$.
-
-Geometric quantization is intricately connected to complex and symplectic geometry, representation theory of Lie groups, the Atiyah-Singer theorem, and more.  In this talk we will delve into these connections in detail following the Ginzburg-Guillemin-Karshon book "Moment maps, cobordisms, and Hamiltonian group actions".
-
-The second talk in this series will focus on linearization in equivariant cobordism, culminating in the proof of the [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction) theorem.
-
-### April 5 -- Bruno Suassuna -- scaling-winding factorization (tropical talk III)
-
-In this short talk, the goal is to discuss rational maps from $( \mathbb{C}^* )^n$ to itself that preserves the usual logarithmic-volume form. For $n=1$, the form is $dz / z$, and for $( \mathbb{C}^* )^n$ we take the product over coordinates $z_1,...,z_n$. For $n=1$, the only rational map that preserves the log-volume form is $f(z) = c z$; there are much more interesting examples for $n>1$. We state the Scaling-Winding Theorem for rational maps which scale the log-volue form and discuss how we can prove it; for this we need to define the naive tropicalization of the map. In analogy with the famous (open) Jacobian Conjecture, we can ask: if a rational endomorphism of $(\mathbb{C}^*)^n$ that preserves the usual log-volume form must be bi-rational. This is not true! We will show a counter-example for $n=2$, which in light of the Scaling-Winding theorem means a rational map from 2 variables to itself, preserving the log-volume form and which has winding number 2.
+### May 5 -- Henrique Bursztyn -- quantization
 
 ### TBA -- Lucas Branco -- Gaiotto Lagrangians 
 
@@ -85,10 +69,13 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## 2024.1 (March 4 -- July 5)
 
-Holidays: March 29, May 31
+Holidays: May 31
 
-- tba -- Altan Erdnigor -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction), part II/II
 - tba -- Lucas Branco -- Gaiotto Lagrangians
+- Apr 19 -- Sergey Galkin -- [Toric geometry](https://en.wikipedia.org/wiki/Toric_variety) primer
+- Apr 12 -- Sergey Galkin -- [Mirror symmetry and Fano manifolds](https://arxiv.org/abs/1212.1722)
+- Apr 5 -- Bruno Suassuna -- Log-volume preserving rational endomorphisms of (C^*)^n
+- Apr 5 -- Altan Erdnigor -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction), part II/II
 - Mar 29 -- [Sexta-Feira da Paixão](https://pt.wikipedia.org/wiki/Sexta-feira_Santa)
 - Mar 27 (Wed) 13h -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
 - Mar 8, 16h -- Altan Erdnigor -- [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization) and Equivariant Topology, part I/II
@@ -210,12 +197,45 @@ Holidays: March 29, May 31
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
-### Apr 5 (TBC) -- **Altan Erdnigor** -- [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization) and Equivariant Topology, part I/II : [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction)
+### April 19 -- **Sergey Galkin** — [Toric geometry](https://en.wikipedia.org/wiki/Toric_variety) primer
+
+Toric geometry (discovered in 1970s-1980s) and its modern generalization in a theory of 
+[Newton-Okounkov bodies] (https://en.wikipedia.org/wiki/Newton%E2%80%93Okounkov_body)
+serve as bridge between two mathematical "worlds"
+
+ — convex geometry, and in toric case —combinatorics and piecewise-linear geometry
+ — "mature" geometries (projective, algebraic, Kähler, symplectic, ...)
+
+The notions of algebraic geometry (projective varieties, affine varieties, schemes, non-normal varieties; ampleness, discrepancies and types of singularities (smooth, terminal, canonical, log-terminal, (Q-)factorial, (Q-)Gorenstein..., Betti numbers) have counterparts in the world of convex and piecewise-linear lattice geometry (rational convex polytopes, rational convex cones, fans, sets in a lattice, convexity, reflexivity, simpliciality or simpleness, Delzant, ..., f-polynomials). 
+
+The bridge has proved to be useful in both directions:
+—  Stanley's proof that [Dehn-Sommerville relations](https://en.wikipedia.org/wiki/Dehn%E2%80%93Sommerville_equations) completely determine possible numbers of faces of a convex simplicial polytope: by associating to each such polytope P a family of toric varieties X and showing that the respective numbers correspond to Betti numbers of (intersection) homology of X. In this light Dehn-Sommervile relations are seen as [Poincaré duality](https://en.wikipedia.org/wiki/Poincar%C3%A9_duality) and [Hard Lefschetz theorem](https://en.wikipedia.org/wiki/Lefschetz_hyperplane_theorem#Hard_Lefschetz_theorem).
+— [Bernstein—Kushnirenko theorem](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Kushnirenko_theorem) (1975) for number of roots of a system of polynomial equations as mixed volume of their Newton polytopes
+— explicit toric MMP, and later the use of birational cobordism and torification techniques to reproof resolution of singularities and [weak facotorization theorem](https://en.wikipedia.org/wiki/Birational_geometry#Fundamental_group_of_smooth_projective_varieties) (AKMW, 2002)
+— Batyrev's construction (and its generalization by Borisov) of trillions of mirror-dual pairs of Calabi-Yau threefolds as resolutions of singularities of hypersurfaces in toric fourfolds associated with reflexive polytopes in 4 dimensions (resp. complete intersections associated with with higher-dimensional polytopes and nef partitions)
+
+I will give basic definitions and sketch a dictionary, proving (or outlining/explaining) the results above.
+
+### April 12 -- **Sergey Galkin** -- [Mirror symmetry and Fano manifolds](https://arxiv.org/abs/1212.1722)
+
+The two topics are modern and classical. Gino Fano studied these manifolds maybe from 1900s (or 1890s) to his death in 1952. Mirror symmetry started in late 1980s and was formulated for Fano manifolds implicitly in  early 1990s, and explicitly in 1996. 
+
+On symplectic side Fano manifolds are known as positive monotone symlpectic manifolds, whose earliest study is Archimedes's construction of a first integrable system of S^2: the one (according to Cicero) depicted on his grave (sphere X cylinder). On the complex side we call the very same S^2 as Riemann sphere, the best studied of all compact Riemann surfaces. Its mirror is the function, z + 1/z, used by Joukowski to engineer the wings of airplanes. Algebraic geometry of the same object goes back to the earliest antiquity — Babylonian mathematics, the Plimpton 322 papyrus (1800 BCE?) with solutions of Pythagorean triplets a^2 + b^2 = c^2, and all that. Two-dimensional (real four-dimensional) Fano manifolds are named after Pasquale del Pezzo, who gave a description of them in 1887, and in 1960s Yuri Manin related them to exceptional lattices E_n. Fano threefolds, that Fano himself studied are related to K3 surfaces and canonical curves of small genus.
+
+As seen through the looking glass, Fano manifolds do not look like spaces, but more like functions! Ginzburg-Landau theory of superconductivity (1950s)  is often cited in this context of mirror symmetry.
+
+I am going to explain what all (or some of) these words mean, what problems are there, why in some sense this always used to be main topics in algebraic and symplectic geomegry, and show a brief demo, so that seminar participants might start doing new discoveries in these fields.
+
+### Apr 5, 16h -- **Bruno Suassuna** -- Log-volume preserving rational endomorphisms of (C^*)^n
+
+In this short talk, the goal is to discuss rational maps from (C^*)^n to itself that preserves the usual logarithmic-volume form. For n=1, the form is dz/z, and for (C^*)^n we take the product over coordinates z_1,...,z_n. For n=1, the only rational map that preserves the log-volume form is f(z) = c z; there are much more interesting examples for n>1. We state the Scaling-Winding Theorem for rational maps which scale the log-volue form and discuss how we can prove it; for this we need to define the naive tropicalization of the map. In analogy with the famous (open) Jacobian Conjecture, we can ask: if a rational endomorphism of (C^*)^n that preserves the usual log-volume form must be bi-rational. This is not true! We will show a counter-example for n=2, which in light of the Scaling-Winding theorem means a rational map from 2 variables to itself, preserving the log-volume form and which has winding number 2.
+
+### Apr 5, 14h -- **Altan Erdnigor** -- [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization) and Equivariant Topology, part I/II : [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction)
 
 The second talk in this series will focus on linearization in equivariant cobordism, culminating in the proof of the [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction) theorem.
 
 
-### Mar 27 (Wednesday, due to rains on Friday) -- [**Boris Khesin**](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
+### Mar 27 (Wednesday) -- [**Boris Khesin**](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
  
 The pentagram map on polygons in the projective plane was introduced by R.Schwartz in 1992 and is by now one of the most popular and classical discrete integrable systems. We survey definitions and integrability properties of the pentagram maps on generic plane polygons and their generalizations to higher dimensions. In particular, we define long-diagonal pentagram maps on polygons in $\mathbf{RP}^d$, encompassing all known integrable cases. We also describe the corresponding continuous limit of such pentagram maps: in dimension d it turns out to be the $(2, d + 1)$-equation of the KdV hierarchy, generalizing the Boussinesq equation in 2D. This is a joint work with F.Soloviev and A.Izosimov.
 
