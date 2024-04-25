@@ -13,7 +13,7 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### April 26 -- Alex Gomez -- on model stuctures,
+### April 26 -- Alex Gomez -- On Model stuctures
 
 In this talk we are going to give a brief introduction to Model categories and present non trivial example.
 
@@ -84,7 +84,7 @@ Holidays: May 31
 - May 10 -- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero): [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics, part I/II.
 - May 3 -- [Henrique Bursztyn](https://w3.impa.br/~henrique): on deformation quantization
 - Apr 26 -- Sergey Galkin -- toric Kähler manifolds, Hessian (dually flat) statistical manifolds, and torification
-- Apr 26 -- Alex Gomez -- model structures
+- Apr 26 -- Alex Gomez -- [Model structures](https://ncatlab.org/nlab/show/model+category)
 - Apr 19 -- Sergey Galkin -- [Toric geometry](https://en.wikipedia.org/wiki/Toric_variety) primer
 - Apr 12 -- Sergey Galkin -- [Mirror symmetry and Fano manifolds](https://arxiv.org/abs/1212.1722)
 - Apr 5 -- Bruno Suassuna -- Log-volume preserving rational endomorphisms of (C^*)^n
