@@ -13,28 +13,32 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### April 26 -- Alex Gomez -- On Model stuctures
+### April 26 -- **Alex Gomez** -- On [model stuctures](https://en.wikipedia.org/wiki/Model_category)
 
-In this talk we are going to give a brief introduction to Model categories and present non trivial example.
+In this talk we are going to give a brief introduction to model categories and present a non-trivial example.
 
-### April 26 -- Sergey Galkin -- information geometry and geometric quantum mechanics, toric Kähler manifolds versus dually flat Hessian statistical manifolds
+### April 26 -- **Altan Erdnigor** -- An overview of Geometric Class Field Theory
 
-After Sasaki, Dombrowski, Cheng-Yau, Delzant, Guillemin, Abreu, Molitor. 
-In particular Molitor's torification, based on Dombrowski's complex structures, Sasaki Kähler metrics, generalization of Delzant theoremn about toric symplectic manifolds, and relation between information geometry and geometric quantum mechanics.
+The Artin's reciprocity law for a function field k(X) for a curve X over a finite field can be interpreted as an isomorphism between the profinite completion of Pic X and abelianization of $\pi_1 X$, the étale fundamental group.  
+I will explain the Deligne's proof of the unramified class field theory via an equivalence of categories of l-adic local systems of rank 1 on X and Pic X with some compatibilities by taking pullback of the Abel-Jacobi map AJ: X -> Pic X.
+Time permitting, we will discuss the ramified, local, and characteristic zero cases of the geometric class field theory.
 
-### April 26 -- Altan Erdnigor -- An overview of Geometric Class Field Theory
+### May 3 -- [**Henrique Bursztyn**](https://w3.impa.br/~henrique/) -- on quantization
 
-The Artin's reciprocity law for a function field k(C) for a curve C over a finite field can be interpreted as an isomorphism between the profinite completion of Pic(C) and \pi_1(C), the étale fundamental group.  
-I will explain the Deligne's proof of the unramified CFT via an equivalence of categories of l-adic local systems of rank 1 on C and Pic(C) with some compatibilities by taking pullback of the Abel-Jacobi map AJ: C -> Pic(C).
-Time permitting, we will discuss the ramified, local, and char=0 cases of the geometric CFT.
+### May 10 -- [**Rafael Ruggiero**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Introdução à teoria da informação. [ Introduction to Information Theory ]
 
-### May 3 -- Henrique Bursztyn -- quantization
-
-### May 10 -- Rafael Ruggiero -- on information geometry, part I/II.
+Apresentamos os fundamentos da teoria da informação: em uma primeira palestra trataremos da informação de Shannon, em uma segunda palestra da geometria da informação de Fisher. A teoria da informação tem aplicações importantes em áreas como as telecomunicações e a estatística paramétrica. As palestras serão acessíveis aos alunos de graduação (um conhecimento basico da geometria de superfícies no espaço Euclidiano seria conveniente para a segunda palestra..) 
 
 ### TBA -- Lucas Branco -- Gaiotto Lagrangians 
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
+
+### TBA -- Sergey Galkin -- information geometry and geometric quantum mechanics, toric Kähler manifolds versus dually flat Hessian statistical manifolds
+
+After Sasaki, Dombrowski, Cheng-Yau, Delzant, Guillemin, Abreu, Molitor. 
+In particular Molitor's torification, based on Dombrowski's complex structures, Sasaki Kähler metrics, generalization of Delzant theoremn about toric symplectic manifolds, and relation between information geometry and geometric quantum mechanics.
+
+
 
 ## we are:
 a research and study group of students and professors from post-graduate mathematics programs of
@@ -86,10 +90,14 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 Holidays: May 31
 
+- tba -- Sergey Galkin -- toric Kähler manifolds, Hessian (dually flat) statistical manifolds, torification, geometric quantum mechanics, and SYZ mirror symmetry
 - tba -- Lucas Branco -- Gaiotto Lagrangians
-- May 10 -- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero): [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics, part I/II: Introduction to Information Theory.
-- May 3 -- [Henrique Bursztyn](https://w3.impa.br/~henrique): on deformation quantization
-- Apr 26 -- Sergey Galkin -- toric Kähler manifolds, Hessian (dually flat) statistical manifolds, and torification
+- May 31 -- [Recesso do Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
+- May 24 -- John Alexander Cruz Morales (tbc)
+- May 17 -- tba
+- May 10 -- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero) -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics. Part I: Introduction to Information Theory.
+- May 3 -- [Henrique Bursztyn](https://w3.impa.br/~henrique) -- on quantization
+- Apr 26 -- Altan Erdnigor -- An overview of [Geometric Class Field Theory](https://en.wikipedia.org/wiki/Geometric_class_field_theory)
 - Apr 26 -- Alex Gomez -- [Model structures](https://ncatlab.org/nlab/show/model+category)
 - Apr 19 -- Sergey Galkin -- [Toric geometry](https://en.wikipedia.org/wiki/Toric_variety) primer
 - Apr 12 -- Sergey Galkin -- [Mirror symmetry and Fano manifolds](https://arxiv.org/abs/1212.1722)
@@ -163,52 +171,6 @@ Holidays: May 31
 - Dec 9 - Alexander Guterman - [Permanents](https://en.wikipedia.org/wiki/Permanent_(mathematics))
 
 
-## what's next: plans for 2024
-
-- [Henrique Bursztyn](https://w3.impa.br/~henrique): deformation quantization
-- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero): [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
-- Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence)
-- Filipe: [affine differential geometry](https://en.wikipedia.org/wiki/Affine_differential_geometry) and [projective differential geometry](https://en.wikipedia.org/wiki/Projective_differential_geometry). [Schwarzian derivative](https://en.wikipedia.org/wiki/Schwarzian_derivative).
-- [Alex Gomez](https://sites.google.com/pucp.edu.pe/alequisgomez): [Torelli's theorem for compact Riemann surfaces](https://en.wikipedia.org/wiki/Torelli_theorem), Henrik H. Martens' proof
-- Altan Erdnigor: a proof of Torelli theorem for curves via [Fourier--Mukai transform](https://en.wikipedia.org/wiki/Fourier%E2%80%93Mukai_transform)
-- Arthur Moreira: domino in 3 dimensions
-- Mukhopadhyaya's [Four-Vertex Theorem](https://en.wikipedia.org/wiki/Four-vertex_theorem) day: Samuel Pacitti Gentil, Petr Pushkar, Filipe, and others (hybrid)
-- Iulia Gorginian: TBA
-- Maxim Smirnov: TBA (online)
-- Misha Verbitsky: special affine Hessian manifolds and Monge-Ampere equation (TBC/TBA)
-- [Israel Vainsencher](https://www.mat.ufmg.br/israel): TBA
-- [Thiago Guerreiro](https://www.researchgate.net/profile/Thiago-Guerreiro):
-    [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect) for mathematicians
-
-
-# some related topics of interest:
-
-- Holomorphic Floer Theory: Kapustin-Rozansky, Kontsevich-Soibelman, [Doan-Rezchikov](https://arxiv.org/abs/2210.12047) (Fueter equations).
-- SUSY, Nahm's theorem on classification of supersymmetry
-- Renormalization in QFT (Quantum Field Theory): Costello's book and Connes-Kreimer's Hopf algebra aproach
-- Combinatorial Physics
-- CFT (Conformal Field Theory). Wess-Zumino-Novikov-Witten model. Verlinde formula. Tsuchiya-Ueno-Yamada construction. Fusion categories.
-- TQFT (Topological QFT), extended TQFT, fully extended TQFT and cobordism hypothesis
-- more applications of holonomic D-modules, perverse sheaves, and Riemann--Hilbert correspondence
-- Hitchin integrable system on moduli of Higgs bundles. Gaudin's model as parabolic genus 0 case. Beilinson-Drinfeld's quantization.
-- Stability, GIT, moduli spaces, Narasimhan-Seshadri theorem
-- Parabolic bundles and Mehta-Seshadri theorem. Relation to moduli spaces of spherical polygons.
-- Moduli spaces of Euclidean polygons, Kapovich-Millson's system of bending flows as a limit of Hitchin system, e.g. after thesis of Fabiola Cordero: [integrable systems on spaces of polygons, matrices and bundles](https://github.com/fabiolacordero/Comparative-study-of-integrable-systems-on-spaces-of-polygons-matrices-and-bundles/blob/main/slide-en.pdf): Hitchin, Gaudin, Garnier, Kapovich-Millson bending flow, Jeffrey-Weitsman, Gelfand-Zetlin, Nishinou-Nohara-Ueda, Manon-Belmans-Galkin-Mukhopadhyay, etc
-- Additive Horn problem, cohomology of Grassmannian, Knutsen-Tao honeycombs and their polytopes, planar networks
-- Multiplicative Horn problem, quantum cohomology of Grassmannian, and the respective polytopes
-- Non-abelian Hodge theory of Carlos Simpson: three invarnations of representations of fundamental group
-- Kapustin--Witten perspective on geometric Langlands as a combination of N=4 SYM, S-duality, compactification on Riemann surface and mirror symmetry. Wilson and t'Hooft operators.
-- geometric Langlands: De Rham (Beilinson--Drinfeld, Arinkin--Gaitsgory) X Dolbeault (Donagi--Pantev) X Betti (Ben-Zvi--Nadler)
-- Atiyah-Floer conjecture and Donaldson-Floer theories
-- [matrix factorizations of a polynomial](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial), Landau-Ginzburg models, singularity category, Khovanov-Rozansky link invariants
-- Gauged Linear Sigma Models and phase transition, VGIT and MMP, Goldstone and Higgs mechanisms of mass generation
-- [semiorthogonal decompositios](https://en.wikipedia.org/wiki/Semiorthogonal_decomposition)
-- [Calabi--Yau theorem](https://en.wikipedia.org/wiki/Calabi_conjecture) and its proof (Nikita Klemyatin, TBC)
-- other research-related topics (add yours)
-
-
-
-
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
@@ -218,11 +180,18 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
 
 ### TBA -- Sergey Galkin -- toric Kähler manifolds versus dually flat Hessian statistical manifolds, after Sasaki, Dombrowski, Cheng-Yau, Delzant, Guillemin, Abreu, Molitor.
 
-### May 10 -- Rafael Ruggiero -- Introdução à teoria da informação. [ Introduction to Information Theory ]
+### May 10 -- [**Rafael Ruggiero**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Introdução à teoria da informação. [ Introduction to Information Theory ]
 
 Apresentamos os fundamentos da teoria da informação: em uma primeira palestra trataremos da informação de Shannon, em uma segunda palestra da geometria da informação de Fisher. A teoria da informação tem aplicações importantes em áreas como as telecomunicações e a estatística paramétrica. As palestras serão acessíveis aos alunos de graduação (um conhecimento basico da geometria de superfícies no espaço Euclidiano seria conveniente para a segunda palestra..) 
 
 ### April 26 -- **Alex Gomez** -- [Model Categories](https://en.wikipedia.org/wiki/Model_category)
+
+### April 26 -- **Altan Erdnigor** -- An overview of Geometric Class Field Theory
+
+The Artin's reciprocity law for a function field k(X) for a curve X over a finite field can be interpreted as an isomorphism between the profinite completion of Pic X and abelianization of $\pi_1 X$, the étale fundamental group.  
+I will explain the Deligne's proof of the unramified class field theory via an equivalence of categories of l-adic local systems of rank 1 on X and Pic X with some compatibilities by taking pullback of the Abel-Jacobi map AJ: X -> Pic X.
+Time permitting, we will discuss the ramified, local, and characteristic zero cases of the geometric class field theory.
+
 
 ### April 19 -- **Sergey Galkin** — [Toric geometry](https://en.wikipedia.org/wiki/Toric_variety) primer
 
@@ -262,7 +231,7 @@ In this short talk, the goal is to discuss rational maps from (C^*)^n to itself 
 The second talk in this series will focus on linearization in equivariant cobordism, culminating in the proof of the [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction) theorem.
 
 
-### Mar 27 (Wednesday) -- [**Boris Khesin**](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
+### Mar 27 (Wed) -- [**Boris Khesin**](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
  
 The pentagram map on polygons in the projective plane was introduced by R.Schwartz in 1992 and is by now one of the most popular and classical discrete integrable systems. We survey definitions and integrability properties of the pentagram maps on generic plane polygons and their generalizations to higher dimensions. In particular, we define long-diagonal pentagram maps on polygons in $\mathbf{RP}^d$, encompassing all known integrable cases. We also describe the corresponding continuous limit of such pentagram maps: in dimension d it turns out to be the $(2, d + 1)$-equation of the KdV hierarchy, generalizing the Boussinesq equation in 2D. This is a joint work with F.Soloviev and A.Izosimov.
 
@@ -444,7 +413,7 @@ In many physical problems the small parameter $h$ appears in the PDE and sometim
 
 We will describe some of the main applications and ideas in operad theory, including recognition principle, [Koszul duality](https://en.wikipedia.org/wiki/Koszul_duality), formality of little disks and [deformation quantization](https://en.wikipedia.org/wiki/Wigner–Weyl_transform#Deformation_quantization), [Grothendieck—Teichmuller theory](https://ncatlab.org/nlab/show/Grothendieck-Teichmüller+tower), and theory of [homotopy coherent structures](https://en.wikipedia.org/wiki/Coherency_(homotopy_theory)).
 
-## June 2, 14h -- **Rodrigo Matos** -- Irreducibility of the Bloch and Fermi varieties on periodic media and connections to spectral theory. (an introduction to [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) (Fermi Varieties), Bloch Varieties, and an interface of algebraic geometry, spectral theory and mathematical physics)
+## June 2, 14h -- [**Rodrigo Matos**](https://sites.google.com/view/rodrigomatos/) -- Irreducibility of the Bloch and Fermi varieties on periodic media and connections to spectral theory. (an introduction to [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) (Fermi Varieties), Bloch Varieties, and an interface of algebraic geometry, spectral theory and mathematical physics)
 
 The structure of the dispersion relation is one of the central aspects to the study of periodic Schrödinger operators. 
 
@@ -553,4 +522,49 @@ The talk is based on the joint work with M.V. Budrevich.
 
 - A.R. Kräuter, Recent results on permanents of (+1, -1)-matrices, Ber. No. 249, Berichte, 243-254, Forschungszentrum Graz, Graz, 1985.
 - E.T.H. Wang, On permanents of (+1, -1)-matrices, Israel J. Math., **18**, 1974, 353-361.
+
+
+
+## what's next: plans for 2024
+
+- [Henrique Bursztyn](https://w3.impa.br/~henrique): deformation quantization
+- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero): [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
+- Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence)
+- Filipe: [affine differential geometry](https://en.wikipedia.org/wiki/Affine_differential_geometry) and [projective differential geometry](https://en.wikipedia.org/wiki/Projective_differential_geometry). [Schwarzian derivative](https://en.wikipedia.org/wiki/Schwarzian_derivative).
+- [Alex Gomez](https://sites.google.com/pucp.edu.pe/alequisgomez): [Torelli's theorem for compact Riemann surfaces](https://en.wikipedia.org/wiki/Torelli_theorem), Henrik H. Martens' proof
+- Altan Erdnigor: a proof of Torelli theorem for curves via [Fourier--Mukai transform](https://en.wikipedia.org/wiki/Fourier%E2%80%93Mukai_transform)
+- Arthur Moreira: domino in 3 dimensions
+- Mukhopadhyaya's [Four-Vertex Theorem](https://en.wikipedia.org/wiki/Four-vertex_theorem) day: Samuel Pacitti Gentil, Petr Pushkar, Filipe, and others (hybrid)
+- Iulia Gorginian: TBA
+- Maxim Smirnov: TBA (online)
+- Misha Verbitsky: special affine Hessian manifolds and Monge-Ampere equation (TBC/TBA)
+- [Israel Vainsencher](https://www.mat.ufmg.br/israel): TBA
+- [Thiago Guerreiro](https://www.researchgate.net/profile/Thiago-Guerreiro):
+    [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect) for mathematicians
+
+
+# some related topics of interest:
+
+- Holomorphic Floer Theory: Kapustin-Rozansky, Kontsevich-Soibelman, [Doan-Rezchikov](https://arxiv.org/abs/2210.12047) (Fueter equations).
+- SUSY, Nahm's theorem on classification of supersymmetry
+- Renormalization in QFT (Quantum Field Theory): Costello's book and Connes-Kreimer's Hopf algebra aproach
+- Combinatorial Physics
+- CFT (Conformal Field Theory). Wess-Zumino-Novikov-Witten model. Verlinde formula. Tsuchiya-Ueno-Yamada construction. Fusion categories.
+- TQFT (Topological QFT), extended TQFT, fully extended TQFT and cobordism hypothesis
+- more applications of holonomic D-modules, perverse sheaves, and Riemann--Hilbert correspondence
+- Hitchin integrable system on moduli of Higgs bundles. Gaudin's model as parabolic genus 0 case. Beilinson-Drinfeld's quantization.
+- Stability, GIT, moduli spaces, Narasimhan-Seshadri theorem
+- Parabolic bundles and Mehta-Seshadri theorem. Relation to moduli spaces of spherical polygons.
+- Moduli spaces of Euclidean polygons, Kapovich-Millson's system of bending flows as a limit of Hitchin system, e.g. after thesis of Fabiola Cordero: [integrable systems on spaces of polygons, matrices and bundles](https://github.com/fabiolacordero/Comparative-study-of-integrable-systems-on-spaces-of-polygons-matrices-and-bundles/blob/main/slide-en.pdf): Hitchin, Gaudin, Garnier, Kapovich-Millson bending flow, Jeffrey-Weitsman, Gelfand-Zetlin, Nishinou-Nohara-Ueda, Manon-Belmans-Galkin-Mukhopadhyay, etc
+- Additive Horn problem, cohomology of Grassmannian, Knutsen-Tao honeycombs and their polytopes, planar networks
+- Multiplicative Horn problem, quantum cohomology of Grassmannian, and the respective polytopes
+- Non-abelian Hodge theory of Carlos Simpson: three invarnations of representations of fundamental group
+- Kapustin--Witten perspective on geometric Langlands as a combination of N=4 SYM, S-duality, compactification on Riemann surface and mirror symmetry. Wilson and t'Hooft operators.
+- geometric Langlands: De Rham (Beilinson--Drinfeld, Arinkin--Gaitsgory) X Dolbeault (Donagi--Pantev) X Betti (Ben-Zvi--Nadler)
+- Atiyah-Floer conjecture and Donaldson-Floer theories
+- [matrix factorizations of a polynomial](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial), Landau-Ginzburg models, singularity category, Khovanov-Rozansky link invariants
+- Gauged Linear Sigma Models and phase transition, VGIT and MMP, Goldstone and Higgs mechanisms of mass generation
+- [semiorthogonal decompositios](https://en.wikipedia.org/wiki/Semiorthogonal_decomposition)
+- [Calabi--Yau theorem](https://en.wikipedia.org/wiki/Calabi_conjecture) and its proof (Nikita Klemyatin, TBC)
+- other research-related topics (add yours)
 
