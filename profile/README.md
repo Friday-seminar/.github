@@ -87,7 +87,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 Holidays: May 31
 
 - tba -- Lucas Branco -- Gaiotto Lagrangians
-- May 10 -- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero): [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics, part I/II.
+- May 10 -- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero): [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics, part I/II: Introduction to Information Theory.
 - May 3 -- [Henrique Bursztyn](https://w3.impa.br/~henrique): on deformation quantization
 - Apr 26 -- Sergey Galkin -- toric Kähler manifolds, Hessian (dually flat) statistical manifolds, and torification
 - Apr 26 -- Alex Gomez -- [Model structures](https://ncatlab.org/nlab/show/model+category)
@@ -216,7 +216,11 @@ Holidays: May 31
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
-## April 26 -- Sergey Galkin -- toric Kähler manifolds versus dually flat Hessian statistical manifolds, after Sasaki, Dombrowski, Cheng-Yau, Delzant, Guillemin, Abreu, Molitor.
+### TBA -- Sergey Galkin -- toric Kähler manifolds versus dually flat Hessian statistical manifolds, after Sasaki, Dombrowski, Cheng-Yau, Delzant, Guillemin, Abreu, Molitor.
+
+### May 10 -- Rafael Ruggiero -- Introdução à teoria da informação. [ Introduction to Information Theory ]
+
+Apresentamos os fundamentos da teoria da informação: em uma primeira palestra trataremos da informação de Shannon, em uma segunda palestra da geometria da informação de Fisher. A teoria da informação tem aplicações importantes em áreas como as telecomunicações e a estatística paramétrica. As palestras serão acessíveis aos alunos de graduação (um conhecimento basico da geometria de superfícies no espaço Euclidiano seria conveniente para a segunda palestra..) 
 
 ### April 26 -- **Alex Gomez** -- [Model Categories](https://en.wikipedia.org/wiki/Model_category)
 
