@@ -22,6 +22,12 @@ In this talk we are going to give a brief introduction to Model categories and p
 After Sasaki, Dombrowski, Cheng-Yau, Delzant, Guillemin, Abreu, Molitor. 
 In particular Molitor's torification, based on Dombrowski's complex structures, Sasaki Kähler metrics, generalization of Delzant theoremn about toric symplectic manifolds, and relation between information geometry and geometric quantum mechanics.
 
+### An overview of Geometric Class Field Theory
+
+The Artin's reciprocity law for a function field k(C) for a curve C over a finite field can be interpreted as an isomorphism between the profinite completion of Pic(C) and \pi_1(C), the étale fundamental group.  
+I will explain the Deligne's proof of the unramified CFT via an equivalence of categories of l-adic local systems of rank 1 on C and Pic(C) with some compatibilities by taking pullback of the Abel-Jacobi map AJ: C -> Pic(C).
+Time permitting, we will discuss the ramified, local, and char=0 cases of the geometric CFT.
+
 ### May 3 -- Henrique Bursztyn -- quantization
 
 ### May 10 -- Rafael Ruggiero -- on information geometry, part I/II.
