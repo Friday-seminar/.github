@@ -13,7 +13,9 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### April 26 -- Alex Gomez -- on model stuctures and localicazion,
+### April 26 -- Alex Gomez -- on model stuctures,
+
+In this talk we are going to give a brief introduction to Model categories and present non trivial example.
 
 ### April 26 -- Sergey Galkin -- information geometry and geometric quantum mechanics, toric Kähler manifolds versus dually flat Hessian statistical manifolds
 
