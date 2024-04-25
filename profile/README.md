@@ -15,7 +15,7 @@
 
 ### April 26 -- Alex Gomez -- on model stuctures and localicazion,
 
-## April 26 -- Sergey Galkin -- information geometry and geometric quantum mechanics, toric Kähler manifolds versus dually flat Hessian statistical manifolds
+### April 26 -- Sergey Galkin -- information geometry and geometric quantum mechanics, toric Kähler manifolds versus dually flat Hessian statistical manifolds
 
 After Sasaki, Dombrowski, Cheng-Yau, Delzant, Guillemin, Abreu, Molitor. 
 In particular Molitor's torification, based on Dombrowski's complex structures, Sasaki Kähler metrics, generalization of Delzant theoremn about toric symplectic manifolds, and relation between information geometry and geometric quantum mechanics.
