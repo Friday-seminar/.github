@@ -13,9 +13,16 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### April 26 -- Alex, Sergey
+### April 26 -- Alex Gomez -- on model stuctures and localicazion,
 
-### May 5 -- Henrique Bursztyn -- quantization
+## April 26 -- Sergey Galkin -- information geometry and geometric quantum mechanics, toric Kähler manifolds versus dually flat Hessian statistical manifolds
+
+After Sasaki, Dombrowski, Cheng-Yau, Delzant, Guillemin, Abreu, Molitor. 
+In particular Molitor's torification, based on Dombrowski's complex structures, Sasaki Kähler metrics, generalization of Delzant theoremn about toric symplectic manifolds, and relation between information geometry and geometric quantum mechanics.
+
+### May 3 -- Henrique Bursztyn -- quantization
+
+### May 10 -- Rafael Ruggiero -- on information geometry, part I/II.
 
 ### TBA -- Lucas Branco -- Gaiotto Lagrangians 
 
@@ -72,6 +79,10 @@ interesting themes and topics for next seminar talks, references, slides of the 
 Holidays: May 31
 
 - tba -- Lucas Branco -- Gaiotto Lagrangians
+- May 10 -- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero): [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics, part I/II.
+- May 3 -- [Henrique Bursztyn](https://w3.impa.br/~henrique): on deformation quantization
+- Apr 26 -- Sergey Galkin -- toric Kähler manifolds, Hessian (dually flat) statistical manifolds, and torification
+- Apr 26 -- Alex Gomez -- model structures
 - Apr 19 -- Sergey Galkin -- [Toric geometry](https://en.wikipedia.org/wiki/Toric_variety) primer
 - Apr 12 -- Sergey Galkin -- [Mirror symmetry and Fano manifolds](https://arxiv.org/abs/1212.1722)
 - Apr 5 -- Bruno Suassuna -- Log-volume preserving rational endomorphisms of (C^*)^n
@@ -196,6 +207,10 @@ Holidays: May 31
 ### TBA -- **Lucas Branco** -- Gaiotto Lagrangians 
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
+
+## April 26 -- Sergey Galkin -- toric Kähler manifolds versus dually flat Hessian statistical manifolds, after Sasaki, Dombrowski, Cheng-Yau, Delzant, Guillemin, Abreu, Molitor.
+
+### April 26 -- **Alex Gomez** -- [Model Categories](https://en.wikipedia.org/wiki/Model_category)
 
 ### April 19 -- **Sergey Galkin** — [Toric geometry](https://en.wikipedia.org/wiki/Toric_variety) primer
 
