@@ -19,7 +19,7 @@ In this talk we are going to give a brief introduction to model categories and p
 
 ### April 26 -- **Altan Erdnigor** -- An overview of Geometric Class Field Theory
 
-The Artin's reciprocity law for a function field k(X) for a curve X over a finite field can be interpreted as an isomorphism between the profinite completion of Pic X and abelianization of $\pi_1 X$, the étale fundamental group.  
+The Artin's reciprocity law for a function field k(X) for a curve X over a finite field can be interpreted as an isomorphism between the profinite completion of Pic X and abelianization of $\pi_1 (X)$, the étale fundamental group.  
 I will explain the Deligne's proof of the unramified class field theory via an equivalence of categories of l-adic local systems of rank 1 on X and Pic X with some compatibilities by taking pullback of the Abel-Jacobi map AJ: X -> Pic X.
 Time permitting, we will discuss the ramified, local, and characteristic zero cases of the geometric class field theory.
 
