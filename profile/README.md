@@ -27,9 +27,12 @@ In this talk we are going to give a brief introduction to model categories and p
 
 ### May 3 -- [**Henrique Bursztyn**](https://w3.impa.br/~henrique/) -- on quantization
 
-### May 10 -- [**Rafael Ruggiero**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Introdução à teoria da informação. [ Introduction to Information Theory ]
+### May 10 -- [**Rafael Ruggiero**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Introdução à [teoria da informação](https://pt.wikipedia.org/wiki/Teoria_da_informação). / Introduction to [Information Theory](https://en.wikipedia.org/wiki/Information_theory)
 
-Apresentamos os fundamentos da teoria da informação: em uma primeira palestra trataremos da informação de Shannon, em uma segunda palestra da geometria da informação de Fisher. A teoria da informação tem aplicações importantes em áreas como as telecomunicações e a estatística paramétrica. As palestras serão acessíveis aos alunos de graduação (um conhecimento basico da geometria de superfícies no espaço Euclidiano seria conveniente para a segunda palestra..) 
+Apresentamos os fundamentos da teoria da informação:
+em uma primeira palestra trataremos da [informação de Shannon](https://en.wikipedia.org/wiki/Entropy_(information_theory)),
+em uma segunda palestra da [geometria](https://en.wikipedia.org/wiki/Information_geometry) da [informação de Fisher](https://en.wikipedia.org/wiki/Fisher_information). A teoria da informação tem aplicações importantes em áreas como as telecomunicações e a [estatística paramétrica](https://en.wikipedia.org/wiki/Parametric_statistics). 
+As palestras serão acessíveis aos alunos de graduação (um conhecimento basico da geometria de superfícies no espaço Euclidiano seria conveniente para a segunda palestra). 
 
 ### May 24 -- **John Alexander Cruz Morales** -- Revisiting mirror maps: model theory, arithmetic and geometry.
 
@@ -99,6 +102,7 @@ Holidays: May 31
 - May 31 -- [Recesso do Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - May 24 -- John Alexander Cruz Morales -- Revisiting mirror maps: model theory, arithmetic and geometry.
 - May 17 -- tba
+- May 10 -- [Rafael Ruggiero](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Introdução à [teoria da informação](https://pt.wikipedia.org/wiki/Teoria_da_informação). / Introduction to [Information Theory](https://en.wikipedia.org/wiki/Information_theory)
 - May 10 -- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero) -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics. Part I: Introduction to Information Theory.
 - May 3 -- [Henrique Bursztyn](https://w3.impa.br/~henrique) -- on quantization
 - Apr 26 -- Altan Erdnigor -- An overview of [Geometric Class Field Theory](https://en.wikipedia.org/wiki/Geometric_class_field_theory)
@@ -190,9 +194,14 @@ In this talk I will discuss some speculative ideas (work in progress) about the 
 
 ### May 17 -- TBA
 
-### May 10 -- [**Rafael Ruggiero**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Introdução à teoria da informação. [ Introduction to Information Theory ]
+### May 10 -- [**Rafael Ruggiero**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Introdução à [teoria da informação](https://pt.wikipedia.org/wiki/Teoria_da_informação). / Introduction to [Information Theory](https://en.wikipedia.org/wiki/Information_theory)
 
-Apresentamos os fundamentos da teoria da informação: em uma primeira palestra trataremos da informação de Shannon, em uma segunda palestra da geometria da informação de Fisher. A teoria da informação tem aplicações importantes em áreas como as telecomunicações e a estatística paramétrica. As palestras serão acessíveis aos alunos de graduação (um conhecimento basico da geometria de superfícies no espaço Euclidiano seria conveniente para a segunda palestra..) 
+Apresentamos os fundamentos da teoria da informação:
+em uma primeira palestra trataremos da [informação de Shannon](https://en.wikipedia.org/wiki/Entropy_(information_theory)),
+em uma segunda palestra da [geometria](https://en.wikipedia.org/wiki/Information_geometry)
+da [informação de Fisher](https://en.wikipedia.org/wiki/Fisher_information).
+A teoria da informação tem aplicações importantes em áreas como as telecomunicações e a [estatística paramétrica](https://en.wikipedia.org/wiki/Parametric_statistics). 
+As palestras serão acessíveis aos alunos de graduação (um conhecimento basico da geometria de superfícies no espaço Euclidiano seria conveniente para a segunda palestra). 
 
 ### April 26 -- **Alex Gomez** -- [Model Structures](https://en.wikipedia.org/wiki/Model_category)
 
