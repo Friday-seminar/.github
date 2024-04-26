@@ -29,14 +29,16 @@ Time permitting, we will discuss the ramified, local, and characteristic zero ca
 
 Apresentamos os fundamentos da teoria da informação: em uma primeira palestra trataremos da informação de Shannon, em uma segunda palestra da geometria da informação de Fisher. A teoria da informação tem aplicações importantes em áreas como as telecomunicações e a estatística paramétrica. As palestras serão acessíveis aos alunos de graduação (um conhecimento basico da geometria de superfícies no espaço Euclidiano seria conveniente para a segunda palestra..) 
 
+### May 24 -- **John Alexander Cruz Morales** -- Revisiting mirror maps: model theory, arithmetic and geometry.
+
+In this talk I will discuss some speculative ideas (work in progress) about the study of mirror maps for Calabi-Yau hypersurfaces from the perspective of model theory (a branch of mathematical logic). I will propose that some of the arithmetic and geometric properties of those mirror maps can be understood from purely model theoretic concepts like categoricity. The case of elliptic curves will be discussed in detail since it is the motivation of my proposal.  No knowledge of model theory will be assumed so I will introduce the notions needed for the talk.
+
 ### TBA -- Lucas Branco -- Gaiotto Lagrangians 
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
-### TBA -- Sergey Galkin -- information geometry and geometric quantum mechanics, toric Kähler manifolds versus dually flat Hessian statistical manifolds
+### TBA -- Sergey Galkin -- SYZ, information geometry and geometric quantum mechanics, toric Kähler manifolds versus dually flat Hessian statistical manifolds
 
-After Sasaki, Dombrowski, Cheng-Yau, Delzant, Guillemin, Abreu, Molitor. 
-In particular Molitor's torification, based on Dombrowski's complex structures, Sasaki Kähler metrics, generalization of Delzant theoremn about toric symplectic manifolds, and relation between information geometry and geometric quantum mechanics.
 
 
 
@@ -93,7 +95,7 @@ Holidays: May 31
 - tba -- Sergey Galkin -- toric Kähler manifolds, Hessian (dually flat) statistical manifolds, torification, geometric quantum mechanics, and SYZ mirror symmetry
 - tba -- Lucas Branco -- Gaiotto Lagrangians
 - May 31 -- [Recesso do Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
-- May 24 -- John Alexander Cruz Morales (tbc)
+- May 24 -- John Alexander Cruz Morales -- Revisiting mirror maps: model theory, arithmetic and geometry.
 - May 17 -- tba
 - May 10 -- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero) -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics. Part I: Introduction to Information Theory.
 - May 3 -- [Henrique Bursztyn](https://w3.impa.br/~henrique) -- on quantization
@@ -179,6 +181,12 @@ Holidays: May 31
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
 ### TBA -- Sergey Galkin -- toric Kähler manifolds versus dually flat Hessian statistical manifolds, after Sasaki, Dombrowski, Cheng-Yau, Delzant, Guillemin, Abreu, Molitor.
+
+### May 24 -- **John Alexander Cruz Morales** -- Revisiting mirror maps: model theory, arithmetic and geometry.
+
+In this talk I will discuss some speculative ideas (work in progress) about the study of mirror maps for Calabi-Yau hypersurfaces from the perspective of model theory (a branch of mathematical logic). I will propose that some of the arithmetic and geometric properties of those mirror maps can be understood from purely model theoretic concepts like categoricity. The case of elliptic curves will be discussed in detail since it is the motivation of my proposal.  No knowledge of model theory will be assumed so I will introduce the notions needed for the talk.
+
+### May 17 -- TBA
 
 ### May 10 -- [**Rafael Ruggiero**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Introdução à teoria da informação. [ Introduction to Information Theory ]
 
