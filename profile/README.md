@@ -15,10 +15,9 @@
 
 ### April 26 -- **Altan Erdnigor** -- An overview of [Geometric Class Field Theory](https://en.wikipedia.org/wiki/Geometric_class_field_theory)
 
-The Artin's reciprocity law for a function field $k(X)$ for a curve $X$ over a finite field $k$ can be interpreted as an isomorphism between the profinite completion of $Pic(X)$ and $\pi_1^{ab}(X)$, the abelinization of the étale fundamental group.  
-I will explain the Deligne's proof of the Artin's reciprocity law in the unramified case via an equivalence of categories of l-adic local systems of rank one on $X$ and $Pic(X)$ with some compatibilities by taking the pullback of the Abel-Jacobi map $AJ: X \mapsto Pic(X)$.
+The [Artin reciprocity law](https://en.wikipedia.org/wiki/Artin_reciprocity) for a function field of a curve over a finite field can be interpreted as an isomorphism between the pro-finite completion of its Picard group and its abelianized étale fundamental group.  
+I will explain the Deligne's proof of the Artin's reciprocity law in the unramified case via an equivalence of categories of l-adic local systems of rank one on the curve and its Picard variety with some compatibilities by taking the pullback of the Abel-Jacobi map.
 Time permitting, we will discuss ramified, local, and characteristic zero versions of geometric class field theory.
-
 
 ### April 26 -- **Alex Gomez** -- [Model stuctures](https://en.wikipedia.org/wiki/Model_category)
 
@@ -202,8 +201,8 @@ In this talk we are going to give a brief introduction to model categories and p
 
 ### April 26 -- **Altan Erdnigor** -- An overview of [Geometric Class Field Theory](https://en.wikipedia.org/wiki/Geometric_class_field_theory)
 
-The Artin's reciprocity law for a function field $k(X)$ for a curve $X$ over a finite field $k$ can be interpreted as an isomorphism between the profinite completion of $Pic(X)$ and $\pi_1^{ab}(X)$, the abelinization of the étale fundamental group.  
-I will explain the Deligne's proof of the Artin's reciprocity law in the unramified case via an equivalence of categories of l-adic local systems of rank one on $X$ and $Pic(X)$ with some compatibilities by taking the pullback of the Abel-Jacobi map $AJ: X \mapsto Pic(X)$.
+The [Artin reciprocity law](https://en.wikipedia.org/wiki/Artin_reciprocity) for a function field of a curve over a finite field can be interpreted as an isomorphism between the pro-finite completion of its Picard group and its abelianized étale fundamental group.  
+I will explain the Deligne's proof of the Artin's reciprocity law in the unramified case via an equivalence of categories of l-adic local systems of rank one on the curve and its Picard variety with some compatibilities by taking the pullback of the Abel-Jacobi map.
 Time permitting, we will discuss ramified, local, and characteristic zero versions of geometric class field theory.
 
 ### April 19 -- **Sergey Galkin** — [Toric geometry](https://en.wikipedia.org/wiki/Toric_variety) primer
