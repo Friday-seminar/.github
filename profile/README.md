@@ -13,15 +13,18 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### April 26 -- **Alex Gomez** -- On [model stuctures](https://en.wikipedia.org/wiki/Model_category)
+### April 26 -- **Altan Erdnigor** -- An overview of [Geometric Class Field Theory](https://en.wikipedia.org/wiki/Geometric_class_field_theory)
+
+The Artin's reciprocity law for a function field $k(X)$ for a curve $X$ over a finite field $k$ can be interpreted as an isomorphism between the profinite completion of $Pic(X)$ and $\pi_1^{ab}(X)$, the abelinization of the étale fundamental group.  
+I will explain the Deligne's proof of the Artin's reciprocity law in the unramified case via an equivalence of categories of l-adic local systems of rank one on $X$ and $Pic(X)$ with some compatibilities by taking the pullback of the Abel-Jacobi map $AJ: X \mapsto Pic(X)$.
+Time permitting, we will discuss ramified, local, and characteristic zero versions of geometric class field theory.
+
+
+### April 26 -- **Alex Gomez** -- [Model stuctures](https://en.wikipedia.org/wiki/Model_category)
 
 In this talk we are going to give a brief introduction to model categories and present a non-trivial example.
 
-### April 26 -- **Altan Erdnigor** -- An overview of Geometric Class Field Theory
 
-The Artin's reciprocity law for a function field k(X) for a curve X over a finite field can be interpreted as an isomorphism between the profinite completion of Pic X and abelianization of $\pi_1 (X)$, the étale fundamental group.  
-I will explain the Deligne's proof of the unramified class field theory via an equivalence of categories of l-adic local systems of rank 1 on X and Pic X with some compatibilities by taking pullback of the Abel-Jacobi map AJ: X -> Pic X.
-Time permitting, we will discuss the ramified, local, and characteristic zero cases of the geometric class field theory.
 
 ### May 3 -- [**Henrique Bursztyn**](https://w3.impa.br/~henrique/) -- on quantization
 
@@ -192,14 +195,16 @@ In this talk I will discuss some speculative ideas (work in progress) about the 
 
 Apresentamos os fundamentos da teoria da informação: em uma primeira palestra trataremos da informação de Shannon, em uma segunda palestra da geometria da informação de Fisher. A teoria da informação tem aplicações importantes em áreas como as telecomunicações e a estatística paramétrica. As palestras serão acessíveis aos alunos de graduação (um conhecimento basico da geometria de superfícies no espaço Euclidiano seria conveniente para a segunda palestra..) 
 
-### April 26 -- **Alex Gomez** -- [Model Categories](https://en.wikipedia.org/wiki/Model_category)
+### April 26 -- **Alex Gomez** -- [Model Structures](https://en.wikipedia.org/wiki/Model_category)
 
-### April 26 -- **Altan Erdnigor** -- An overview of Geometric Class Field Theory
+In this talk we are going to give a brief introduction to model categories and present a non-trivial example.
 
-The Artin's reciprocity law for a function field k(X) for a curve X over a finite field can be interpreted as an isomorphism between the profinite completion of Pic X and abelianization of $\pi_1 X$, the étale fundamental group.  
-I will explain the Deligne's proof of the unramified class field theory via an equivalence of categories of l-adic local systems of rank 1 on X and Pic X with some compatibilities by taking pullback of the Abel-Jacobi map AJ: X -> Pic X.
-Time permitting, we will discuss the ramified, local, and characteristic zero cases of the geometric class field theory.
 
+### April 26 -- **Altan Erdnigor** -- An overview of [Geometric Class Field Theory](https://en.wikipedia.org/wiki/Geometric_class_field_theory)
+
+The Artin's reciprocity law for a function field $k(X)$ for a curve $X$ over a finite field $k$ can be interpreted as an isomorphism between the profinite completion of $Pic(X)$ and $\pi_1^{ab}(X)$, the abelinization of the étale fundamental group.  
+I will explain the Deligne's proof of the Artin's reciprocity law in the unramified case via an equivalence of categories of l-adic local systems of rank one on $X$ and $Pic(X)$ with some compatibilities by taking the pullback of the Abel-Jacobi map $AJ: X \mapsto Pic(X)$.
+Time permitting, we will discuss ramified, local, and characteristic zero versions of geometric class field theory.
 
 ### April 19 -- **Sergey Galkin** — [Toric geometry](https://en.wikipedia.org/wiki/Toric_variety) primer
 
