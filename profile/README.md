@@ -13,19 +13,11 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### April 26 -- **Altan Erdnigor** -- An overview of [Geometric Class Field Theory](https://en.wikipedia.org/wiki/Geometric_class_field_theory)
 
-The [Artin reciprocity law](https://en.wikipedia.org/wiki/Artin_reciprocity) for a function field of a curve over a finite field can be interpreted as an isomorphism between the pro-finite completion of its Picard group and its abelianized étale fundamental group.  
-I will explain the Deligne's proof of the Artin's reciprocity law in the unramified case via an equivalence of categories of l-adic local systems of rank one on the curve and its Picard variety with some compatibilities by taking the pullback of the Abel-Jacobi map.
-Time permitting, we will discuss ramified, local, and characteristic zero versions of geometric class field theory.
+### May 3 -- [**Henrique Bursztyn**](https://w3.impa.br/~henrique/) -- On [deformation quantization](https://en.wikipedia.org/wiki/Wigner–Weyl_transform#Deformation_quantization)
 
-### April 26 -- **Alex Gomez** -- [Model stuctures](https://en.wikipedia.org/wiki/Model_category)
+This (informal) talk will introduce and discuss various aspects of deformation quantization, including its motivation, existence and classification of [star products](https://en.wikipedia.org/wiki/Moyal_product), and [Morita equivalence](https://en.wikipedia.org/wiki/Morita_equivalence).
 
-In this talk we are going to give a brief introduction to model categories and present a non-trivial example.
-
-
-
-### May 3 -- [**Henrique Bursztyn**](https://w3.impa.br/~henrique/) -- on quantization
 
 ### May 10 -- [**Rafael Ruggiero**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Introdução à [teoria da informação](https://pt.wikipedia.org/wiki/Teoria_da_informação). / Introduction to [Information Theory](https://en.wikipedia.org/wiki/Information_theory)
 
@@ -104,7 +96,7 @@ Holidays: May 31
 - May 17 -- tba
 - May 10 -- [Rafael Ruggiero](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Introdução à [teoria da informação](https://pt.wikipedia.org/wiki/Teoria_da_informação). / Introduction to [Information Theory](https://en.wikipedia.org/wiki/Information_theory)
 - May 10 -- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero) -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics. Part I: Introduction to Information Theory.
-- May 3 -- [Henrique Bursztyn](https://w3.impa.br/~henrique) -- on quantization
+- May 3 -- [Henrique Bursztyn](https://w3.impa.br/~henrique) -- On [deformation quantization](https://en.wikipedia.org/wiki/Wigner–Weyl_transform#Deformation_quantization)
 - Apr 26 -- Altan Erdnigor -- An overview of [Geometric Class Field Theory](https://en.wikipedia.org/wiki/Geometric_class_field_theory)
 - Apr 26 -- Alex Gomez -- [Model structures](https://ncatlab.org/nlab/show/model+category)
 - Apr 19 -- Sergey Galkin -- [Toric geometry](https://en.wikipedia.org/wiki/Toric_variety) primer
@@ -202,6 +194,10 @@ em uma segunda palestra da [geometria](https://en.wikipedia.org/wiki/Information
 da [informação de Fisher](https://en.wikipedia.org/wiki/Fisher_information).
 A teoria da informação tem aplicações importantes em áreas como as telecomunicações e a [estatística paramétrica](https://en.wikipedia.org/wiki/Parametric_statistics). 
 As palestras serão acessíveis aos alunos de graduação (um conhecimento basico da geometria de superfícies no espaço Euclidiano seria conveniente para a segunda palestra). 
+
+### May 3 -- [**Henrique Bursztyn**](https://w3.impa.br/~henrique/) -- On [deformation quantization](https://en.wikipedia.org/wiki/Wigner–Weyl_transform#Deformation_quantization)
+
+This (informal) talk will introduce and discuss various aspects of deformation quantization, including its motivation, existence and classification of [star products](https://en.wikipedia.org/wiki/Moyal_product), and [Morita equivalence](https://en.wikipedia.org/wiki/Morita_equivalence).
 
 ### April 26 -- **Alex Gomez** -- [Model Structures](https://en.wikipedia.org/wiki/Model_category)
 
