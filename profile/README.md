@@ -89,8 +89,7 @@ Holidays: May 31
 - May 31 -- [Recesso do Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - May 24 -- John Alexander Cruz Morales -- Revisiting mirror maps: model theory, arithmetic and geometry.
 - May 17 -- Lucas Castello Branco -- Gaiotto Lagrangians
-- May 10 -- [Rafael Ruggiero](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Introdução à [teoria da informação](https://pt.wikipedia.org/wiki/Teoria_da_informação). / Introduction to [Information Theory](https://en.wikipedia.org/wiki/Information_theory)
-- May 10 -- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero) -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics. Part I: Introduction to Information Theory.
+- May 10 -- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero) -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics. Part I: Introduction to [Information Theory](https://en.wikipedia.org/wiki/Information_theory).
 - May 3 -- [Henrique Bursztyn](https://w3.impa.br/~henrique) -- On [deformation quantization](https://en.wikipedia.org/wiki/Wigner–Weyl_transform#Deformation_quantization)
 - Apr 26 -- Altan Erdnigor -- An overview of [Geometric Class Field Theory](https://en.wikipedia.org/wiki/Geometric_class_field_theory)
 - Apr 26 -- Alex Gomez -- [Model structures](https://ncatlab.org/nlab/show/model+category)
