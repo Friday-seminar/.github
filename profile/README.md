@@ -14,10 +14,6 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-### May 3 -- [**Henrique Bursztyn**](https://w3.impa.br/~henrique/) -- On [deformation quantization](https://en.wikipedia.org/wiki/Wigner–Weyl_transform#Deformation_quantization)
-
-This (informal) talk will introduce and discuss various aspects of deformation quantization, including its motivation, existence and classification of [star products](https://en.wikipedia.org/wiki/Moyal_product), and [Morita equivalence](https://en.wikipedia.org/wiki/Morita_equivalence).
-
 
 ### May 10 -- [**Rafael Ruggiero**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Introdução à [teoria da informação](https://pt.wikipedia.org/wiki/Teoria_da_informação). / Introduction to [Information Theory](https://en.wikipedia.org/wiki/Information_theory)
 
@@ -90,10 +86,9 @@ interesting themes and topics for next seminar talks, references, slides of the 
 Holidays: May 31
 
 - tba -- Sergey Galkin -- toric Kähler manifolds, Hessian (dually flat) statistical manifolds, torification, geometric quantum mechanics, and SYZ mirror symmetry
-- tba -- Lucas Branco -- Gaiotto Lagrangians
 - May 31 -- [Recesso do Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - May 24 -- John Alexander Cruz Morales -- Revisiting mirror maps: model theory, arithmetic and geometry.
-- May 17 -- tba
+- May 17 -- Lucas Castello Branco -- Gaiotto Lagrangians
 - May 10 -- [Rafael Ruggiero](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Introdução à [teoria da informação](https://pt.wikipedia.org/wiki/Teoria_da_informação). / Introduction to [Information Theory](https://en.wikipedia.org/wiki/Information_theory)
 - May 10 -- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero) -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics. Part I: Introduction to Information Theory.
 - May 3 -- [Henrique Bursztyn](https://w3.impa.br/~henrique) -- On [deformation quantization](https://en.wikipedia.org/wiki/Wigner–Weyl_transform#Deformation_quantization)
