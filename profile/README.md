@@ -15,20 +15,22 @@
 
 
 
-### May 10 -- [**Rafael Ruggiero**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Introdução à [teoria da informação](https://pt.wikipedia.org/wiki/Teoria_da_informação). / Introduction to [Information Theory](https://en.wikipedia.org/wiki/Information_theory)
+### May 17, 14h -- [**Rafael Ruggiero**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- [Fisher information](https://en.wikipedia.org/wiki/Fisher_information) and [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry)
 
 Apresentamos os fundamentos da teoria da informação:
 em uma primeira palestra trataremos da [informação de Shannon](https://en.wikipedia.org/wiki/Entropy_(information_theory)),
 em uma segunda palestra da [geometria](https://en.wikipedia.org/wiki/Information_geometry) da [informação de Fisher](https://en.wikipedia.org/wiki/Fisher_information). A teoria da informação tem aplicações importantes em áreas como as telecomunicações e a [estatística paramétrica](https://en.wikipedia.org/wiki/Parametric_statistics). 
 As palestras serão acessíveis aos alunos de graduação (um conhecimento basico da geometria de superfícies no espaço Euclidiano seria conveniente para a segunda palestra). 
 
+### May 17, 16h -- Lucas Castello Branco -- Gaiotto Lagrangians 
+
+Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
+
+
 ### May 24 -- **John Alexander Cruz Morales** -- Revisiting mirror maps: model theory, arithmetic and geometry.
 
 In this talk I will discuss some speculative ideas (work in progress) about the study of mirror maps for Calabi-Yau hypersurfaces from the perspective of model theory (a branch of mathematical logic). I will propose that some of the arithmetic and geometric properties of those mirror maps can be understood from purely model theoretic concepts like categoricity. The case of elliptic curves will be discussed in detail since it is the motivation of my proposal.  No knowledge of model theory will be assumed so I will introduce the notions needed for the talk.
 
-### TBA -- Lucas Branco -- Gaiotto Lagrangians 
-
-Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
 ### TBA -- Sergey Galkin -- SYZ, information geometry and geometric quantum mechanics, toric Kähler manifolds versus dually flat Hessian statistical manifolds
 
@@ -88,7 +90,8 @@ Holidays: May 31
 - tba -- Sergey Galkin -- toric Kähler manifolds, Hessian (dually flat) statistical manifolds, torification, geometric quantum mechanics, and SYZ mirror symmetry
 - May 31 -- [Recesso do Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - May 24 -- John Alexander Cruz Morales -- Revisiting mirror maps: model theory, arithmetic and geometry.
-- May 17 -- Lucas Castello Branco -- Gaiotto Lagrangians
+- May 17, 16h -- Lucas Castello Branco -- Gaiotto Lagrangians
+- May 17, 14h -- [Rafael Ruggiero](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- [Fisher information](https://en.wikipedia.org/wiki/Fisher_information) and [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry)
 - May 10 -- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero) -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics. Part I: Introduction to [Information Theory](https://en.wikipedia.org/wiki/Information_theory).
 - May 3 -- [Henrique Bursztyn](https://w3.impa.br/~henrique) -- On [deformation quantization](https://en.wikipedia.org/wiki/Wigner–Weyl_transform#Deformation_quantization)
 - Apr 26 -- Altan Erdnigor -- An overview of [Geometric Class Field Theory](https://en.wikipedia.org/wiki/Geometric_class_field_theory)
@@ -157,7 +160,6 @@ Holidays: May 31
 - Apr 7 - holiday - [Sexta-feira da Paixão](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - Mar 31 - [Jacques Pienaar](https://www.jaypienaar.com) - [QBism](https://en.wikipedia.org/wiki/Quantum_Bayesianism)
 - Mar 24 - Bruno Suassuna - [formal perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory) for stochastic paths
-- Mar 22, 17:00 - Bruno, Graham, Sergey, Veronika, Victor - free discussion
 
 ## 2022.2
 
@@ -168,9 +170,6 @@ Holidays: May 31
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
-### TBA -- **Lucas Branco** -- Gaiotto Lagrangians 
-
-Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
 ### TBA -- Sergey Galkin -- toric Kähler manifolds versus dually flat Hessian statistical manifolds, after Sasaki, Dombrowski, Cheng-Yau, Delzant, Guillemin, Abreu, Molitor.
 
@@ -178,9 +177,11 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
 
 In this talk I will discuss some speculative ideas (work in progress) about the study of mirror maps for Calabi-Yau hypersurfaces from the perspective of model theory (a branch of mathematical logic). I will propose that some of the arithmetic and geometric properties of those mirror maps can be understood from purely model theoretic concepts like categoricity. The case of elliptic curves will be discussed in detail since it is the motivation of my proposal.  No knowledge of model theory will be assumed so I will introduce the notions needed for the talk.
 
-### May 17 -- TBA
+### May 17 -- **Lucas Castello Branco** -- Gaiotto Lagrangians 
 
-### May 10 -- [**Rafael Ruggiero**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Introdução à [teoria da informação](https://pt.wikipedia.org/wiki/Teoria_da_informação). / Introduction to [Information Theory](https://en.wikipedia.org/wiki/Information_theory)
+Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
+
+### May 10, 17 -- [**Rafael Ruggiero**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Introdução à [teoria da informação](https://pt.wikipedia.org/wiki/Teoria_da_informação). / Introduction to [Information Theory](https://en.wikipedia.org/wiki/Information_theory)
 
 Apresentamos os fundamentos da teoria da informação:
 em uma primeira palestra trataremos da [informação de Shannon](https://en.wikipedia.org/wiki/Entropy_(information_theory)),
