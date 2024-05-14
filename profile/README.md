@@ -13,16 +13,30 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-
+### May 17 -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) Friday (Rafael and Sergey)
 
 ### May 17, 14h -- [**Rafael Ruggiero**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- [Fisher information](https://en.wikipedia.org/wiki/Fisher_information) and [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry)
 
 Apresentamos os fundamentos da teoria da informação:
 em uma primeira palestra trataremos da [informação de Shannon](https://en.wikipedia.org/wiki/Entropy_(information_theory)),
 em uma segunda palestra da [geometria](https://en.wikipedia.org/wiki/Information_geometry) da [informação de Fisher](https://en.wikipedia.org/wiki/Fisher_information). A teoria da informação tem aplicações importantes em áreas como as telecomunicações e a [estatística paramétrica](https://en.wikipedia.org/wiki/Parametric_statistics). 
-As palestras serão acessíveis aos alunos de graduação (um conhecimento basico da geometria de superfícies no espaço Euclidiano seria conveniente para a segunda palestra). 
+As palestras serão acessíveis aos alunos de graduação (um conhecimento basico da geometria de superfícies no espaço Euclidiano seria conveniente para a segunda palestra).
 
-### May 17, 16h -- Lucas Castello Branco -- Gaiotto Lagrangians 
+### May 17, 16h -- **Sergey Galkin** -- More [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry): Amari-Chentsov tensor, [exponential families](https://en.wikipedia.org/wiki/Exponential_family), dually flat geometry and related topics
+
+In the previous talk, Rafael introduced [Fisher-Rao metric](http://www.scholarpedia.org/article/Fisher-Rao_metric),
+a differential geometric Riemannian structure on parametric families of measures formalized by Fisher's student C.R. Rao in 1945.
+Extending further this geometrization, in late 1960s Nikolay Chentsov and independently Shun-Ichi Amari discovered other geometric structure: a cubic symmetric tensor that now bears their name and a family (pencil) of affine (and usually non-metric) connections, known as Chentsov connections. Two particular connections in this family are sometimes referred to as an exponential (e-) connection and mixture (m-) connection thanks to the origin of their first discovery. Efron (1975) emphasized the role of curvature of these connections in statistical problems, in particular explained that exponential families
+behave well because they are e-flat. Lauritzen in 1987 formalized appearing geometric structure (of (Fisher) metric and (Chentsov-Amari) cubic tensor)
+as so-called statistical manifold, which in itself is very general, but in the case of exponential families simplifies. The resulting geometric
+structure is known by many names and independently appears in various mathematical contexts as dually flat manifold or Hessian Riemannian manifold,
+its geometry includes one of simple 'explanations' of Legendre transform. By work of Sasaki (1958) and Dombrowski (1962) they are related to
+toric Kähler manifolds, and this complexification in some sense reflects a contrast between 'usual' probability theory with real non-negative probabilities
+and complex amplitudes of quantum mechanics, with so-called 'geometric quantum mechanics' developing this analogy further. More recently a special class of them, known as special Hessian manifolds. were discovered by McLean, Strominger-Yau-Zaslow and Hitchin as a natural geometric structure on the base of special Lagrangian fibration (Kontsevich-Soibelman dubbed them Monge-Ampere manifolds). Another very special class of examples are Frobenius manifolds in the sense of Dubrovin (early 1990s) that prominently appear in VHS formulations of mirror symmetry, and originally discovered as flat structures of Kyoji Saito in late 1970s in study of quotient and more general singularities and their versal deformations. Based on the talk by Rafael, in this following talk I will introduce mentioned geometric structures and will explain mentioned constructions and some detailed examples.
+
+
+
+### May 24 -- Lucas Castello Branco -- Gaiotto Lagrangians 
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
@@ -32,7 +46,6 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
 In this talk I will discuss some speculative ideas (work in progress) about the study of mirror maps for Calabi-Yau hypersurfaces from the perspective of model theory (a branch of mathematical logic). I will propose that some of the arithmetic and geometric properties of those mirror maps can be understood from purely model theoretic concepts like categoricity. The case of elliptic curves will be discussed in detail since it is the motivation of my proposal.  No knowledge of model theory will be assumed so I will introduce the notions needed for the talk.
 
 
-### TBA -- Sergey Galkin -- SYZ, information geometry and geometric quantum mechanics, toric Kähler manifolds versus dually flat Hessian statistical manifolds
 
 
 
@@ -90,7 +103,8 @@ Holidays: May 31
 - tba -- Sergey Galkin -- toric Kähler manifolds, Hessian (dually flat) statistical manifolds, torification, geometric quantum mechanics, and SYZ mirror symmetry
 - May 31 -- [Recesso do Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - May 24 -- John Alexander Cruz Morales -- Revisiting mirror maps: model theory, arithmetic and geometry.
-- May 17, 16h -- Lucas Castello Branco -- Gaiotto Lagrangians
+- May 24 -- Lucas Castello Branco -- Gaiotto Lagrangians
+- May 17, 16h -- Sergey Galkin -- More [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry): Amari-Chentsov tensor, [exponential families](https://en.wikipedia.org/wiki/Exponential_family), dually flat geometry and related topics
 - May 17, 14h -- [Rafael Ruggiero](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- [Fisher information](https://en.wikipedia.org/wiki/Fisher_information) and [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry)
 - May 10 -- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero) -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics. Part I: Introduction to [Information Theory](https://en.wikipedia.org/wiki/Information_theory).
 - May 3 -- [Henrique Bursztyn](https://w3.impa.br/~henrique) -- On [deformation quantization](https://en.wikipedia.org/wiki/Wigner–Weyl_transform#Deformation_quantization)
@@ -177,9 +191,21 @@ Holidays: May 31
 
 In this talk I will discuss some speculative ideas (work in progress) about the study of mirror maps for Calabi-Yau hypersurfaces from the perspective of model theory (a branch of mathematical logic). I will propose that some of the arithmetic and geometric properties of those mirror maps can be understood from purely model theoretic concepts like categoricity. The case of elliptic curves will be discussed in detail since it is the motivation of my proposal.  No knowledge of model theory will be assumed so I will introduce the notions needed for the talk.
 
-### May 17 -- **Lucas Castello Branco** -- Gaiotto Lagrangians 
+### May 24 -- **Lucas Castello Branco** -- Gaiotto Lagrangians 
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
+
+### May 17, 16h -- **Sergey Galkin** -- More [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry): Amari-Chentsov tensor, [exponential families](https://en.wikipedia.org/wiki/Exponential_family), dually flat geometry and related topics
+
+In the previous talk, Rafael introduced [Fisher-Rao metric](http://www.scholarpedia.org/article/Fisher-Rao_metric),
+a differential geometric Riemannian structure on parametric families of measures formalized by Fisher's student C.R. Rao in 1945.
+Extending further this geometrization, in late 1960s Nikolay Chentsov and independently Shun-Ichi Amari discovered other geometric structure: a cubic symmetric tensor that now bears their name and a family (pencil) of affine (and usually non-metric) connections, known as Chentsov connections. Two particular connections in this family are sometimes referred to as an exponential (e-) connection and mixture (m-) connection thanks to the origin of their first discovery. Efron (1975) emphasized the role of curvature of these connections in statistical problems, in particular explained that exponential families
+behave well because they are e-flat. Lauritzen in 1987 formalized appearing geometric structure (of (Fisher) metric and (Chentsov-Amari) cubic tensor)
+as so-called statistical manifold, which in itself is very general, but in the case of exponential families simplifies. The resulting geometric
+structure is known by many names and independently appears in various mathematical contexts as dually flat manifold or Hessian Riemannian manifold,
+its geometry includes one of simple 'explanations' of Legendre transform. By work of Sasaki (1958) and Dombrowski (1962) they are related to
+toric Kähler manifolds, and this complexification in some sense reflects a contrast between 'usual' probability theory with real non-negative probabilities
+and complex amplitudes of quantum mechanics, with so-called 'geometric quantum mechanics' developing this analogy further. More recently a special class of them, known as special Hessian manifolds. were discovered by McLean, Strominger-Yau-Zaslow and Hitchin as a natural geometric structure on the base of special Lagrangian fibration (Kontsevich-Soibelman dubbed them Monge-Ampere manifolds). Another very special class of examples are Frobenius manifolds in the sense of Dubrovin (early 1990s) that prominently appear in VHS formulations of mirror symmetry, and originally discovered as flat structures of Kyoji Saito in late 1970s in study of quotient and more general singularities and their versal deformations. Based on the talk by Rafael, in this following talk I will introduce mentioned geometric structures and will explain mentioned constructions and some detailed examples.
 
 ### May 10, 17 -- [**Rafael Ruggiero**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Introdução à [teoria da informação](https://pt.wikipedia.org/wiki/Teoria_da_informação). / Introduction to [Information Theory](https://en.wikipedia.org/wiki/Information_theory)
 
