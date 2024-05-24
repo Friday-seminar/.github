@@ -13,28 +13,6 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### May 17 -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) Friday (Rafael and Sergey)
-
-### May 17, 14h -- [**Rafael Ruggiero**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- [Fisher information](https://en.wikipedia.org/wiki/Fisher_information) and [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry)
-
-Apresentamos os fundamentos da teoria da informação:
-em uma primeira palestra trataremos da [informação de Shannon](https://en.wikipedia.org/wiki/Entropy_(information_theory)),
-em uma segunda palestra da [geometria](https://en.wikipedia.org/wiki/Information_geometry) da [informação de Fisher](https://en.wikipedia.org/wiki/Fisher_information). A teoria da informação tem aplicações importantes em áreas como as telecomunicações e a [estatística paramétrica](https://en.wikipedia.org/wiki/Parametric_statistics). 
-As palestras serão acessíveis aos alunos de graduação (um conhecimento basico da geometria de superfícies no espaço Euclidiano seria conveniente para a segunda palestra).
-
-### May 17, 16h -- **Sergey Galkin** -- More [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry): Amari-Chentsov tensor, [exponential families](https://en.wikipedia.org/wiki/Exponential_family), dually flat geometry and related topics
-
-In the previous talk, Rafael introduced [Fisher-Rao metric](http://www.scholarpedia.org/article/Fisher-Rao_metric),
-a differential geometric Riemannian structure on parametric families of measures formalized by Fisher's student C.R. Rao in 1945.
-Extending further this geometrization, in late 1960s Nikolay Chentsov and independently Shun-Ichi Amari discovered other geometric structure: a cubic symmetric tensor that now bears their name and a family (pencil) of affine (and usually non-metric) connections, known as Chentsov connections. Two particular connections in this family are sometimes referred to as an exponential (e-) connection and mixture (m-) connection thanks to the origin of their first discovery. Efron (1975) emphasized the role of curvature of these connections in statistical problems, in particular explained that exponential families
-behave well because they are e-flat. Lauritzen in 1987 formalized appearing geometric structure (of (Fisher) metric and (Chentsov-Amari) cubic tensor)
-as so-called statistical manifold, which in itself is very general, but in the case of exponential families simplifies. The resulting geometric
-structure is known by many names and independently appears in various mathematical contexts as dually flat manifold or Hessian Riemannian manifold,
-its geometry includes one of simple 'explanations' of Legendre transform. By work of Sasaki (1958) and Dombrowski (1962) they are related to
-toric Kähler manifolds, and this complexification in some sense reflects a contrast between 'usual' probability theory with real non-negative probabilities
-and complex amplitudes of quantum mechanics, with so-called 'geometric quantum mechanics' developing this analogy further. More recently a special class of them, known as special Hessian manifolds. were discovered by McLean, Strominger-Yau-Zaslow and Hitchin as a natural geometric structure on the base of special Lagrangian fibration (Kontsevich-Soibelman dubbed them Monge-Ampere manifolds). Another very special class of examples are Frobenius manifolds in the sense of Dubrovin (early 1990s) that prominently appear in VHS formulations of mirror symmetry, and originally discovered as flat structures of Kyoji Saito in late 1970s in study of quotient and more general singularities and their versal deformations. Based on the talk by Rafael, in this following talk I will introduce mentioned geometric structures and will explain mentioned constructions and some detailed examples.
-
-
 
 ### May 24 -- Lucas Castello Branco -- Gaiotto Lagrangians 
 
