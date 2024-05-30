@@ -14,15 +14,13 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-### May 24 -- Lucas Castello Branco -- Gaiotto Lagrangians 
+### June 7, 14 -- TBA
+
+## June 21 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
+
+### TBA -- Lucas Castello Branco -- Gaiotto Lagrangians 
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
-
-
-### May 24 -- **John Alexander Cruz Morales** -- Revisiting mirror maps: model theory, arithmetic and geometry.
-
-In this talk I will discuss some speculative ideas (work in progress) about the study of mirror maps for Calabi-Yau hypersurfaces from the perspective of model theory (a branch of mathematical logic). I will propose that some of the arithmetic and geometric properties of those mirror maps can be understood from purely model theoretic concepts like categoricity. The case of elliptic curves will be discussed in detail since it is the motivation of my proposal.  No knowledge of model theory will be assumed so I will introduce the notions needed for the talk.
-
 
 
 
@@ -79,6 +77,11 @@ interesting themes and topics for next seminar talks, references, slides of the 
 Holidays: May 31
 
 - tba -- Sergey Galkin -- toric Kähler manifolds, Hessian (dually flat) statistical manifolds, torification, geometric quantum mechanics, and SYZ mirror symmetry
+- July 5, 12 -- Thomas Bitoun
+- June 28 -- tba
+- June 21 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
+- June 14 -- tbc (deformation theory of holomorphic symplectic manifolds)
+- June 7 -- tbc (Frobenius manifolds in mirror symmetry)
 - May 31 -- [Recesso do Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - May 24 -- John Alexander Cruz Morales -- Revisiting mirror maps: model theory, arithmetic and geometry.
 - May 24 -- Lucas Castello Branco -- Gaiotto Lagrangians
@@ -162,16 +165,21 @@ Holidays: May 31
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
+### TBA -- **Lucas Castello Branco** -- Gaiotto Lagrangians
+
+Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
 ### TBA -- Sergey Galkin -- toric Kähler manifolds versus dually flat Hessian statistical manifolds, after Sasaki, Dombrowski, Cheng-Yau, Delzant, Guillemin, Abreu, Molitor.
 
-### May 24 -- **John Alexander Cruz Morales** -- Revisiting mirror maps: model theory, arithmetic and geometry.
+## June 21 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
+
+### May 24, 16h -- **John Alexander Cruz Morales** -- Revisiting mirror maps: model theory, arithmetic and geometry.
 
 In this talk I will discuss some speculative ideas (work in progress) about the study of mirror maps for Calabi-Yau hypersurfaces from the perspective of model theory (a branch of mathematical logic). I will propose that some of the arithmetic and geometric properties of those mirror maps can be understood from purely model theoretic concepts like categoricity. The case of elliptic curves will be discussed in detail since it is the motivation of my proposal.  No knowledge of model theory will be assumed so I will introduce the notions needed for the talk.
 
-### May 24 -- **Lucas Castello Branco** -- Gaiotto Lagrangians 
+### May 24, 14h -- **Lucas Castello Branco** -- Geometric Quantization and Hitchin connection
 
-Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
+I’ll explain some introductory aspects of Geometric Quantization and its relation to a projectively flat connection called Hitchin connection.Gaiotto Lagrangians 
 
 ### May 17, 16h -- **Sergey Galkin** -- More [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry): Amari-Chentsov tensor, [exponential families](https://en.wikipedia.org/wiki/Exponential_family), dually flat geometry and related topics
 
