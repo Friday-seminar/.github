@@ -77,7 +77,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 Holidays: May 31
 
 - tba -- Sergey Galkin -- toric Kähler manifolds, Hessian (dually flat) statistical manifolds, torification, geometric quantum mechanics, and SYZ mirror symmetry
-- July 5, 12 -- Thomas Bitoun
+- July 12 or 19 -- [Thomas Bitoun](https://sites.google.com/view/thomasbitoun/home)
 - June 28 -- tba
 - June 21 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
 - June 14 -- tbc (deformation theory of holomorphic symplectic manifolds)
