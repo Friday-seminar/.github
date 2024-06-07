@@ -78,6 +78,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - tba -- deformation theory of holomorphic symplectic manifolds
 - tba -- Frobenius manifolds in mirror symmetry
 - July 12 or 19 -- [Thomas Bitoun](https://sites.google.com/view/thomasbitoun/home)
+- July 5 -- tba
 - June 28 -- tba
 - June 21 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem), also CRANED @ PUC
 - June 14 -- joint symplectic seminar in UFRJ
