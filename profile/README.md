@@ -14,15 +14,15 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-### June 7, 14 -- TBA
+### June 7 -- Altan Erdnigor -- geometric class field theory, part II
 
-## June 21 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
+### June 14 -- Joint Symplectic Seminar in UFRJ
+
+### June 21 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
 
 ### TBA -- Lucas Castello Branco -- Gaiotto Lagrangians 
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
-
-### TBA -- Altan -- geometric class field theory, part II
 
 
 
@@ -72,19 +72,19 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Schedule
 
-## 2024.1 (March 4 -- July 5)
+## 2024.1 (March 4 -- July 5), and July 2024
 
-Holidays: May 31
-
-- tba -- Sergey Galkin -- toric Kähler manifolds, Hessian (dually flat) statistical manifolds, torification, geometric quantum mechanics, and SYZ mirror symmetry
+- tba -- toric Kähler manifolds, Hessian (dually flat) statistical manifolds, torification, geometric quantum mechanics, and SYZ mirror symmetry
+- tba -- deformation theory of holomorphic symplectic manifolds
+- tba -- Frobenius manifolds in mirror symmetry
 - July 12 or 19 -- [Thomas Bitoun](https://sites.google.com/view/thomasbitoun/home)
 - June 28 -- tba
-- June 21 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
-- June 14 -- tbc (deformation theory of holomorphic symplectic manifolds)
-- June 7 -- tbc (Frobenius manifolds in mirror symmetry)
+- June 21 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem), also CRANED @ PUC
+- June 14 -- joint symplectic seminar in UFRJ
+- June 7 -- Altan Erdnigor -- geometric class field theory, part II
 - May 31 -- [Recesso do Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
-- May 24 -- John Alexander Cruz Morales -- Revisiting mirror maps: model theory, arithmetic and geometry.
-- May 24 -- Lucas Castello Branco -- Gaiotto Lagrangians
+- May 24 -- John Alexander Cruz Morales -- Revisiting mirror maps: model theory, arithmetic and geometry
+- May 24 -- Lucas Castello Branco -- Geometric Quantization and Hitchin connection
 - May 17, 16h -- Sergey Galkin -- More [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry): Amari-Chentsov tensor, [exponential families](https://en.wikipedia.org/wiki/Exponential_family), dually flat geometry and related topics
 - May 17, 14h -- [Rafael Ruggiero](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- [Fisher information](https://en.wikipedia.org/wiki/Fisher_information) and [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry)
 - May 10 -- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero) -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics. Part I: Introduction to [Information Theory](https://en.wikipedia.org/wiki/Information_theory).
@@ -172,6 +172,8 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
 ### TBA -- Sergey Galkin -- toric Kähler manifolds versus dually flat Hessian statistical manifolds, after Sasaki, Dombrowski, Cheng-Yau, Delzant, Guillemin, Abreu, Molitor.
 
 ## June 21 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
+
+### June 7 -- Altan Erdnigor -- geometric class field theory, part II
 
 ### May 24, 16h -- **John Alexander Cruz Morales** -- Revisiting mirror maps: model theory, arithmetic and geometry.
 
