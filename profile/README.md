@@ -13,7 +13,6 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-
 ### June 7 -- Altan Erdnigor -- geometric class field theory, part II
 
 ### June 14 -- [Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio/home) in UFRJ
