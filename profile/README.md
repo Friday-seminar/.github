@@ -13,13 +13,13 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### June 7 -- Altan Erdnigor -- geometric class field theory, part II
 
-### June 14 -- [Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio/home) in UFRJ
+### June 21 -- Graham Smith -- The many lives of the [sinh-Gordon equation](https://en.wikipedia.org/wiki/Sine-Gordon_equation#Related_equations)
 
-### June 21 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
+The sinh-Gordon equation is given by $Δ u = sinh(u)$. This seemingly unpresupposing chap has often found himself at the centre of the most unexpected mathematical adventures. In this talk, we will relate only a portion of his life and his deeds.
 
-### June 21 -- Graham Smith
+### June 28 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
+
 
 ### TBA -- Lucas Castello Branco -- Gaiotto Lagrangians 
 
@@ -78,12 +78,11 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - tba -- toric Kähler manifolds, Hessian (dually flat) statistical manifolds, torification, geometric quantum mechanics, and SYZ mirror symmetry
 - tba -- deformation theory of holomorphic symplectic manifolds
 - tba -- Frobenius manifolds in mirror symmetry
-- July 12 or 19 -- [Thomas Bitoun](https://sites.google.com/view/thomasbitoun/home)
+- July 12 -- [Thomas Bitoun](https://sites.google.com/view/thomasbitoun/home)
 - July 5 -- tba
-- June 28 -- tba
-- June 21 -- Graham Smith
-- June 21 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem), also CRANED @ PUC
-- June 14 -- joint symplectic seminar in UFRJ
+- June 28 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
+- June 21, 16h -- Graham Smith -- The many lives of the [sinh-Gordon equation](https://en.wikipedia.org/wiki/Sine-Gordon_equation#Related_equations), also CRANED @ PUC
+- June 14 -- no seminar, [Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio/home) in UFRJ
 - June 7 -- Altan Erdnigor -- geometric class field theory, part II
 - May 31 -- [Recesso do Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - May 24 -- John Alexander Cruz Morales -- Revisiting mirror maps: model theory, arithmetic and geometry
@@ -174,11 +173,13 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
 
 ### TBA -- Sergey Galkin -- toric Kähler manifolds versus dually flat Hessian statistical manifolds, after Sasaki, Dombrowski, Cheng-Yau, Delzant, Guillemin, Abreu, Molitor.
 
-### June 21 -- Graham Smith
+## June 28 -- **Alex Gomez** -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
 
-## June 21 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
+### June 21 -- **Graham Smith** -- The many lives of the [sinh-Gordon equation](https://en.wikipedia.org/wiki/Sine-Gordon_equation#Related_equations)
 
-### June 7 -- Altan Erdnigor -- geometric class field theory, part II
+The sinh-Gordon equation is given by $Δ u = sinh(u)$. This seemingly unpresupposing chap has often found himself at the centre of the most unexpected mathematical adventures. In this talk, we will relate only a portion of his life and his deeds.
+
+### June 7 -- **Altan Erdnigor** -- geometric class field theory, part II
 
 ### May 24, 16h -- **John Alexander Cruz Morales** -- Revisiting mirror maps: model theory, arithmetic and geometry.
 
