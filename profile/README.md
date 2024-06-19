@@ -18,8 +18,9 @@
 
 The sinh-Gordon equation is given by $Δ u = sinh(u)$. This seemingly unpresupposing chap has often found himself at the centre of the most unexpected mathematical adventures. In this talk, we will relate only a portion of his life and his deeds.
 
-### June 28 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
+### July 5 -- Alex Gomez -- [Mordel-Weil theorem for abelian varieties](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
 
+In this talk, I will make a fast overview about complex tori and abelian varieties. In concretely, we are going to discuss the preliminaries for proving Mordell-Weil theorem and doing it at the end. If the time let us, I will state and make some comments about Mordell Conjecture a.k.a. Faltings theorem.
 
 ### TBA -- Lucas Castello Branco -- Gaiotto Lagrangians 
 
@@ -79,8 +80,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - tba -- deformation theory of holomorphic symplectic manifolds
 - tba -- Frobenius manifolds in mirror symmetry
 - July 12 -- [Thomas Bitoun](https://sites.google.com/view/thomasbitoun/home)
-- July 5 -- tba
-- June 28 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
+- July 5 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
+- June 28 -- TBA
 - June 21, 16h -- Graham Smith -- The many lives of the [sinh-Gordon equation](https://en.wikipedia.org/wiki/Sine-Gordon_equation#Related_equations), also CRANED @ PUC
 - June 14 -- no seminar, [Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio/home) in UFRJ
 - June 7 -- Altan Erdnigor -- geometric class field theory, part II
