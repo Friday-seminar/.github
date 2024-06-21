@@ -18,6 +18,8 @@
 
 The sinh-Gordon equation is given by $Δ u = sinh(u)$. This seemingly unpresupposing chap has often found himself at the centre of the most unexpected mathematical adventures. In this talk, we will relate only a portion of his life and his deeds.
 
+### June 28 -- John Alexander Cruz Morales -- Frobenius algebroids
+
 ### July 5 -- Alex Gomez -- [Mordel-Weil theorem for abelian varieties](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
 
 In this talk, I will make a fast overview about complex tori and abelian varieties. In concretely, we are going to discuss the preliminaries for proving Mordell-Weil theorem and doing it at the end. If the time let us, I will state and make some comments about Mordell Conjecture a.k.a. Faltings theorem.
@@ -81,7 +83,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - tba -- Frobenius manifolds in mirror symmetry
 - July 12 -- [Thomas Bitoun](https://sites.google.com/view/thomasbitoun/home)
 - July 5 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
-- June 28 -- TBA
+- June 28 -- John Alexander Cruz Morales -- Frobenius algebroids
 - June 21, 16h -- Graham Smith -- The many lives of the [sinh-Gordon equation](https://en.wikipedia.org/wiki/Sine-Gordon_equation#Related_equations), also CRANED @ PUC
 - June 14 -- no seminar, [Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio/home) in UFRJ
 - June 7 -- Altan Erdnigor -- geometric class field theory, part II
@@ -175,6 +177,8 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
 ### TBA -- Sergey Galkin -- toric Kähler manifolds versus dually flat Hessian statistical manifolds, after Sasaki, Dombrowski, Cheng-Yau, Delzant, Guillemin, Abreu, Molitor.
 
 ## July 5 -- **Alex Gomez** -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
+
+### June 28 -- **John Alexander Cruz Morales** -- Frobenius algebroids
 
 ### June 21 -- **Graham Smith** -- The many lives of the [sinh-Gordon equation](https://en.wikipedia.org/wiki/Sine-Gordon_equation#Related_equations)
 
