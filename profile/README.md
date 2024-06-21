@@ -24,6 +24,8 @@ The sinh-Gordon equation is given by $Δ u = sinh(u)$. This seemingly unpresuppo
 
 In this talk, I will make a fast overview about complex tori and abelian varieties. In concretely, we are going to discuss the preliminaries for proving Mordell-Weil theorem and doing it at the end. If the time let us, I will state and make some comments about Mordell Conjecture a.k.a. Faltings theorem.
 
+### July 12 -- [Thomas Bitoun](https://sites.google.com/view/thomasbitoun/home)
+
 ### TBA -- Lucas Castello Branco -- Gaiotto Lagrangians 
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
