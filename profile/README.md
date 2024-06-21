@@ -559,7 +559,6 @@ The talk is based on the joint work with M.V. Budrevich.
 
 ## what's next: plans for 2024
 
-- [Henrique Bursztyn](https://w3.impa.br/~henrique): deformation quantization
 - [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero): [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
 - Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence)
 - Filipe: [affine differential geometry](https://en.wikipedia.org/wiki/Affine_differential_geometry) and [projective differential geometry](https://en.wikipedia.org/wiki/Projective_differential_geometry). [Schwarzian derivative](https://en.wikipedia.org/wiki/Schwarzian_derivative).
