@@ -14,11 +14,7 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-### June 21 -- Graham Smith -- The many lives of the [sinh-Gordon equation](https://en.wikipedia.org/wiki/Sine-Gordon_equation#Related_equations)
-
-The sinh-Gordon equation is given by $Δ u = sinh(u)$. This seemingly unpresupposing chap has often found himself at the centre of the most unexpected mathematical adventures. In this talk, we will relate only a portion of his life and his deeds.
-
-### June 28 -- John Alexander Cruz Morales -- Frobenius algebroids
+### June 28, 14h -- John Alexander Cruz Morales -- Frobenius algebroids
 
 ### July 5 -- Alex Gomez -- [Mordel-Weil theorem for abelian varieties](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
 
