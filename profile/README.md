@@ -16,7 +16,7 @@
 
 ### June 28, 14h -- John Alexander Cruz Morales -- Frobenius algebroids
 
-### June 28, 14h -- Bruno Suassuna -- Complex compact manifolds with affine structure are non-kahler (except for some finite coverings of tori) 
+### June 28, 16h -- Bruno Suassuna -- Complex compact manifolds with affine structure are non-kahler (except for some finite coverings of tori) 
 
 The main goal of this talk is to discuss a proof of the claim above. More precisely we will prove that: if a complex manifold M is compact, admits complex affine structure and admits kahler structure, then M must admit a flat Riemannian metric. A proof can be found in a [Mathoverflow post](https://mathoverflow.net/questions/323451/compact-complex-affine-kähler-manifold-is-a-torus), so this fact is well-known.
 
