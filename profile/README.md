@@ -16,6 +16,14 @@
 
 ### June 28, 14h -- John Alexander Cruz Morales -- Frobenius algebroids
 
+### June 28, 14h -- Bruno Suassuna -- Complex compact manifolds with affine structure are non-kahler (except for some finite coverings of tori) 
+
+The main goal of this talk is to discuss a proof of the claim above. More precisely we will prove that: if a complex manifold M is compact, admits complex affine structure and admits kahler structure, then M must admit a flat Riemannian metric. A proof can be found in a [Mathoverflow post](https://mathoverflow.net/questions/323451/compact-complex-affine-kähler-manifold-is-a-torus), so this fact is well-known.
+
+The compact flat Riemannian manifolds are known as Euclidean space forms, and by Bieberbach there are finitely many Euclidean Space forms of any given dimension and they are all finite coverings of tori. Complex compact affine manifolds M which are not diffeomorphic to an Euclidean Space form do not admit kahler metrics.
+
+The main step of the proof will be to show that a compact kahler manifold with c_1(M)=0 (Calabi-Yau manifold) together with c_2(M)=0 must admit a flat Riemannian metric; we will discuss the french proof in [Premières formes de Chern des variétés kählériennes compactes - Séminaire Bourbaki](http://www.numdam.org/article/SB_1977-1978__20__1_0.pdf), which uses the Calabi-Yau theorem. The second main step will be to explain why in the "complex affine kahler" case, all chern classes vanish: c_k(M)=0 for k>0. We will explain how this follows from the existence of a holomorphic connection (vanishing of the Atiyah class).
+
 ### July 5 -- Alex Gomez -- [Mordel-Weil theorem for abelian varieties](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
 
 In this talk, I will make a fast overview about complex tori and abelian varieties. In concretely, we are going to discuss the preliminaries for proving Mordell-Weil theorem and doing it at the end. If the time let us, I will state and make some comments about Mordell Conjecture a.k.a. Faltings theorem.
