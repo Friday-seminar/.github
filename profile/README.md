@@ -26,7 +26,7 @@ The Mordell-Weil theorem states that the group of points on an abelian variety o
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
-### This July -- Andrey Soldatenkov
+### July 19 and/or 26 -- Andrey Soldatenkov
 
 ## we are:
 a research and study group of students and professors from post-graduate mathematics programs of
