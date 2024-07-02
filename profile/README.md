@@ -18,6 +18,8 @@
 
 The Mordell-Weil theorem states that the group of points on an abelian variety over a number field is finitely generated. In the first part of the talk I will briefly cover the theory complex tori and abelian varieties, and then use it to prove Mordell-Weil theorem.
 
+### July 9 (Tuesday), 15:30 -- Nivaldo Medeiros
+
 ### July 12 -- [Thomas Bitoun](https://sites.google.com/view/thomasbitoun/home)
 
 ### TBA -- Lucas Castello Branco -- Gaiotto Lagrangians 
