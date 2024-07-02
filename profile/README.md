@@ -14,19 +14,9 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-### June 28, 14h -- John Alexander Cruz Morales -- Frobenius algebroids
-
-### June 28, 16h -- Bruno Suassuna -- Complex compact manifolds with affine structure are non-kahler (except for some finite coverings of tori) 
-
-The main goal of this talk is to discuss a proof of the claim above. More precisely we will prove that: if a complex manifold M is compact, admits complex affine structure and admits kahler structure, then M must admit a flat Riemannian metric. A proof can be found in a [Mathoverflow post](https://mathoverflow.net/questions/323451/compact-complex-affine-kähler-manifold-is-a-torus), so this fact is well-known.
-
-The compact flat Riemannian manifolds are known as Euclidean space forms, and by Bieberbach there are finitely many Euclidean Space forms of any given dimension and they are all finite coverings of tori. Complex compact affine manifolds M which are not diffeomorphic to an Euclidean Space form do not admit kahler metrics.
-
-The main step of the proof will be to show that a compact kahler manifold with c_1(M)=0 (Calabi-Yau manifold) together with c_2(M)=0 must admit a flat Riemannian metric; we will discuss the french proof in [Premières formes de Chern des variétés kählériennes compactes - Séminaire Bourbaki](http://www.numdam.org/article/SB_1977-1978__20__1_0.pdf), which uses the Calabi-Yau theorem. The second main step will be to explain why in the "complex affine kahler" case, all chern classes vanish: c_k(M)=0 for k>0. We will explain how this follows from the existence of a holomorphic connection (vanishing of the Atiyah class).
-
 ### July 5 -- Alex Gomez -- [Mordel-Weil theorem for abelian varieties](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
 
-In this talk, I will make a fast overview about complex tori and abelian varieties. In concretely, we are going to discuss the preliminaries for proving Mordell-Weil theorem and doing it at the end. If the time let us, I will state and make some comments about Mordell Conjecture a.k.a. Faltings theorem.
+The Mordell-Weil theorem states that the group of points on an abelian variety over a number field is finitely generated. In the first part of the talk I will briefly cover the theory complex tori and abelian varieties, and then use it to prove Mordell-Weil theorem.
 
 ### July 12 -- [Thomas Bitoun](https://sites.google.com/view/thomasbitoun/home)
 
@@ -88,8 +78,10 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - tba -- deformation theory of holomorphic symplectic manifolds
 - tba -- Frobenius manifolds in mirror symmetry
 - July 12 -- [Thomas Bitoun](https://sites.google.com/view/thomasbitoun/home)
+- July 9 (Tue) -- Nivaldo Medeiros
 - July 5 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
-- June 28 -- John Alexander Cruz Morales -- Frobenius algebroids
+- June 28, 16h -- Bruno Suassuna -- Complex compact manifolds with affine structure
+- June 28, 14h -- John Alexander Cruz Morales -- On the notion of F-algebroids
 - June 21, 16h -- Graham Smith -- The many lives of the [sinh-Gordon equation](https://en.wikipedia.org/wiki/Sine-Gordon_equation#Related_equations), also CRANED @ PUC
 - June 14 -- no seminar, [Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio/home) in UFRJ
 - June 7 -- Altan Erdnigor -- geometric class field theory, part II
@@ -182,9 +174,26 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
 
 ### TBA -- Sergey Galkin -- toric Kähler manifolds versus dually flat Hessian statistical manifolds, after Sasaki, Dombrowski, Cheng-Yau, Delzant, Guillemin, Abreu, Molitor.
 
+## July 12 -- **Thomas Bitoun**
+
+## July 9 (Tuesday) -- **Nivaldo Medeiros Nunes**
+
 ## July 5 -- **Alex Gomez** -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
 
-### June 28 -- **John Alexander Cruz Morales** -- Frobenius algebroids
+The Mordell-Weil theorem states that the group of points on an abelian variety over a number field is finitely generated. In the first part of the talk I will briefly cover the theory complex tori and abelian varieties, and then use it to prove Mordell-Weil theorem.
+
+### June 28, 16h -- **Bruno Suassuna** -- Complex compact manifolds with affine structure are non-kahler (except for some finite coverings of tori) 
+
+The main goal of this talk is to discuss a proof of the claim above. More precisely we will prove that: if a complex manifold M is compact, admits complex affine structure and admits kahler structure, then M must admit a flat Riemannian metric. A proof can be found in a [Mathoverflow post](https://mathoverflow.net/questions/323451/compact-complex-affine-kähler-manifold-is-a-torus), so this fact is well-known.
+
+The compact flat Riemannian manifolds are known as Euclidean space forms, and by Bieberbach there are finitely many Euclidean Space forms of any given dimension and they are all finite coverings of tori. Complex compact affine manifolds M which are not diffeomorphic to an Euclidean Space form do not admit kahler metrics.
+
+The main step of the proof will be to show that a compact kahler manifold with c_1(M)=0 (Calabi-Yau manifold) together with c_2(M)=0 must admit a flat Riemannian metric; we will discuss the french proof in [Premières formes de Chern des variétés kählériennes compactes - Séminaire Bourbaki](http://www.numdam.org/article/SB_1977-1978__20__1_0.pdf), which uses the Calabi-Yau theorem. The second main step will be to explain why in the "complex affine kahler" case, all chern classes vanish: c_k(M)=0 for k>0. We will explain how this follows from the existence of a holomorphic connection (vanishing of the Atiyah class).
+
+### June 28 -- **John Alexander Cruz Morales** -- Around the notion of F-algebroids
+
+In this talk we will discuss a certain generalization of the notion of F-manifold algebra (Hertling-Manin) which is also an extension of the idea of Lie algebroid.  I will show how this notion can arise from the deformation quantization of pre-Lie algebroids and will discuss Dubrovin's duality in this context. If time permits, in a more speculative way, I will argue on how this notion could be relevant for mirror symmetry (Could mirror symmetry be thought of as a duality between F-algebroids?) This is based on joint work with J. Liu and Y. Sheng.
+
 
 ### June 21 -- **Graham Smith** -- The many lives of the [sinh-Gordon equation](https://en.wikipedia.org/wiki/Sine-Gordon_equation#Related_equations)
 
