@@ -13,12 +13,13 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-
 ### July 5 -- Alex Gomez -- [Mordel-Weil theorem for abelian varieties](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
 
 The Mordell-Weil theorem states that the group of points on an abelian variety over a number field is finitely generated. In the first part of the talk I will briefly cover the theory complex tori and abelian varieties, and then use it to prove Mordell-Weil theorem.
 
-### July 9 (Tuesday), 15:30 -- Nivaldo Medeiros
+### July 9 (Tuesday), 15:30 -- Nivaldo Medeiros -- CSM classes and inverses of monomial Cremona transformations
+
+Given a birational map in three-dimensional projective space defined by monomials of degree $d$, we prove that its inverse is defined by monomials of degree at most $d^2−d+1$. Our approach involves reformulating the problem in topological terms through the use of Chern-Schwartz-MacPherson classes. This work is a collaboration with Thiago Fassarella (UFF).
 
 ### July 12 -- [Thomas Bitoun](https://sites.google.com/view/thomasbitoun/home)
 
@@ -80,7 +81,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - tba -- deformation theory of holomorphic symplectic manifolds
 - tba -- Frobenius manifolds in mirror symmetry
 - July 12 -- [Thomas Bitoun](https://sites.google.com/view/thomasbitoun/home)
-- July 9 (Tue) -- Nivaldo Medeiros
+- July 9 (Tue) -- Nivaldo Medeiros -- CSM classes and inverses of monomial Cremona transformations
 - July 5 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
 - June 28, 16h -- Bruno Suassuna -- Complex compact manifolds with affine structure
 - June 28, 14h -- John Alexander Cruz Morales -- On the notion of F-algebroids
@@ -178,7 +179,9 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
 
 ## July 12 -- **Thomas Bitoun**
 
-## July 9 (Tuesday) -- **Nivaldo Medeiros Nunes**
+## July 9 (Tuesday) -- **Nivaldo Medeiros Nunes** -- CSM classes and inverses of monomial Cremona transformations
+
+Given a birational map in three-dimensional projective space defined by monomials of degree $d$, we prove that its inverse is defined by monomials of degree at most $d^2−d+1$. Our approach involves reformulating the problem in topological terms through the use of Chern-Schwartz-MacPherson classes. This work is a collaboration with Thiago Fassarella (UFF).
 
 ## July 5 -- **Alex Gomez** -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
 
