@@ -75,13 +75,18 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Schedule
 
-## 2024.1 (March 4 -- July 5), and July 2024
+## 2024 Winter (July 8 -- August 9)
 
+- July 19 and/or 26 -- Andrey Soldatenkov
+- July 12 -- [Thomas Bitoun](https://sites.google.com/view/thomasbitoun/home)
+- July 9 (Tue) -- Nivaldo Medeiros -- CSM classes and inverses of monomial Cremona transformations
+- 
 - tba -- toric Kähler manifolds, Hessian (dually flat) statistical manifolds, torification, geometric quantum mechanics, and SYZ mirror symmetry
 - tba -- deformation theory of holomorphic symplectic manifolds
 - tba -- Frobenius manifolds in mirror symmetry
-- July 12 -- [Thomas Bitoun](https://sites.google.com/view/thomasbitoun/home)
-- July 9 (Tue) -- Nivaldo Medeiros -- CSM classes and inverses of monomial Cremona transformations
+
+## 2024.1 (March 4 -- July 5)
+
 - July 5 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
 - June 28, 16h -- Bruno Suassuna -- Complex compact manifolds with affine structure
 - June 28, 14h -- John Alexander Cruz Morales -- On the notion of F-algebroids
