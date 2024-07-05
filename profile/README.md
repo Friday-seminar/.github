@@ -193,7 +193,7 @@ The main goal of this talk is to discuss a proof of the claim above. More precis
 
 The compact flat Riemannian manifolds are known as Euclidean space forms, and by Bieberbach there are finitely many Euclidean Space forms of any given dimension and they are all finite coverings of tori. Complex compact affine manifolds M which are not diffeomorphic to an Euclidean Space form do not admit kahler metrics.
 
-The main step of the proof will be to show that a compact kahler manifold with c_1(M)=0 (Calabi-Yau manifold) together with c_2(M)=0 must admit a flat Riemannian metric; we will discuss the french proof in [Premières formes de Chern des variétés kählériennes compactes - Séminaire Bourbaki](http://www.numdam.org/article/SB_1977-1978__20__1_0.pdf), which uses the Calabi-Yau theorem. The second main step will be to explain why in the "complex affine kahler" case, all chern classes vanish: c_k(M)=0 for k>0. We will explain how this follows from the existence of a holomorphic connection (vanishing of the Atiyah class).
+The main step of the proof will be to show that a compact kahler manifold with $c_1(M)=0$ (Calabi-Yau manifold) together with $c_2(M)=0$ must admit a flat Riemannian metric; we will discuss the french proof in [Premières formes de Chern des variétés kählériennes compactes - Séminaire Bourbaki](http://www.numdam.org/article/SB_1977-1978__20__1_0.pdf), which uses the Calabi-Yau theorem. The second main step will be to explain why in the "complex affine kahler" case, all chern classes vanish: $c_k(M)=0$ for $k>0$. We will explain how this follows from the existence of a holomorphic connection (vanishing of the Atiyah class).
 
 ### June 28 -- **John Alexander Cruz Morales** -- Around the notion of F-algebroids
 
