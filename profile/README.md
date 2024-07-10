@@ -21,7 +21,7 @@ Let Z be the germ of a complex hypersurface isolated singularity of equation f, 
 
 ### TBA -- [**Thomas Bitoun**](https://sites.google.com/view/thomasbitoun/home) -- [On centralizers in Azumaya domains](https://arxiv.org/abs/2201.04606)
 
-### July 19 and/or 26 -- Andrey Soldatenkov
+### 26 -- Andrey Soldatenkov
 
 ### TBA -- Lucas Castello Branco -- Gaiotto Lagrangians 
 
