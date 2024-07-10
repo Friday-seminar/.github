@@ -21,7 +21,10 @@ Let Z be the germ of a complex hypersurface isolated singularity of equation f, 
 
 ### TBA -- [**Thomas Bitoun**](https://sites.google.com/view/thomasbitoun/home) -- [On centralizers in Azumaya domains](https://arxiv.org/abs/2201.04606)
 
-### 26 -- Andrey Soldatenkov
+### July 26 -- **Andrey Soldatenkov** -- Hermitian symplectic structures and degenerate twistor deformations
+of hyperkähler manifolds
+
+In holomorphic symplectic geometry we often study the situation when a symplectic manifold admits a proper map to some other variety of positive dimension and with positive-dimensional fibres. A well known result of Matsushita tells that the fibres of such a fibration are always Lagrangian, and the smooth fibres are abelian varieties. This leads to the notion of a holomorphic Lagrangian fibration - one of the central subjects of symplectic geometry. Given a holomorphic Lagrangian fibration one can deform the symplectic form and the complex structure of the original symplectic manifold, producing the so-called degenerate twistor deformation. In the talk I will try to explain my recent joint work with Misha Verbitsky, where we study the properties of such deformations. We prove that for a holomorphic Lagrangian fibration on a compact hyperkähler manifold the degenerate twistor deformations are always Kähler, confirming a conjecture of Markman.
 
 ### TBA -- Lucas Castello Branco -- Gaiotto Lagrangians 
 
@@ -76,13 +79,13 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## 2024 Winter (July 8 -- August 9), and 2024.2 (August 13 - December 13)
 
-- July 26 -- Andrey Soldatenkov
+- July 26 -- Andrey Soldatenkov -- Hermitian symplectic structures and degenerate twistor deformations
+of hyperkähler manifolds
 - July 12 -- [Thomas Bitoun](https://sites.google.com/view/thomasbitoun/home) -- [On the D-module of an isolated singularity](https://arxiv.org/abs/2307.00120)
-- July 11, 15h -- Artem Kalmykov -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group)
-- July 9 (Tue) -- Nivaldo Medeiros -- CSM classes and inverses of monomial Cremona transformations
+- July 11 (Thu), 15h -- Artem Kalmykov -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group)
+- July 9 (Tue), 17h -- Nivaldo Medeiros -- CSM classes and inverses of monomial Cremona transformations
 -
 - tba -- toric Kähler manifolds, Hessian (dually flat) statistical manifolds, torification, geometric quantum mechanics, and SYZ mirror symmetry
-- tba -- deformation theory of holomorphic symplectic manifolds
 - tba -- Frobenius manifolds in mirror symmetry
 
 ## 2024.1 (20 talks)
@@ -181,6 +184,11 @@ interesting themes and topics for next seminar talks, references, slides of the 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
 ### TBA -- Sergey Galkin -- toric Kähler manifolds versus dually flat Hessian statistical manifolds, after Sasaki, Dombrowski, Cheng-Yau, Delzant, Guillemin, Abreu, Molitor.
+
+### July 26 -- Andrey Soldatenkov -- Hermitian symplectic structures and degenerate twistor deformations
+of hyperkähler manifolds
+
+In holomorphic symplectic geometry we often study the situation when a symplectic manifold admits a proper map to some other variety of positive dimension and with positive-dimensional fibres. A well known result of Matsushita tells that the fibres of such a fibration are always Lagrangian, and the smooth fibres are abelian varieties. This leads to the notion of a holomorphic Lagrangian fibration - one of the central subjects of symplectic geometry. Given a holomorphic Lagrangian fibration one can deform the symplectic form and the complex structure of the original symplectic manifold, producing the so-called degenerate twistor deformation. In the talk I will try to explain my recent joint work with Misha Verbitsky, where we study the properties of such deformations. We prove that for a holomorphic Lagrangian fibration on a compact hyperkähler manifold the degenerate twistor deformations are always Kähler, confirming a conjecture of Markman.
 
 ### July 12 -- **Thomas Bitoun** -- [On the D-module of an isolated singularity](https://arxiv.org/abs/2307.00120)
 
