@@ -13,20 +13,9 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
+### July 19 -- **Artem Kalmykov** -- A tale of two R-matrices
 
-### July 11-18 -- **Artem Kalmykov** -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group)
-
-A mini-course of four lectures: 
-- Thursday, July 11, 15:00-16:30
-- Monday, July 15, 15:30-17:15
-- Tuesday, July 16, 15:30-17:15
-- Thursday, July 18, 14:40-16:15
-
-### July 19, 13:30 🕜 -- **Artem Kalmykov** -- A tale of two R-matrices
-
-### July 19, 15:30 🕞 -- [**Thomas Bitoun**](https://sites.google.com/view/thomasbitoun/home) -- [On centralizers in Azumaya domains](https://arxiv.org/abs/2201.04606)
-
-We prove a positive characteristic analogue of the classical result that the centralizer of a nonconstant differential operator in one variable is commutative. This leads to a new, short proof of that classical characteristic zero result, by reduction modulo p. Joint work with Justin Desrochers.
+To any simple Lie group G, one can associate a mysterious object called an elliptic quantum group: on the one hand, it is related to the (open part of) moduli space of degree zero G-bundles, on the other hand, its degeneration can be constructed purely representation-theoretically, via homomorphisms of Verma modules (due to Tarasov-Varchenko). For $G=SL_n$, there is another type of elliptic quantum group (called Belavin quantum group) which is related to an essentially unique stable bundle of degree one, and those two types are meromorphically equivalent via a Hecke modification. In this talk, I will present a representation-theoretic construction of the degenerate version of the Belavin quantum group as well as of the aforementioned equivalence, which has a totally different flavor.
 
 ### July 26 -- **Andrey Soldatenkov** -- Hermitian symplectic structures and degenerate twistor deformations of hyperkähler manifolds
 
@@ -86,17 +75,14 @@ interesting themes and topics for next seminar talks, references, slides of the 
 ## 2024 Winter (July 8 -- August 9), and 2024.2 (August 13 - December 13)
 
 - July 26 -- Andrey Soldatenkov -- Hermitian symplectic structures and degenerate twistor deformations of hyperkähler manifolds
-- July 19, 15:30 -- Thomas Bitoun -- On centralizers in Azumaya domains
-- July 19, 13:30 -- Artem Kalmykov -- A tale of two R-matrices
+- July 19 -- Artem Kalmykov -- A tale of two R-matrices
 - July 18 (Thu) -- Artem Kalmykov -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group), lecture 4
 - July 16 (Tue) -- Artem Kalmykov -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group), lecture 3
 - July 15 (Mon) -- Artem Kalmykov -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group), lecture 2
 - July 12 -- [Thomas Bitoun](https://sites.google.com/view/thomasbitoun/home) -- [On the D-module of an isolated singularity](https://arxiv.org/abs/2307.00120)
 - July 11 (Thu) -- Artem Kalmykov -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group), lecture 1
-- July 9 (Tue), 17h -- Nivaldo Medeiros -- CSM classes and inverses of monomial Cremona transformations
--
-- tba -- toric Kähler manifolds, Hessian (dually flat) statistical manifolds, torification, geometric quantum mechanics, and SYZ mirror symmetry
-- tba -- Frobenius manifolds in mirror symmetry
+- July 9 (Tue) -- Nivaldo Medeiros -- CSM classes and inverses of monomial Cremona transformations
+
 
 ## 2024.1 (20 talks)
 
@@ -199,19 +185,21 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
 
 In holomorphic symplectic geometry we often study the situation when a symplectic manifold admits a proper map to some other variety of positive dimension and with positive-dimensional fibres. A well known result of Matsushita tells that the fibres of such a fibration are always Lagrangian, and the smooth fibres are abelian varieties. This leads to the notion of a holomorphic Lagrangian fibration - one of the central subjects of symplectic geometry. Given a holomorphic Lagrangian fibration one can deform the symplectic form and the complex structure of the original symplectic manifold, producing the so-called degenerate twistor deformation. In the talk I will try to explain my recent joint work with Misha Verbitsky, where we study the properties of such deformations. We prove that for a holomorphic Lagrangian fibration on a compact hyperkähler manifold the degenerate twistor deformations are always Kähler, confirming a conjecture of Markman.
 
-### July 19, 15:30 🕞 -- [**Thomas Bitoun**](https://sites.google.com/view/thomasbitoun/home) -- [On centralizers in Azumaya domains](https://arxiv.org/abs/2201.04606)
+### July 19 -- **Artem Kalmykov** -- A tale of two R-matrices
 
-We prove a positive characteristic analogue of the classical result that the centralizer of a nonconstant differential operator in one variable is commutative. This leads to a new, short proof of that classical characteristic zero result, by reduction modulo p. Joint work with Justin Desrochers.
+To any simple Lie group G, one can associate a mysterious object called an elliptic quantum group: on the one hand, it is related to the (open part of) moduli space of degree zero G-bundles, on the other hand, its degeneration can be constructed purely representation-theoretically, via homomorphisms of Verma modules (due to Tarasov-Varchenko). For $G=SL_n$, there is another type of elliptic quantum group (called Belavin quantum group) which is related to an essentially unique stable bundle of degree one, and those two types are meromorphically equivalent via a Hecke modification. In this talk, I will present a representation-theoretic construction of the degenerate version of the Belavin quantum group as well as of the aforementioned equivalence, which has a totally different flavor.
 
-### July 19, 13:30 🕜 -- **Artem Kalmykov** -- A tale of two R-matrices
+### July 11-18 -- **Artem Kalmykov** -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group)
 
-### July 11, 15, 16, 18 -- **Artem Kalmykov** -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group)
+A mini-course of four lectures: 
+- Thursday, July 11, 15:00-16:30
+- Monday, July 15, 15:30-17:15
+- Tuesday, July 16, 15:30-17:15
+- Thursday, July 18, 14:40-16:15
 
 ### July 12 -- **Thomas Bitoun** -- [On the D-module of an isolated singularity](https://arxiv.org/abs/2307.00120)
 
 Let Z be the germ of a complex hypersurface isolated singularity of equation f, with Z at least of dimension 2. We consider the family of analytic D-modules generated by the powers of 1/f and describe it in terms of the pole order filtration on the de Rham cohomology of the complement of {f=0} in the neighborhood of the singularity.
-
-### July 11, 15, 16, 18 -- **Artem Kalmykov** -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group)
 
 ### July 9 (Tuesday) -- **Nivaldo Medeiros Nunes** -- CSM classes and inverses of monomial Cremona transformations
 
