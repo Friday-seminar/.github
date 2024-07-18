@@ -18,9 +18,9 @@
 
 A mini-course of four lectures: 
 - Thursday, July 11, 15:00-16:30
-- Monday, July 15, 15:30-17:00
-- Tuesday, July 16, 15:30-17:00
-- Thursday, July 18, 15:30-17:00 (tbc)
+- Monday, July 15, 15:30-17:15
+- Tuesday, July 16, 15:30-17:15
+- Thursday, July 18, 14:40-16:15
 
 ### July 19, 13:30 🕜 -- **Artem Kalmykov** -- A tale of two R-matrices
 
