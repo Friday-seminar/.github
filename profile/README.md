@@ -22,9 +22,11 @@ A mini-course of four lectures:
 - Tuesday, July 16, 15:30-17:00
 - Thursday, July 18, 15:30-17:00 (tbc)
 
-### July 19 (tbc) -- **Artem Kalmykov** -- tba
+### July 19, 13:30 🕜 -- **Artem Kalmykov** -- A tale of two R-matrices
 
-### July 19 (tbc) -- [**Thomas Bitoun**](https://sites.google.com/view/thomasbitoun/home) -- [On centralizers in Azumaya domains](https://arxiv.org/abs/2201.04606)
+### July 19, 15:30 🕞 -- [**Thomas Bitoun**](https://sites.google.com/view/thomasbitoun/home) -- [On centralizers in Azumaya domains](https://arxiv.org/abs/2201.04606)
+
+We prove a positive characteristic analogue of the classical result that the centralizer of a nonconstant differential operator in one variable is commutative. This leads to a new, short proof of that classical characteristic zero result, by reduction modulo p. Joint work with Justin Desrochers.
 
 ### July 26 -- **Andrey Soldatenkov** -- Hermitian symplectic structures and degenerate twistor deformations of hyperkähler manifolds
 
@@ -84,7 +86,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
 ## 2024 Winter (July 8 -- August 9), and 2024.2 (August 13 - December 13)
 
 - July 26 -- Andrey Soldatenkov -- Hermitian symplectic structures and degenerate twistor deformations of hyperkähler manifolds
-- July 19 -- Artem Kalmykov and Thomas Bitoun
+- July 19, 15:30 -- Thomas Bitoun -- On centralizers in Azumaya domains
+- July 19, 13:30 -- Artem Kalmykov -- A tale of two R-matrices
 - July 18 (Thu), 15:30 -- Artem Kalmykov -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group), lecture 4
 - July 16 (Tue), 15:30 -- Artem Kalmykov -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group), lecture 3
 - July 15 (Mon), 15:30 -- Artem Kalmykov -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group), lecture 2
@@ -195,6 +198,12 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
 ### July 26 -- Andrey Soldatenkov -- Hermitian symplectic structures and degenerate twistor deformations of hyperkähler manifolds
 
 In holomorphic symplectic geometry we often study the situation when a symplectic manifold admits a proper map to some other variety of positive dimension and with positive-dimensional fibres. A well known result of Matsushita tells that the fibres of such a fibration are always Lagrangian, and the smooth fibres are abelian varieties. This leads to the notion of a holomorphic Lagrangian fibration - one of the central subjects of symplectic geometry. Given a holomorphic Lagrangian fibration one can deform the symplectic form and the complex structure of the original symplectic manifold, producing the so-called degenerate twistor deformation. In the talk I will try to explain my recent joint work with Misha Verbitsky, where we study the properties of such deformations. We prove that for a holomorphic Lagrangian fibration on a compact hyperkähler manifold the degenerate twistor deformations are always Kähler, confirming a conjecture of Markman.
+
+### July 19, 15:30 🕞 -- [**Thomas Bitoun**](https://sites.google.com/view/thomasbitoun/home) -- [On centralizers in Azumaya domains](https://arxiv.org/abs/2201.04606)
+
+We prove a positive characteristic analogue of the classical result that the centralizer of a nonconstant differential operator in one variable is commutative. This leads to a new, short proof of that classical characteristic zero result, by reduction modulo p. Joint work with Justin Desrochers.
+
+### July 19, 13:30 🕜 -- **Artem Kalmykov** -- A tale of two R-matrices
 
 ### July 11, 15, 16, 18 -- **Artem Kalmykov** -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group)
 
