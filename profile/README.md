@@ -88,11 +88,11 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - July 26 -- Andrey Soldatenkov -- Hermitian symplectic structures and degenerate twistor deformations of hyperkähler manifolds
 - July 19, 15:30 -- Thomas Bitoun -- On centralizers in Azumaya domains
 - July 19, 13:30 -- Artem Kalmykov -- A tale of two R-matrices
-- July 18 (Thu), 15:30 -- Artem Kalmykov -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group), lecture 4
-- July 16 (Tue), 15:30 -- Artem Kalmykov -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group), lecture 3
-- July 15 (Mon), 15:30 -- Artem Kalmykov -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group), lecture 2
+- July 18 (Thu) -- Artem Kalmykov -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group), lecture 4
+- July 16 (Tue) -- Artem Kalmykov -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group), lecture 3
+- July 15 (Mon) -- Artem Kalmykov -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group), lecture 2
 - July 12 -- [Thomas Bitoun](https://sites.google.com/view/thomasbitoun/home) -- [On the D-module of an isolated singularity](https://arxiv.org/abs/2307.00120)
-- July 11 (Thu), 15h -- Artem Kalmykov -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group), lecture 1
+- July 11 (Thu) -- Artem Kalmykov -- Introduction to [Quantum Groups](https://en.wikipedia.org/wiki/Quantum_group), lecture 1
 - July 9 (Tue), 17h -- Nivaldo Medeiros -- CSM classes and inverses of monomial Cremona transformations
 -
 - tba -- toric Kähler manifolds, Hessian (dually flat) statistical manifolds, torification, geometric quantum mechanics, and SYZ mirror symmetry
@@ -103,7 +103,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - July 5 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
 - June 28, 16h -- Bruno Suassuna -- Complex compact manifolds with affine structure
 - June 28, 14h -- John Alexander Cruz Morales -- On the notion of F-algebroids
-- June 21, 16h -- Graham Smith -- The many lives of the [sinh-Gordon equation](https://en.wikipedia.org/wiki/Sine-Gordon_equation#Related_equations), also CRANED @ PUC
+- June 21 -- Graham Smith -- The many lives of the [sinh-Gordon equation](https://en.wikipedia.org/wiki/Sine-Gordon_equation#Related_equations), also CRANED @ PUC
 - June 14 -- no seminar, [Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio/home) in UFRJ
 - June 7 -- Altan Erdnigor -- geometric class field theory, part II
 - May 31 -- [Recesso do Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
@@ -120,7 +120,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Apr 5 -- Bruno Suassuna -- Rational endomorphisms preserving logarithmic volume
 - Apr 5 -- Altan Erdnigor -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction), part II/II
 - Mar 29 -- [Sexta-Feira da Paixão](https://pt.wikipedia.org/wiki/Sexta-feira_Santa)
-- Mar 27 (Wed) 13h -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
+- Mar 27 (Wed) -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
 - Mar 8, 16h -- Altan Erdnigor -- [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization) and Equivariant Topology, part I/II
 - Mar 8, 14h -- Lucas Branco -- What is... a [Higgs bundle](https://en.wikipedia.org/wiki/Higgs_bundle)?
 
