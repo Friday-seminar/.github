@@ -13,7 +13,7 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### July 26 -- **Andrey Soldatenkov** -- Hermitian symplectic structures and degenerate twistor deformations of hyperkähler manifolds
+### July 26, 14h -- **Andrey Soldatenkov** -- Hermitian symplectic structures and degenerate twistor deformations of hyperkähler manifolds
 
 In holomorphic symplectic geometry we often study the situation when a symplectic manifold admits a proper map to some other variety of positive dimension and with positive-dimensional fibres. A well known result of Matsushita tells that the fibres of such a fibration are always Lagrangian, and the smooth fibres are abelian varieties. This leads to the notion of a holomorphic Lagrangian fibration - one of the central subjects of symplectic geometry. Given a holomorphic Lagrangian fibration one can deform the symplectic form and the complex structure of the original symplectic manifold, producing the so-called degenerate twistor deformation. In the talk I will try to explain my recent joint work with Misha Verbitsky, where we study the properties of such deformations. We prove that for a holomorphic Lagrangian fibration on a compact hyperkähler manifold the degenerate twistor deformations are always Kähler, confirming a conjecture of Markman.
 
@@ -53,12 +53,9 @@ their interfaces in
 and related topics.
 
 ## when and where:
-  - 🕑 Fridays (sexta-feiras) between **14:00 and 18:00**, either one long or two shorter talks
-  - **DMAT PUC-Rio**, room **L863** in Leme building (left from main entrance)
-  - take an elevator to 8th floor near "Bar Nossa Senhora do Carmo" (the one served by nuns)
-  - When room L863 will be occupied or not suitable, we will use room L856
-  - 🥗 lunch before the seminar; after 18:00 -- supper in Planetário Gávea
-  - soulmate seminar "Geometric Structures on Manifolds" -- Thursday 17:00, IMPA room 236
+  - 🕑 Fridays (sexta-feiras) until **18:00**, start around 14h
+  - **DMAT PUC-Rio**, room **L863** in Leme building (left from main entrance), take an elevator to 8th floor near "Bar Nossa Senhora do Carmo" on the opposite site of a bookshop.
+
  
 
 #  Seminar materials and how to join
