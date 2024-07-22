@@ -13,10 +13,6 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### July 19 -- **Artem Kalmykov** -- A tale of two R-matrices
-
-To any simple Lie group G, one can associate a mysterious object called an elliptic quantum group: on the one hand, it is related to the (open part of) moduli space of degree zero G-bundles, on the other hand, its degeneration can be constructed purely representation-theoretically, via homomorphisms of Verma modules (due to Tarasov-Varchenko). For $G=SL_n$, there is another type of elliptic quantum group (called Belavin quantum group) which is related to an essentially unique stable bundle of degree one, and those two types are meromorphically equivalent via a Hecke modification. In this talk, I will present a representation-theoretic construction of the degenerate version of the Belavin quantum group as well as of the aforementioned equivalence, which has a totally different flavor.
-
 ### July 26 -- **Andrey Soldatenkov** -- Hermitian symplectic structures and degenerate twistor deformations of hyperkähler manifolds
 
 In holomorphic symplectic geometry we often study the situation when a symplectic manifold admits a proper map to some other variety of positive dimension and with positive-dimensional fibres. A well known result of Matsushita tells that the fibres of such a fibration are always Lagrangian, and the smooth fibres are abelian varieties. This leads to the notion of a holomorphic Lagrangian fibration - one of the central subjects of symplectic geometry. Given a holomorphic Lagrangian fibration one can deform the symplectic form and the complex structure of the original symplectic manifold, producing the so-called degenerate twistor deformation. In the talk I will try to explain my recent joint work with Misha Verbitsky, where we study the properties of such deformations. We prove that for a holomorphic Lagrangian fibration on a compact hyperkähler manifold the degenerate twistor deformations are always Kähler, confirming a conjecture of Markman.
