@@ -85,7 +85,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - July 5 -- Alex Gomez -- [Mordel-Weil theorem](https://en.wikipedia.org/wiki/Mordell–Weil_theorem)
 - June 28, 16h -- Bruno Suassuna -- Complex compact manifolds with affine structure
 - June 28, 14h -- John Alexander Cruz Morales -- On the notion of F-algebroids
-- June 21 -- Graham Smith -- The many lives of the [sinh-Gordon equation](https://en.wikipedia.org/wiki/Sine-Gordon_equation#Related_equations), also CRANED @ PUC
+- June 21 -- Graham Smith -- The many lives of the [sinh-Gordon equation](https://en.wikipedia.org/wiki/Sine-Gordon_equation#Related_equations)
 - June 14 -- no seminar, [Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio/home) in UFRJ
 - June 7 -- Altan Erdnigor -- geometric class field theory, part II
 - May 31 -- [Recesso do Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
