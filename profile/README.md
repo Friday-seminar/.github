@@ -21,6 +21,9 @@ In holomorphic symplectic geometry we often study the situation when a symplecti
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
+## when and where:
+  - 🕑 Fridays (sexta-feiras) until **18:00**, start around 14h
+  - **DMAT PUC-Rio**, room **L863** in Leme building (left from main entrance), take an elevator to 8th floor near "Bar Nossa Senhora do Carmo" on the opposite site of a bookshop.
 
 ## we are:
 a research and study group of students and professors from post-graduate mathematics programs of
@@ -51,10 +54,6 @@ their interfaces in
 [mirror symmetry](https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory)),
 [Langlands correspondence](https://en.wikipedia.org/wiki/Langlands_program),
 and related topics.
-
-## when and where:
-  - 🕑 Fridays (sexta-feiras) until **18:00**, start around 14h
-  - **DMAT PUC-Rio**, room **L863** in Leme building (left from main entrance), take an elevator to 8th floor near "Bar Nossa Senhora do Carmo" on the opposite site of a bookshop.
 
  
 
@@ -589,23 +588,6 @@ The talk is based on the joint work with M.V. Budrevich.
 
 
 
-## what's next: plans for 2024
-
-- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero): [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
-- Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence)
-- Filipe: [affine differential geometry](https://en.wikipedia.org/wiki/Affine_differential_geometry) and [projective differential geometry](https://en.wikipedia.org/wiki/Projective_differential_geometry). [Schwarzian derivative](https://en.wikipedia.org/wiki/Schwarzian_derivative).
-- [Alex Gomez](https://sites.google.com/pucp.edu.pe/alequisgomez): [Torelli's theorem for compact Riemann surfaces](https://en.wikipedia.org/wiki/Torelli_theorem), Henrik H. Martens' proof
-- Altan Erdnigor: a proof of Torelli theorem for curves via [Fourier--Mukai transform](https://en.wikipedia.org/wiki/Fourier%E2%80%93Mukai_transform)
-- Arthur Moreira: domino in 3 dimensions
-- Mukhopadhyaya's [Four-Vertex Theorem](https://en.wikipedia.org/wiki/Four-vertex_theorem) day: Samuel Pacitti Gentil, Petr Pushkar, Filipe, and others (hybrid)
-- Iulia Gorginian: TBA
-- Maxim Smirnov: TBA (online)
-- Misha Verbitsky: special affine Hessian manifolds and Monge-Ampere equation (TBC/TBA)
-- [Israel Vainsencher](https://www.mat.ufmg.br/israel): TBA
-- [Thiago Guerreiro](https://www.researchgate.net/profile/Thiago-Guerreiro):
-    [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect) for mathematicians
-
-
 # some related topics of interest:
 
 - Holomorphic Floer Theory: Kapustin-Rozansky, Kontsevich-Soibelman, [Doan-Rezchikov](https://arxiv.org/abs/2210.12047) (Fueter equations).
@@ -628,6 +610,11 @@ The talk is based on the joint work with M.V. Budrevich.
 - [matrix factorizations of a polynomial](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial), Landau-Ginzburg models, singularity category, Khovanov-Rozansky link invariants
 - Gauged Linear Sigma Models and phase transition, VGIT and MMP, Goldstone and Higgs mechanisms of mass generation
 - [semiorthogonal decompositios](https://en.wikipedia.org/wiki/Semiorthogonal_decomposition)
-- [Calabi--Yau theorem](https://en.wikipedia.org/wiki/Calabi_conjecture) and its proof (Nikita Klemyatin, TBC)
+- [Calabi--Yau theorem](https://en.wikipedia.org/wiki/Calabi_conjecture) 
 - other research-related topics (add yours)
 
+More seminars: 
+- [Rio Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio),
+- IMPA: Geometric Structures on Manifolds (Thu 17h), GADEPs (Fri, 10:30), Symplectic Geometry (Wed 15:30), Algebra (Wed 15:30)
+- UFF: [Algebraic and Complex Geometry](https://sites.google.com/view/geoalgcompluff/home)
+- PUC-Rio: [qtp](http://mat.puc-rio.br/qtp.htm), [DMAT](http://www.mat.puc-rio.br), [DFIS](https://www.fis.puc-rio.br/en/)
