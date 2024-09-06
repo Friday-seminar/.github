@@ -17,6 +17,8 @@
 
 Log Calabi-Yau pairs can be thought of as generalizations of Calabi-Yau varieties. Among them, there exists the notion of volume preserving maps. A natural and tough problem is classifying log Calabi-Yau pairs up to volume preserving equivalence. For this task, one can make use of the coregularity, the most important volume preserving invariant of a log Calabi-Yau pair. Recently, other invariants and refinements in the classification have been studied, especially in the coregularity 0 case. In this talk, I will survey some results and comment on works in progress regarding what is known to date about the classification for the case of log Calabi-Yau pairs of the form $(\mathbb{P}^3,D)$.
 
+### Sep 27, 13:30-15:00 -- Raffaele Vitolo
+
 ### TBA -- Lucas Castello Branco -- Gaiotto Lagrangians 
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
@@ -64,6 +66,9 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Schedule
 
+- Sep 27, 13:30-15:00 -- Raffaele Vitolo
+- Sep 20 -- tba
+- Sep 13 -- tba
 - Sep 6 -- Eduardo Alves da Silva -- Classification of log Calabi-Yau pairs $(P^3,D)$ after Ducat
 
 
