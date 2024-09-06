@@ -13,9 +13,9 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### July 26, 14h -- **Andrey Soldatenkov** -- Hermitian symplectic structures and degenerate twistor deformations of hyperkähler manifolds
+### Sep 6 -- Eduardo Alves da Silva -- Classification of log Calabi-Yau pairs $(P^3,D)$ after Ducat
 
-In holomorphic symplectic geometry we often study the situation when a symplectic manifold admits a proper map to some other variety of positive dimension and with positive-dimensional fibres. A well known result of Matsushita tells that the fibres of such a fibration are always Lagrangian, and the smooth fibres are abelian varieties. This leads to the notion of a holomorphic Lagrangian fibration - one of the central subjects of symplectic geometry. Given a holomorphic Lagrangian fibration one can deform the symplectic form and the complex structure of the original symplectic manifold, producing the so-called degenerate twistor deformation. In the talk I will try to explain my recent joint work with Misha Verbitsky, where we study the properties of such deformations. We prove that for a holomorphic Lagrangian fibration on a compact hyperkähler manifold the degenerate twistor deformations are always Kähler, confirming a conjecture of Markman.
+Log Calabi-Yau pairs can be thought of as generalizations of Calabi-Yau varieties. Among them, there exists the notion of volume preserving maps. A natural and tough problem is classifying log Calabi-Yau pairs up to volume preserving equivalence. For this task, one can make use of the coregularity, the most important volume preserving invariant of a log Calabi-Yau pair. Recently, other invariants and refinements in the classification have been studied, especially in the coregularity 0 case. In this talk, I will survey some results and comment on works in progress regarding what is known to date about the classification for the case of log Calabi-Yau pairs of the form $(\mathbb{P}^3,D)$.
 
 ### TBA -- Lucas Castello Branco -- Gaiotto Lagrangians 
 
@@ -64,7 +64,10 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Schedule
 
-## 2024 Winter (July 8 -- August 9), and 2024.2 (August 13 - December 13)
+- Sep 6 -- Eduardo Alves da Silva -- Classification of log Calabi-Yau pairs $(P^3,D)$ after Ducat
+
+
+## 2024 Winter (July 8 -- 26)
 
 - July 26 -- Andrey Soldatenkov -- Hermitian symplectic structures and degenerate twistor deformations of hyperkähler manifolds
 - July 19 -- Artem Kalmykov -- A tale of two R-matrices
@@ -173,7 +176,11 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
 
 ### TBA -- Sergey Galkin -- toric Kähler manifolds versus dually flat Hessian statistical manifolds, after Sasaki, Dombrowski, Cheng-Yau, Delzant, Guillemin, Abreu, Molitor.
 
-### July 26 -- Andrey Soldatenkov -- Hermitian symplectic structures and degenerate twistor deformations of hyperkähler manifolds
+### Sep 6 -- **Eduardo Alves da Silva** -- Classification of log Calabi-Yau pairs $(P^3,D)$ after Ducat
+
+Log Calabi-Yau pairs can be thought of as generalizations of Calabi-Yau varieties. Among them, there exists the notion of volume preserving maps. A natural and tough problem is classifying log Calabi-Yau pairs up to volume preserving equivalence. For this task, one can make use of the coregularity, the most important volume preserving invariant of a log Calabi-Yau pair. Recently, other invariants and refinements in the classification have been studied, especially in the coregularity 0 case. In this talk, I will survey some results and comment on works in progress regarding what is known to date about the classification for the case of log Calabi-Yau pairs of the form $(\mathbb{P}^3,D)$.
+
+### July 26 -- **Andrey Soldatenkov** -- Hermitian symplectic structures and degenerate twistor deformations of hyperkähler manifolds
 
 In holomorphic symplectic geometry we often study the situation when a symplectic manifold admits a proper map to some other variety of positive dimension and with positive-dimensional fibres. A well known result of Matsushita tells that the fibres of such a fibration are always Lagrangian, and the smooth fibres are abelian varieties. This leads to the notion of a holomorphic Lagrangian fibration - one of the central subjects of symplectic geometry. Given a holomorphic Lagrangian fibration one can deform the symplectic form and the complex structure of the original symplectic manifold, producing the so-called degenerate twistor deformation. In the talk I will try to explain my recent joint work with Misha Verbitsky, where we study the properties of such deformations. We prove that for a holomorphic Lagrangian fibration on a compact hyperkähler manifold the degenerate twistor deformations are always Kähler, confirming a conjecture of Markman.
 
