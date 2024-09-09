@@ -13,10 +13,8 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### Sep 6 -- Eduardo Alves da Silva -- Classification of log Calabi-Yau pairs $(P^3,D)$ after Ducat
-
-Log Calabi-Yau pairs can be thought of as generalizations of Calabi-Yau varieties. Among them, there exists the notion of volume preserving maps. A natural and tough problem is classifying log Calabi-Yau pairs up to volume preserving equivalence. For this task, one can make use of the coregularity, the most important volume preserving invariant of a log Calabi-Yau pair. Recently, other invariants and refinements in the classification have been studied, especially in the coregularity 0 case. In this talk, I will survey some results and comment on works in progress regarding what is known to date about the classification for the case of log Calabi-Yau pairs of the form $(\mathbb{P}^3,D)$.
-
+### Sep 13 -- research problems
+### Sep 20 -- Felipe on elliptic rational and K3 surfaces
 ### Sep 27, 13:30-14:30 -- Raffaele Vitolo
 ### Sep 27, 15h -- Eduardo Esteves, part i
 ### Oct 4 -- Eduardo Esteves, part ii
@@ -72,12 +70,12 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Oct 4 -- Eduardo Esteves, part ii
 - Sep 27, 15h -- Eduardo Esteves, part i
 - Sep 27, 13:30-14:30 -- Raffaelle Vitolo
-- Sep 20 -- tba
-- Sep 13 -- tba
+- Sep 20 -- Felipe -- elliptic surfaces, rational and K3
+- Sep 13 -- research problems
 - Sep 6 -- Eduardo Alves da Silva -- Classification of log Calabi-Yau pairs $(P^3,D)$ after Ducat
 
 
-## 2024 winter, July 8--26: (4 talks and a mini-course of 4 lectures)
+## 2024 winter (4 talks and a mini-course of 4 lectures)
 
 - July 26 -- Andrey Soldatenkov -- Hermitian symplectic structures and degenerate twistor deformations of hyperkähler manifolds
 - July 19 -- Artem Kalmykov -- A tale of two R-matrices
@@ -115,7 +113,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Mar 8, 16h -- Altan Erdnigor -- [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization) and Equivariant Topology, part I/II
 - Mar 8, 14h -- Lucas Branco -- What is... a [Higgs bundle](https://en.wikipedia.org/wiki/Higgs_bundle)?
 
-## 2024 Summer (8 talks)
+## 2024 summer (8 talks)
 
 - Mar 1 -- [José Carlos Valencia Alvites](http://www.uel.br/pos/pgmac/professores/prof_JoseCarlos.html) -- On [lattice Quantum Chromodynamics](https://en.wikipedia.org/wiki/Lattice_QCD) models in the strong coupling regime
 - Feb 23 -- [Misha Verbitsky](http://verbit.ru) -- Deformation theory of holomorphically symplectic manifolds
