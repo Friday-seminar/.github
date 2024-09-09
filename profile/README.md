@@ -14,10 +14,20 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 ### Sep 13 -- research problems
+
 ### Sep 20 -- Felipe on elliptic rational and K3 surfaces
-### Sep 27, 13:30-14:30 -- Raffaele Vitolo
-### Sep 27, 15h -- Eduardo Esteves, part i
-### Oct 4 -- Eduardo Esteves, part ii
+
+### Sep 27, 13:30-14:30 -- Raffaele Vitolo -- Some problems in Hamiltonian geometry of PDEs
+
+The Hamiltonian formulation of Partial Differential Equations
+is one of the cornerstones of the theory of Integrable Systems. Being
+carried out by analogy with finite-dimensional Hamiltonian systems,
+it has an intrinsic geometric nature. In this talk we will review
+differential-geometric aspects of the Hamiltonian theory of PDEs as well
+as new projective-geometric properties of known Integrable Systems that
+are emerging in recent years.
+
+### Sep 27, 15h and Oct 4, 14h -- Eduardo Esteves
 
 ### TBA -- Lucas Castello Branco -- Gaiotto Lagrangians 
 
@@ -69,7 +79,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 - Oct 4 -- Eduardo Esteves, part ii
 - Sep 27, 15h -- Eduardo Esteves, part i
-- Sep 27, 13:30-14:30 -- Raffaelle Vitolo
+- Sep 27, 13:30-14:30 -- Raffaelle Vitolo -- Some problems in Hamiltonian geometry of PDEs
 - Sep 20 -- Felipe -- elliptic surfaces, rational and K3
 - Sep 13 -- research problems
 - Sep 6 -- Eduardo Alves da Silva -- Classification of log Calabi-Yau pairs $(P^3,D)$ after Ducat
@@ -182,7 +192,16 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
-### TBA -- Sergey Galkin -- toric Kähler manifolds versus dually flat Hessian statistical manifolds, after Sasaki, Dombrowski, Cheng-Yau, Delzant, Guillemin, Abreu, Molitor.
+
+### Sep 20, 13:30-14:30 -- Raffaele Vitolo -- Some problems in Hamiltonian geometry of PDEs
+
+The Hamiltonian formulation of Partial Differential Equations
+is one of the cornerstones of the theory of Integrable Systems. Being
+carried out by analogy with finite-dimensional Hamiltonian systems,
+it has an intrinsic geometric nature. In this talk we will review
+differential-geometric aspects of the Hamiltonian theory of PDEs as well
+as new projective-geometric properties of known Integrable Systems that
+are emerging in recent years.
 
 ### Sep 6 -- **Eduardo Alves da Silva** -- Classification of log Calabi-Yau pairs $(P^3,D)$ after Ducat
 
