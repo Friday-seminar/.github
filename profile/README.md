@@ -64,7 +64,8 @@ and related topics.
 - Please [⭣⭣⭣ add here ⭣⭣⭣](https://github.com/friday-seminar/.github/blob/master/topics.md)
 interesting themes and topics for next seminar talks, references, slides of the talks, etc
 
-# Schedule
+# Schedule for 2024.2
+
 
 - Sep 27, 13:30-15:00 -- Raffaele Vitolo
 - Sep 20 -- tba
@@ -72,7 +73,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Sep 6 -- Eduardo Alves da Silva -- Classification of log Calabi-Yau pairs $(P^3,D)$ after Ducat
 
 
-## 2024 Winter (July 8 -- 26)
+## 2024 winter, July 8--26: (4 talks and a mini-course of 4 lectures)
 
 - July 26 -- Andrey Soldatenkov -- Hermitian symplectic structures and degenerate twistor deformations of hyperkähler manifolds
 - July 19 -- Artem Kalmykov -- A tale of two R-matrices
