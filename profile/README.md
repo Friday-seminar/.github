@@ -17,7 +17,9 @@
 
 Log Calabi-Yau pairs can be thought of as generalizations of Calabi-Yau varieties. Among them, there exists the notion of volume preserving maps. A natural and tough problem is classifying log Calabi-Yau pairs up to volume preserving equivalence. For this task, one can make use of the coregularity, the most important volume preserving invariant of a log Calabi-Yau pair. Recently, other invariants and refinements in the classification have been studied, especially in the coregularity 0 case. In this talk, I will survey some results and comment on works in progress regarding what is known to date about the classification for the case of log Calabi-Yau pairs of the form $(\mathbb{P}^3,D)$.
 
-### Sep 27, 13:30-15:00 -- Raffaele Vitolo
+### Sep 27, 13:30-14:30 -- Raffaele Vitolo
+### Sep 27, 15h -- Eduardo Esteves, part i
+### Oct 4 -- Eduardo Esteves, part ii
 
 ### TBA -- Lucas Castello Branco -- Gaiotto Lagrangians 
 
@@ -67,7 +69,9 @@ interesting themes and topics for next seminar talks, references, slides of the 
 # Schedule for 2024.2
 
 
-- Sep 27, 13:30-15:00 -- Raffaele Vitolo
+- Oct 4 -- Eduardo Esteves, part ii
+- Sep 27, 15h -- Eduardo Esteves, part i
+- Sep 27, 13:30-14:30 -- Raffaelle Vitolo
 - Sep 20 -- tba
 - Sep 13 -- tba
 - Sep 6 -- Eduardo Alves da Silva -- Classification of log Calabi-Yau pairs $(P^3,D)$ after Ducat
