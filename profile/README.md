@@ -13,9 +13,10 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### Sep 13 -- research problems
 
-### Sep 20 -- Felipe on elliptic rational and K3 surfaces
+### Sep 20 -- Felipe Zingali Meira -- Jacobian elliptic fibrations in K3 surfaces with non-symplectic automorphisms of prime order
+
+K3 surfaces are one of the few classes of algebraic surfaces which allow more than one distinct relatively minimal elliptic fibration. There are distinct ways of classifying such fibrations. In this talk, we will describe how to classify these fibrations with relation to the action of a non-symplectic automorphism $\sigma$ of prime order on a K3 surface $X$, and how each type of fibration relates to a linear system in the quotient surface $X/\sigma$.
 
 ### Sep 27, 13:30-14:30 -- Raffaele Vitolo -- Some problems in Hamiltonian geometry of PDEs
 
@@ -76,12 +77,14 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Schedule for 2024.2
 
-
+- Oct 25 -- Carolina Araujo (joint session with Oktobermat) 
+- Oct 18 -- tba
+- Oct 11 -- tba
 - Oct 4 -- Eduardo Esteves, part ii
 - Sep 27, 15h -- Eduardo Esteves, part i
 - Sep 27, 13:30-14:30 -- Raffaelle Vitolo -- Some problems in Hamiltonian geometry of PDEs
-- Sep 20 -- Felipe -- elliptic surfaces, rational and K3
-- Sep 13 -- research problems
+- Sep 20 -- Felipe Zingali Meira -- Jacobian elliptic fibrations in K3 surfaces with non-symplectic automorphisms of prime order
+- Sep 13 -- Daniel, Alex, Lucas, Arthur, Victor, Sergey -- research problems and topics of interest
 - Sep 6 -- Eduardo Alves da Silva -- Classification of log Calabi-Yau pairs $(P^3,D)$ after Ducat
 
 
@@ -193,7 +196,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
 
-### Sep 20, 13:30-14:30 -- Raffaele Vitolo -- Some problems in Hamiltonian geometry of PDEs
+### Sep 27, 13:30-14:30 -- Raffaele Vitolo -- Some problems in Hamiltonian geometry of PDEs
 
 The Hamiltonian formulation of Partial Differential Equations
 is one of the cornerstones of the theory of Integrable Systems. Being
@@ -202,6 +205,20 @@ it has an intrinsic geometric nature. In this talk we will review
 differential-geometric aspects of the Hamiltonian theory of PDEs as well
 as new projective-geometric properties of known Integrable Systems that
 are emerging in recent years.
+
+### Sep 20 -- Felipe Zingali Meira -- Jacobian elliptic fibrations in K3 surfaces with non-symplectic automorphisms of prime order
+
+K3 surfaces are one of the few classes of algebraic surfaces which allow more than one distinct relatively minimal elliptic fibration. There are distinct ways of classifying such fibrations. In this talk, we will describe how to classify these fibrations with relation to the action of a non-symplectic automorphism $\sigma$ of prime order on a K3 surface $X$, and how each type of fibration relates to a linear system in the quotient surface $X/\sigma$.
+
+### Sep 13 -- research problems and topics of interest
+
+  - Daniel - chiral polytopes,
+  - Alex - quasi-Hamiltonian version of Moore-Tachikawa category of G-Hamiltonian holomorphic symplectic varieties,
+  - Lucas - Lagrangian subvarieties on moduli spaces of Higgs bundles, with special regards to Gaiotto construction,
+  - Arthur — Weil reciprocity law,
+  - Victor — matrix facrtorizations categories and Bondal-Orlov criterion,
+  - Sergey — Kapustin-Rozansky’s big picture.
+
 
 ### Sep 6 -- **Eduardo Alves da Silva** -- Classification of log Calabi-Yau pairs $(P^3,D)$ after Ducat
 
