@@ -14,7 +14,7 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-### Sep 20 -- Felipe Zingali Meira -- Jacobian elliptic fibrations in K3 surfaces with non-symplectic automorphisms of prime order
+### Sep 20 -- Felipe Zingali Meira -- [Jacobian elliptic fibrations in K3 surfaces](https://en.wikipedia.org/wiki/K3_surface#Elliptic_K3_surfaces) with non-symplectic automorphisms of prime order
 
 K3 surfaces are one of the few classes of algebraic surfaces which allow more than one distinct relatively minimal elliptic fibration. There are distinct ways of classifying such fibrations. In this talk, we will describe how to classify these fibrations with relation to the action of a non-symplectic automorphism $\sigma$ of prime order on a K3 surface $X$, and how each type of fibration relates to a linear system in the quotient surface $X/\sigma$.
 
@@ -83,7 +83,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Oct 4 -- Eduardo Esteves, part ii
 - Sep 27, 15h -- Eduardo Esteves, part i
 - Sep 27, 13:30-14:30 -- Raffaelle Vitolo -- Some problems in Hamiltonian geometry of PDEs
-- Sep 20 -- Felipe Zingali Meira -- Jacobian elliptic fibrations in K3 surfaces with non-symplectic automorphisms of prime order
+- Sep 20 -- Felipe Zingali Meira -- [Jacobian elliptic fibrations in K3 surfaces](https://en.wikipedia.org/wiki/K3_surface#Elliptic_K3_surfaces) with non-symplectic automorphisms of prime order
 - Sep 13 -- Daniel, Alex, Lucas, Arthur, Victor, Sergey -- research problems and topics of interest
 - Sep 6 -- Eduardo Alves da Silva -- Classification of log Calabi-Yau pairs $(P^3,D)$ after Ducat
 
@@ -206,7 +206,7 @@ differential-geometric aspects of the Hamiltonian theory of PDEs as well
 as new projective-geometric properties of known Integrable Systems that
 are emerging in recent years.
 
-### Sep 20 -- Felipe Zingali Meira -- Jacobian elliptic fibrations in K3 surfaces with non-symplectic automorphisms of prime order
+### Sep 20 -- Felipe Zingali Meira -- [Jacobian elliptic fibrations in K3 surfaces](https://en.wikipedia.org/wiki/K3_surface#Elliptic_K3_surfaces) with non-symplectic automorphisms of prime order
 
 K3 surfaces are one of the few classes of algebraic surfaces which allow more than one distinct relatively minimal elliptic fibration. There are distinct ways of classifying such fibrations. In this talk, we will describe how to classify these fibrations with relation to the action of a non-symplectic automorphism $\sigma$ of prime order on a K3 surface $X$, and how each type of fibration relates to a linear system in the quotient surface $X/\sigma$.
 
