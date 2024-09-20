@@ -28,7 +28,9 @@ differential-geometric aspects of the Hamiltonian theory of PDEs as well
 as new projective-geometric properties of known Integrable Systems that
 are emerging in recent years.
 
-### Sep 27, 15h and Oct 4, 14h -- Eduardo Esteves
+### Sep 27, 15h and Oct 4, 15h -- Eduardo Esteves -- Degenerations of the canonical series for curves
+
+As curves degenerate, their canonical series go along. Where to? Can we describe the limit canonical divisors? We will see through an example that this is not an easy question, as linear equivalence is not preserved under a degeneration. Indeed, answers were known only in special cases, mainly curves of compact type and curves with two components. Expanding on work by Kapranov and Bainbridge-Chen-Gendron-Grushevsky-Müller, we will describe explicitly all the limits of canonical divisors to a nodal curve which is general for its topology. Furthermore, we analyze the dependence of the description on the singularity degrees of the degeneration, leading to a polyhedral fan and the construction of a projective variety parameterizing all the limits. This is joint work with Omid Amini (École Polytechnique) and Eduardo Garcez (UECE).
 
 ### TBA -- Lucas Castello Branco -- Gaiotto Lagrangians 
 
@@ -80,8 +82,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Oct 25 -- Carolina Araujo (joint session with Oktobermat) 
 - Oct 18 -- tba
 - Oct 11 -- tba
-- Oct 4 -- Eduardo Esteves, part ii
-- Sep 27, 15h -- Eduardo Esteves, part i
+- Oct 4 -- Eduardo Esteves -- Degenerations of the canonical series for curves, part ii/ii
+- Sep 27, 15h -- Eduardo Esteves -- Degenerations of the canonical series for curves, part i/ii
 - Sep 27, 13:30-14:30 -- Raffaelle Vitolo -- Some problems in Hamiltonian geometry of PDEs
 - Sep 20 -- Felipe Zingali Meira -- [Jacobian elliptic fibrations in K3 surfaces](https://en.wikipedia.org/wiki/K3_surface#Elliptic_K3_surfaces) with non-symplectic automorphisms of prime order
 - Sep 13 -- Daniel, Alex, Lucas, Arthur, Victor, Sergey -- research problems and topics of interest
@@ -195,6 +197,9 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
+### Sep 27, 15h and Oct 4, 15h -- Eduardo Esteves -- Degenerations of the canonical series for curves
+
+As curves degenerate, their canonical series go along. Where to? Can we describe the limit canonical divisors? We will see through an example that this is not an easy question, as linear equivalence is not preserved under a degeneration. Indeed, answers were known only in special cases, mainly curves of compact type and curves with two components. Expanding on work by Kapranov and Bainbridge-Chen-Gendron-Grushevsky-Müller, we will describe explicitly all the limits of canonical divisors to a nodal curve which is general for its topology. Furthermore, we analyze the dependence of the description on the singularity degrees of the degeneration, leading to a polyhedral fan and the construction of a projective variety parameterizing all the limits. This is joint work with Omid Amini (École Polytechnique) and Eduardo Garcez (UECE).
 
 ### Sep 27, 13:30-14:30 -- Raffaele Vitolo -- Some problems in Hamiltonian geometry of PDEs
 
