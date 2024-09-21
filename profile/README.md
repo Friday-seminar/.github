@@ -13,11 +13,6 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-
-### Sep 20 -- Felipe Zingali Meira -- [Jacobian elliptic fibrations in K3 surfaces](https://en.wikipedia.org/wiki/K3_surface#Elliptic_K3_surfaces) with non-symplectic automorphisms of prime order
-
-K3 surfaces are one of the few classes of algebraic surfaces which allow more than one distinct relatively minimal elliptic fibration. There are distinct ways of classifying such fibrations. In this talk, we will describe how to classify these fibrations with relation to the action of a non-symplectic automorphism $\sigma$ of prime order on a K3 surface $X$, and how each type of fibration relates to a linear system in the quotient surface $X/\sigma$.
-
 ### Sep 27, 13:30-14:30 -- Raffaele Vitolo -- Some problems in Hamiltonian geometry of PDEs
 
 The Hamiltonian formulation of Partial Differential Equations
