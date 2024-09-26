@@ -74,6 +74,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Schedule for 2024.2
 
+Holidays -- Nov 15.
+
 - Oct 25 -- Carolina Araujo (joint session with Oktobermat) 
 - Oct 18 -- tba
 - Oct 11 -- tba
@@ -107,7 +109,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - June 7 -- Altan Erdnigor -- geometric class field theory, part II
 - May 31 -- [Recesso do Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - May 24 -- John Alexander Cruz Morales -- Revisiting mirror maps: model theory, arithmetic and geometry
-- May 24 -- Lucas Castello Branco -- Geometric Quantization and Hitchin connection
+- May 24 -- Lucas Castello Branco -- [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization) and Hitchin connection
 - May 17, 16h -- Sergey Galkin -- More [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry): Amari-Chentsov tensor, [exponential families](https://en.wikipedia.org/wiki/Exponential_family), dually flat geometry and related topics
 - May 17, 14h -- [Rafael Ruggiero](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- [Fisher information](https://en.wikipedia.org/wiki/Fisher_information) and [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry)
 - May 10 -- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero) -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics. Part I: Introduction to [Information Theory](https://en.wikipedia.org/wiki/Information_theory).
