@@ -77,7 +77,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 Holidays -- Nov 15.
 
 - Oct 25 -- Carolina Araujo (joint session with Oktobermat) 
-- Oct 18 -- tba
+- Oct 18 -- Alex Gomez -- [About Karoubian Completion](https://ncatlab.org/nlab/show/Karoubi+envelope)
 - Oct 11 -- tba
 - Oct 4 -- Eduardo Esteves -- Degenerations of the canonical series for curves, part ii/ii
 - Sep 27, 15h -- Eduardo Esteves -- Degenerations of the canonical series for curves, part i/ii
