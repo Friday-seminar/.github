@@ -64,7 +64,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
 Holidays -- Nov 15.
 - Nov 1 -- Alex Gomez -- [Karoubian Completion](https://ncatlab.org/nlab/show/Karoubi+envelope)
 - Oct 25 -- Carolina Araujo (joint session with Oktobermat) 
-- Oct 18 -- Bruno Suassuna -- Geometric Quantization
+- Oct 18, 16:30 -- Mikhail Mazin
+- Oct 18, 14h -- Bruno Suassuna -- Coherent States in Geometric Quantization
 - Oct 11 -- tba
 - Oct 4 -- Eduardo Esteves -- Degenerations of the canonical series for curves, part ii/ii
 - Sep 27, 15h -- Eduardo Esteves -- Degenerations of the canonical series for curves, part i/ii
