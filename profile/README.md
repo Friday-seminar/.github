@@ -13,6 +13,14 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
+### Oct 18, 16: 30 -- Mikhail Mazin -- Equivariant K-theory of the square of an n-step partial flag variety and a "q=0" version of the affine quantum group.
+
+More than thirty years ago Beilinson, Lusztig, and MacPherson provided a geometric framework for quantum groups by considering a convolution product on the square of the n-step partial flag variety over finite fields. Since then there were several generalizations, in particular Ginzburg and Vasserot used equivariant K-theory of the Steinberg variety in the cotangent space of the square of the n-step flag variety to study the affine quantum group, with the quantum parameter corresponding to the dilation action in the cotangent direction. In a joint work with Sergey Arkhipov we use the convolution product on the equivariant K-theory of the square of the n-step flag variety itself to define and study a "q=0" version of the affine quantum group.
+
+In this talk, I will define our "q=0" version of the affine quantum group via generators and relations, introduce the convolution algebra on the equivariant K-theory of the  square of the n-step flag variety, and outline the construction of a surjective morphism from the "q=0" affine quantum group onto the convolution algebra.
+
+The talk is based on a preprint with Sergey Arkhipov: https://arxiv.org/abs/2205.05184.
+
 
 ### TBA -- Lucas Castello Branco -- Gaiotto Lagrangians 
 
@@ -64,9 +72,9 @@ interesting themes and topics for next seminar talks, references, slides of the 
 Holidays -- Nov 15.
 - Nov 1 -- Alex Gomez -- [Karoubian Completion](https://ncatlab.org/nlab/show/Karoubi+envelope)
 - Oct 25 -- Carolina Araujo (joint session with Oktobermat) 
-- Oct 18, 16:30 -- Mikhail Mazin
-- Oct 18, 14h -- Bruno Suassuna -- Coherent States in Geometric Quantization
-- Oct 11 -- tba
+- Oct 18, 16:30 -- Mikhail Mazin -- Equivariant K-theory of the square of an n-step partial flag variety and a "q=0" version of the affine quantum group
+- Oct 18, 14:30 -- Bruno Suassuna -- Coherent States in Geometric Quantization
+- Oct 11 -- Bruno Suassuna and Sergey Galkin -- quantization of surfaces, preliminaries and research prospects
 - Oct 4 -- Eduardo Esteves -- Degenerations of the canonical series for curves, part ii/ii
 - Sep 27, 15h -- Eduardo Esteves -- Degenerations of the canonical series for curves, part i/ii
 - Sep 27, 13:30-14:30 -- Raffaelle Vitolo -- Some problems in Hamiltonian geometry of PDEs
@@ -181,6 +189,18 @@ Holidays -- Nov 15.
 ### TBA -- **Lucas Castello Branco** -- Gaiotto Lagrangians
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
+
+### Oct 18, 16:30 -- Mikhail Mazin -- Equivariant K-theory of the square of an n-step partial flag variety and a "q=0" version of the affine quantum group.
+
+More than thirty years ago Beilinson, Lusztig, and MacPherson provided a geometric framework for quantum groups by considering a convolution product on the square of the n-step partial flag variety over finite fields. Since then there were several generalizations, in particular Ginzburg and Vasserot used equivariant K-theory of the Steinberg variety in the cotangent space of the square of the n-step flag variety to study the affine quantum group, with the quantum parameter corresponding to the dilation action in the cotangent direction. In a joint work with Sergey Arkhipov we use the convolution product on the equivariant K-theory of the square of the n-step flag variety itself to define and study a "q=0" version of the affine quantum group.
+
+In this talk, I will define our "q=0" version of the affine quantum group via generators and relations, introduce the convolution algebra on the equivariant K-theory of the  square of the n-step flag variety, and outline the construction of a surjective morphism from the "q=0" affine quantum group onto the convolution algebra.
+
+The talk is based on a preprint with Sergey Arkhipov: https://arxiv.org/abs/2205.05184.
+
+### Oct 18, 14:30 -- Bruno Suassuna -- Coherent States in Geometric Quantization
+
+### Oct 11 -- research meeting of quantum surface group
 
 ### Sep 27, 15h and Oct 4, 15h -- Eduardo Esteves -- Degenerations of the canonical series for curves
 
