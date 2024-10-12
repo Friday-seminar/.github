@@ -13,7 +13,9 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### Oct 18, 16: 30 -- Mikhail Mazin -- Equivariant K-theory of the square of an n-step partial flag variety and a "q=0" version of the affine quantum group.
+### Oct 18, 14:30 -- Bruno Suassuna -- Coherent States in Geometric Quantization
+
+### Oct 18, 16:30 -- Mikhail Mazin -- Equivariant K-theory of the square of an n-step partial flag variety and a "q=0" version of the affine quantum group.
 
 More than thirty years ago Beilinson, Lusztig, and MacPherson provided a geometric framework for quantum groups by considering a convolution product on the square of the n-step partial flag variety over finite fields. Since then there were several generalizations, in particular Ginzburg and Vasserot used equivariant K-theory of the Steinberg variety in the cotangent space of the square of the n-step flag variety to study the affine quantum group, with the quantum parameter corresponding to the dilation action in the cotangent direction. In a joint work with Sergey Arkhipov we use the convolution product on the equivariant K-theory of the square of the n-step flag variety itself to define and study a "q=0" version of the affine quantum group.
 
