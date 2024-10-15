@@ -73,9 +73,11 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Schedule for 2024.2
 
-Holidays -- Nov 15.
-
-- Nov 15 - holiday, no seminar.
+- Dec 13
+- Dec 6
+- Nov 29
+- Nov 22
+- Nov 15 -- holiday, no seminar.
 - Nov 8, 16h -- tba
 - Nov 1 -- Alex Gomez -- [Karoubian Completion](https://ncatlab.org/nlab/show/Karoubi+envelope)
 - Oct 25, [Oktobermat](http://www.mat.puc-rio.br/oktobermat-2024), 14:00-15:00 -- Carolina Araujo -- Geometria Algébrica: história, desafios e aplicações
