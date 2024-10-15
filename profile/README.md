@@ -13,7 +13,9 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### Oct 18, 14:30 -- Bruno Suassuna -- Coherent States in Geometric Quantization
+### Oct 18, 14:00 -- Altan Erdnigor -- Method of Second Quantization
+
+### Oct 18, 15:15 -- Bruno Suassuna -- Coherent States in Geometric Quantization
 
 ### Oct 18, 16:30 -- Mikhail Mazin -- Equivariant K-theory of the square of an n-step partial flag variety and a "q=0" version of the affine quantum group.
 
@@ -73,9 +75,10 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 Holidays -- Nov 15.
 - Nov 1 -- Alex Gomez -- [Karoubian Completion](https://ncatlab.org/nlab/show/Karoubi+envelope)
-- Oct 25 -- Carolina Araujo (joint session with Oktobermat) 
+- Oct 25, [Oktobermat](http://www.mat.puc-rio.br/oktobermat-2024), 14:00-15:00 -- Carolina Araujo -- Geometria Algébrica: história, desafios e aplicações
 - Oct 18, 16:30 -- Mikhail Mazin -- Equivariant K-theory of the square of an n-step partial flag variety and a "q=0" version of the affine quantum group
-- Oct 18, 14:30 -- Bruno Suassuna -- Coherent States in Geometric Quantization
+- Oct 18, 15:15 -- Bruno Suassuna -- Coherent States in Geometric Quantization
+- Oct 18, 14:00 -- Altan Erdnigor -- Method of Second Quantization
 - Oct 11 -- Bruno Suassuna and Sergey Galkin -- quantization of surfaces, preliminaries and research prospects
 - Oct 4 -- Eduardo Esteves -- Degenerations of the canonical series for curves, part ii/ii
 - Sep 27, 15h -- Eduardo Esteves -- Degenerations of the canonical series for curves, part i/ii
