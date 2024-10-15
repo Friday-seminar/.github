@@ -26,6 +26,8 @@ In this talk, I will define our "q=0" version of the affine quantum group via ge
 The talk is based on a preprint with Sergey Arkhipov: https://arxiv.org/abs/2205.05184.
 
 
+### Dec 6 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella do Amaral, Lucas Castello Branco
+
 ### TBA -- Lucas Castello Branco -- Gaiotto Lagrangians 
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
@@ -35,9 +37,7 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
   - **DMAT PUC-Rio**, room **L863** in Leme building (left from main entrance), take an elevator to 8th floor near "Bar Nossa Senhora do Carmo" on the opposite site of a bookshop.
 
 ## we are:
-a research and study group of students and professors from post-graduate mathematics programs of
-[PUC-Rio](http://www.mat.puc-rio.br), [IMPA](https://impa.br) and [UFF](https://pgmat-uff.com.br),
-interested in 
+a research and study group interested in 
 [algebraic](https://en.wikipedia.org/wiki/Algebraic_geometry), 
 [symplectic](https://en.wikipedia.org/wiki/Symplectic_geometry),
 [affine](https://en.wikipedia.org/wiki/Affine_geometry),
@@ -74,7 +74,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 # Schedule for 2024.2
 
 - Dec 13
-- Dec 6
+- Dec 6 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella, Lucas Castello Branco
 - Nov 29
 - Nov 22
 - Nov 15 -- holiday, no seminar.
@@ -684,7 +684,7 @@ The talk is based on the joint work with M.V. Budrevich.
 - [Calabi--Yau theorem](https://en.wikipedia.org/wiki/Calabi_conjecture) 
 - other research-related topics (add yours)
 
-More seminars: 
+More seminars in Rio de Janeiro: 
 - [Rio Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio)
 - IMPA: Geometric Structures on Manifolds (Thu 17h), GADEPs (Fri, 10:30), Symplectic Geometry (Wed 15:30), Algebra (Wed 15:30)
 - UFF: [Algebraic and Complex Geometry](https://sites.google.com/view/geoalgcompluff/home)
