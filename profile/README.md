@@ -13,7 +13,9 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### Oct 18, 14:30 -- Bruno Suassuna -- Coherent States in Geometric Quantization
+### Oct 18, 14:00 -- Altan Erdnigor -- Method of Second Quantization
+
+### Oct 18, 15:15 -- Bruno Suassuna -- Coherent States in Geometric Quantization
 
 ### Oct 18, 16:30 -- Mikhail Mazin -- Equivariant K-theory of the square of an n-step partial flag variety and a "q=0" version of the affine quantum group
 
@@ -24,6 +26,8 @@ In this talk, I will define our "q=0" version of the affine quantum group via ge
 The talk is based on a preprint with Sergey Arkhipov: https://arxiv.org/abs/2205.05184.
 
 
+### Dec 6 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella do Amaral, Lucas Castello Branco
+
 ### TBA -- Lucas Castello Branco -- Gaiotto Lagrangians 
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
@@ -33,9 +37,7 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
   - **DMAT PUC-Rio**, room **L863** in Leme building (left from main entrance), take an elevator to 8th floor near "Bar Nossa Senhora do Carmo" on the opposite site of a bookshop.
 
 ## we are:
-a research and study group of students and professors from post-graduate mathematics programs of
-[PUC-Rio](http://www.mat.puc-rio.br), [IMPA](https://impa.br) and [UFF](https://pgmat-uff.com.br),
-interested in 
+a research and study group interested in 
 [algebraic](https://en.wikipedia.org/wiki/Algebraic_geometry), 
 [symplectic](https://en.wikipedia.org/wiki/Symplectic_geometry),
 [affine](https://en.wikipedia.org/wiki/Affine_geometry),
@@ -71,11 +73,17 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Schedule for 2024.2
 
-Holidays -- Nov 15.
+- Dec 13
+- Dec 6 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella, Lucas Castello Branco
+- Nov 29
+- Nov 22
+- Nov 15 -- holiday, no seminar.
+- Nov 8, 16h -- tba
 - Nov 1 -- Alex Gomez -- [Karoubian Completion](https://ncatlab.org/nlab/show/Karoubi+envelope)
-- Oct 25 -- Carolina Araujo (joint session with Oktobermat) 
+- Oct 25, [Oktobermat](http://www.mat.puc-rio.br/oktobermat-2024), 14:00-15:00 -- Carolina Araujo -- Geometria Algébrica: história, desafios e aplicações
 - Oct 18, 16:30 -- Mikhail Mazin -- Equivariant K-theory of the square of an n-step partial flag variety and a "q=0" version of the affine quantum group
-- Oct 18, 14:30 -- Bruno Suassuna -- Coherent States in Geometric Quantization
+- Oct 18, 15:15 -- Bruno Suassuna -- Coherent States in Geometric Quantization
+- Oct 18, 14:00 -- Altan Erdnigor -- Method of Second Quantization
 - Oct 11 -- Bruno Suassuna and Sergey Galkin -- quantization of surfaces, preliminaries and research prospects
 - Oct 4 -- Eduardo Esteves -- Degenerations of the canonical series for curves, part ii/ii
 - Sep 27, 15h -- Eduardo Esteves -- Degenerations of the canonical series for curves, part i/ii
@@ -676,7 +684,7 @@ The talk is based on the joint work with M.V. Budrevich.
 - [Calabi--Yau theorem](https://en.wikipedia.org/wiki/Calabi_conjecture) 
 - other research-related topics (add yours)
 
-More seminars: 
+More seminars in Rio de Janeiro: 
 - [Rio Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio)
 - IMPA: Geometric Structures on Manifolds (Thu 17h), GADEPs (Fri, 10:30), Symplectic Geometry (Wed 15:30), Algebra (Wed 15:30)
 - UFF: [Algebraic and Complex Geometry](https://sites.google.com/view/geoalgcompluff/home)
