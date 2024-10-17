@@ -25,8 +25,11 @@ In this talk, I will define our "q=0" version of the affine quantum group via ge
 
 The talk is based on a preprint with Sergey Arkhipov: https://arxiv.org/abs/2205.05184.
 
+### Oct 25 -- [Oktobermat](http://www.mat.puc-rio.br/oktobermat-2024)
 
-### Dec 6 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella do Amaral, Lucas Castello Branco
+### Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, TBA, Misha Verbitsky
+
+### Dec 13 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella do Amaral, Lucas Castello Branco
 
 ### TBA -- Lucas Castello Branco -- Gaiotto Lagrangians 
 
@@ -73,8 +76,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Schedule for 2024.2
 
-- Dec 13
-- Dec 6 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella, Lucas Castello Branco
+- Dec 13 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella, Lucas Castello Branco
+- Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, TBA, Misha Verbitsky
 - Nov 29
 - Nov 22
 - Nov 15 -- holiday, no seminar.
@@ -200,6 +203,10 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
+
+### Dec 13 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella, Lucas Castello Branco
+
+
 ### Oct 18, 16:30 -- Mikhail Mazin -- Equivariant K-theory of the square of an n-step partial flag variety and a "q=0" version of the affine quantum group
 
 More than thirty years ago Beilinson, Lusztig, and MacPherson provided a geometric framework for quantum groups by considering a convolution product on the square of the n-step partial flag variety over finite fields. Since then there were several generalizations, in particular Ginzburg and Vasserot used equivariant K-theory of the Steinberg variety in the cotangent space of the square of the n-step flag variety to study the affine quantum group, with the quantum parameter corresponding to the dilation action in the cotangent direction. In a joint work with Sergey Arkhipov we use the convolution product on the equivariant K-theory of the square of the n-step flag variety itself to define and study a "q=0" version of the affine quantum group.
@@ -208,7 +215,9 @@ In this talk, I will define our "q=0" version of the affine quantum group via ge
 
 The talk is based on a preprint with Sergey Arkhipov: https://arxiv.org/abs/2205.05184.
 
-### Oct 18, 14:30 -- Bruno Suassuna -- Coherent States in Geometric Quantization
+### Oct 18, 15:15 -- Bruno Suassuna -- Coherent States in Geometric Quantization
+
+### Oct 18, 14:00 -- Altan Erdnigor -- Method of Second Quantization
 
 ### Oct 11 -- research meeting of quantum surface group
 
@@ -685,6 +694,7 @@ The talk is based on the joint work with M.V. Budrevich.
 - other research-related topics (add yours)
 
 More seminars in Rio de Janeiro: 
+- Rio Geometry Seminar   
 - [Rio Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio)
 - IMPA: Geometric Structures on Manifolds (Thu 17h), GADEPs (Fri, 10:30), Symplectic Geometry (Wed 15:30), Algebra (Wed 15:30)
 - UFF: [Algebraic and Complex Geometry](https://sites.google.com/view/geoalgcompluff/home)
