@@ -67,7 +67,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 # Schedule for 2024.2
 
 - Dec 13 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella, Lucas Castello Branco
-- Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, TBA, Misha Verbitsky
+- Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, Raffaele Vitolo, Misha Verbitsky
 - Nov 29 -- Raffaele Vitolo
 - Nov 22 -- tba
 - Nov 15 -- holiday, no seminar.
