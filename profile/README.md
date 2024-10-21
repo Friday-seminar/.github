@@ -13,19 +13,9 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### Oct 18, 14:00 -- Altan Erdnigor -- Method of Second Quantization
+### Oct 25 -- [Oktobermat](http://www.mat.puc-rio.br/oktobermat-2024) in PUC,
+   and [Rio Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio) in UFF.
 
-### Oct 18, 15:15 -- Bruno Suassuna -- Coherent States in Geometric Quantization
-
-### Oct 18, 16:30 -- Mikhail Mazin -- Equivariant K-theory of the square of an n-step partial flag variety and a "q=0" version of the affine quantum group
-
-More than thirty years ago Beilinson, Lusztig, and MacPherson provided a geometric framework for quantum roups by considering a convolution product on the square of the n-step partial flag variety over finite fields. Since then there were several generalizations, in particular Ginzburg and Vasserot used equivariant K-theory of the Steinberg variety in the cotangent space of the square of the n-step flag variety to study the affine quantum group, with the quantum parameter corresponding to the dilation action in the cotangent direction. In a joint work with Sergey Arkhipov we use the convolution product on the equivariant K-theory of the square of the n-step flag variety itself to define and study a "q=0" version of the affine quantum group.
-
-In this talk, I will define our "q=0" version of the affine quantum group via generators and relations, introduce the convolution algebra on the equivariant K-theory of the  square of the n-step flag variety, and outline the construction of a surjective morphism from the "q=0" affine quantum group onto the convolution algebra.
-
-The talk is based on a preprint with Sergey Arkhipov: https://arxiv.org/abs/2205.05184.
-
-### Oct 25 -- [Oktobermat](http://www.mat.puc-rio.br/oktobermat-2024)
 
 ### Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, TBA, Misha Verbitsky
 
@@ -78,12 +68,12 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 - Dec 13 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella, Lucas Castello Branco
 - Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, TBA, Misha Verbitsky
-- Nov 29
-- Nov 22
+- Nov 29 -- Raffaele Vitolo
+- Nov 22 -- tba
 - Nov 15 -- holiday, no seminar.
 - Nov 8, 16h -- tba
 - Nov 1 -- Alex Gomez -- [Karoubian Completion](https://ncatlab.org/nlab/show/Karoubi+envelope)
-- Oct 25, [Oktobermat](http://www.mat.puc-rio.br/oktobermat-2024), 14:00-15:00 -- Carolina Araujo -- Geometria Algébrica: história, desafios e aplicações
+- Oct 25, [Oktobermat](http://www.mat.puc-rio.br/oktobermat-2024), 14:00-15:00 -- Carolina Araujo -- Geometria Algébrica: história, desafios e aplicações. [Rio Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio) in UFF.
 - Oct 18, 16:30 -- Mikhail Mazin -- Equivariant K-theory of the square of an n-step partial flag variety and a "q=0" version of the affine quantum group
 - Oct 18, 15:15 -- Bruno Suassuna -- Coherent States in Geometric Quantization
 - Oct 18, 14:00 -- Altan Erdnigor -- Method of Second Quantization
