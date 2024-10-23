@@ -208,6 +208,7 @@ The talk is based on a preprint with Sergey Arkhipov: https://arxiv.org/abs/2205
 ### Oct 18, 15:15 -- Bruno Suassuna -- Coherent States in Geometric Quantization
 
 ### Oct 18, 14:00 -- Altan Erdnigor -- Method of Second Quantization
+My talk is devoted to [Berezin's construction](https://en.wikipedia.org/wiki/Berezin_integral) of [Weil's metaplectic representation](https://en.wikipedia.org/wiki/Metaplectic_group) on the [Fock space](https://en.wikipedia.org/wiki/Fock_space).
 
 ### Oct 11 -- research meeting of quantum surface group
 
