@@ -688,5 +688,5 @@ More seminars in Rio de Janeiro:
 - Rio Geometry Seminar   
 - [Rio Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio)
 - IMPA: Geometric Structures on Manifolds (Thu 17h), GADEPs (Fri, 10:30), Symplectic Geometry (Wed 15:30), Algebra (Wed 15:30)
-- UFF: [Algebraic and Complex Geometry](https://sites.google.com/view/geoalgcompluff/home)
+- UFF: [Algebraic and Complex Geometry](https://sites.google.com/view/geoalgcompluff/home), [Geometry & Topology](https://sites.google.com/view/seminario-gt-uff/home)
 - PUC-Rio: [qtp](http://mat.puc-rio.br/qtp.htm), [DMAT](http://www.mat.puc-rio.br), [DFIS](https://www.fis.puc-rio.br/en/)
