@@ -13,9 +13,7 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### Oct 25 -- [Oktobermat](http://www.mat.puc-rio.br/oktobermat-2024) in PUC,
-   and [Rio Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio) in UFF.
-
+### Nov 1, 16h and Nov 8, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry
 
 ### Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, TBA, Misha Verbitsky
 
@@ -69,10 +67,12 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Dec 13 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella, Lucas Castello Branco
 - Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, Raffaele Vitolo, Misha Verbitsky
 - Nov 29 -- Raffaele Vitolo
-- Nov 22 -- tba
+- Nov 22, 15h -- tba
+- Nov 22, 14h -- Adriano -- PRIMES is in P 
 - Nov 15 -- holiday, no seminar.
-- Nov 8, 16h -- tba
-- Nov 1 -- Alex Gomez -- [Karoubian Completion](https://ncatlab.org/nlab/show/Karoubi+envelope)
+- Nov 8, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry, part I/II
+- Nov 1, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry, part I/II
+- Nov 1, 14h -- Alex Gomez -- [Karoubian Completion](https://ncatlab.org/nlab/show/Karoubi+envelope)
 - Oct 25, [Oktobermat](http://www.mat.puc-rio.br/oktobermat-2024), 14:00-15:00 -- Carolina Araujo -- Geometria Algébrica: história, desafios e aplicações. [Rio Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio) in UFF.
 - Oct 18, 16:30 -- Mikhail Mazin -- Equivariant K-theory of the square of an n-step partial flag variety and a "q=0" version of the affine quantum group
 - Oct 18, 15:15 -- Bruno Suassuna -- Coherent States in Geometric Quantization
