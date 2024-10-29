@@ -15,8 +15,10 @@
 
 ### Nov 1, 14h -- Alex Gomez -- [Karoubian Completion](https://ncatlab.org/nlab/show/Karoubi+envelope)
 ### Nov 1, 16h and Nov 8, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry
-
-### Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, TBA, Misha Verbitsky
+### Nov 15 -- holiday
+### Nov 22 -- tba + Adriano on "PRIMES is in P" 
+### Nov 29 -- Raffaele Vitolo
+### Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, Raffaele Vitolo, Misha Verbitsky
 
 ### Dec 13 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella do Amaral, Lucas Castello Branco
 
