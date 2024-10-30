@@ -77,7 +77,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Nov 8, 13h-16h -- [mntnk](http://www.mat.puc-rio.br/minutnik-concurso-de-palestras)
 - Nov 1, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry, part i/ii
 - Nov 1, 14h -- Alex Gomez -- [Karoubian Completion](https://ncatlab.org/nlab/show/Karoubi+envelope)
-- Oct 25, [Oktobermat@PUC](http://www.mat.puc-rio.br/oktobermat-2024) and [Rio Joint Symplectic Seminar @ UFF](https://sites.google.com/matematica.ufrj.br/semsimprio).
+- Oct 25, [Oktobermat @ PUC](http://www.mat.puc-rio.br/oktobermat-2024) and [Rio Joint Symplectic Seminar @ UFF](https://sites.google.com/matematica.ufrj.br/semsimprio).
 - Oct 18, 16:30 -- Mikhail Mazin -- Equivariant K-theory of the square of an n-step partial flag variety and a "q=0" version of the affine quantum group
 - Oct 18, 15:15 -- Bruno Suassuna -- Coherent States in Geometric Quantization
 - Oct 18, 14:00 -- Altan Erdnigor -- Method of Second Quantization
