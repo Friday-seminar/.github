@@ -73,8 +73,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Nov 22, 15h -- tba
 - Nov 22, 14h -- Adriano -- PRIMES is in P 
 - Nov 15 -- holiday, no seminar.
-- Nov 8, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry, part I/II
-- Nov 1, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry, part I/II
+- Nov 8, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry, part ii/ii
+- Nov 1, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry, part i/ii
 - Nov 1, 14h -- Alex Gomez -- [Karoubian Completion](https://ncatlab.org/nlab/show/Karoubi+envelope)
 - Oct 25, [Oktobermat](http://www.mat.puc-rio.br/oktobermat-2024), 14:00-15:00 -- Carolina Araujo -- Geometria Algébrica: história, desafios e aplicações. [Rio Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio) in UFF.
 - Oct 18, 16:30 -- Mikhail Mazin -- Equivariant K-theory of the square of an n-step partial flag variety and a "q=0" version of the affine quantum group
