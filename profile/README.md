@@ -14,6 +14,9 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 ### Nov 1, 14h -- Alex Gomez -- [Karoubian Completion](https://ncatlab.org/nlab/show/Karoubi+envelope)
+
+This talk introduces exact and triangulated categories, followed by the concept of Karoubian (idempotent) completion. I will conclude by proving that the derived category of an idempotent complete exact category is also idempotent complete.
+
 ### Nov 1, 16h and Nov 8, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry
 ### Nov 15 -- holiday
 ### Nov 22 -- tba + Adriano on [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
