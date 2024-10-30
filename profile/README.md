@@ -16,7 +16,7 @@
 ### Nov 1, 14h -- Alex Gomez -- [Karoubian Completion](https://ncatlab.org/nlab/show/Karoubi+envelope)
 ### Nov 1, 16h and Nov 8, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry
 ### Nov 15 -- holiday
-### Nov 22 -- tba + Adriano on "PRIMES is in P" 
+### Nov 22 -- tba + Adriano on [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
 ### Nov 29 -- Raffaele Vitolo
 ### Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, Raffaele Vitolo, Misha Verbitsky
 
@@ -71,9 +71,10 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, Raffaele Vitolo, Misha Verbitsky
 - Nov 29 -- Raffaele Vitolo
 - Nov 22, 15h -- tba
-- Nov 22, 14h -- Adriano -- PRIMES is in P 
+- Nov 22, 14h -- Adriano -- [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
 - Nov 15 -- holiday, no seminar.
 - Nov 8, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry, part ii/ii
+- Nov 8, 13h-16h -- [mntnk](http://www.mat.puc-rio.br/minutnik-concurso-de-palestras)
 - Nov 1, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry, part i/ii
 - Nov 1, 14h -- Alex Gomez -- [Karoubian Completion](https://ncatlab.org/nlab/show/Karoubi+envelope)
 - Oct 25, [Oktobermat](http://www.mat.puc-rio.br/oktobermat-2024), 14:00-15:00 -- Carolina Araujo -- Geometria Algébrica: história, desafios e aplicações. [Rio Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio) in UFF.
