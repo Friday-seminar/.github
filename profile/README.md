@@ -44,7 +44,7 @@ a research and study group interested in
 [quantum field theory](https://en.wikipedia.org/wiki/Quantum_field_theory), 
 [conformal field theory](https://en.wikipedia.org/wiki/Conformal_field_theory),
 [gauge theory](https://en.wikipedia.org/wiki/Gauge_theory),
-**physical mathematics**,
+[**physical mathematics**](https://en.wikipedia.org/wiki/Physical_mathematics),
 [category theory](https://en.wikipedia.org/wiki/Category_theory) 
 and [operads](https://en.wikipedia.org/wiki/Operad),
 [number theory](https://en.wikipedia.org/wiki/Number_theory),
