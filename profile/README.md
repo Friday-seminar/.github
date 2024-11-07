@@ -17,7 +17,9 @@
 ### Nov 8, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry
 
 ### Nov 15 -- holiday
-### Nov 22 -- tba + Adriano on [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
+### Nov 22, 14h -- Adriano on [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
+### Nov 22, 15h - TBA
+### Nov 22, 16h - Nicolau Saldanha -- homotopy types of the spaces of locally convex curves
 ### Nov 29 14h -- Raffaele Vitolo
 ### Nov 29, 17h - Rafael Ruggiero -- Thermodynamic formalism and Information geometry I.
 ### Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, Raffaele Vitolo, Misha Verbitsky
@@ -73,6 +75,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, Raffaele Vitolo, Misha Verbitsky
 - Nov 29, 17h - Rafael Ruggiero -- Thermodynamic formalism and Information geometry I.
 - Nov 29, 14h -- Raffaele Vitolo -- TBA
+- Nov 22, 16h - Nicolau Saldanha -- homotopy types of the spaces of locally convex curves
 - Nov 22, 15h -- tba
 - Nov 22, 14h -- Adriano -- [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
 - Nov 15 -- holiday, no seminar.
