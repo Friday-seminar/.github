@@ -18,7 +18,8 @@
 
 ### Nov 15 -- holiday
 ### Nov 22 -- tba + Adriano on [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
-### Nov 29 -- Raffaele Vitolo
+### Nov 29 14h -- Raffaele Vitolo
+### Nov 29, 17h - Rafael Ruggiero -- Thermodynamic formalism and Information geometry I.
 ### Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, Raffaele Vitolo, Misha Verbitsky
 
 ### Dec 13 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella do Amaral, Lucas Castello Branco
@@ -70,12 +71,13 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 - Dec 13 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella, Lucas Castello Branco
 - Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, Raffaele Vitolo, Misha Verbitsky
-- Nov 29 -- Raffaele Vitolo
+- Nov 29, 17h - Rafael Ruggiero -- Thermodynamic formalism and Information geometry I.
+- Nov 29, 14h -- Raffaele Vitolo -- TBA
 - Nov 22, 15h -- tba
 - Nov 22, 14h -- Adriano -- [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
 - Nov 15 -- holiday, no seminar.
 - Nov 8, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry, part ii/ii
-- Nov 8, 13h-16h -- [mntnk](http://www.mat.puc-rio.br/minutnik-concurso-de-palestras)
+- Nov 8, from 13h to 16h -- [mntnk](http://www.mat.puc-rio.br/minutnik-concurso-de-palestras)
 - Nov 1, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry, part i/ii
 - Nov 1, 14h -- Alex Gomez -- [Karoubian Completion](https://ncatlab.org/nlab/show/Karoubi+envelope)
 - Oct 25, [Oktobermat @ PUC](http://www.mat.puc-rio.br/oktobermat-2024) and [Rio Joint Symplectic Seminar @ UFF](https://sites.google.com/matematica.ufrj.br/semsimprio).
@@ -201,6 +203,13 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
 
 ### Dec 13 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella, Lucas Castello Branco
 
+### Nov 29, 17h and tba - Rafael Ruggiero -- Thermodynamic formalism and Information geometry I,II.
+
+We give an introduction to Thermodynamic formalism from the point of view of dynamics in a first lecture, then we show how to study Fisher Information geometry in this context.
+
+### Nov 1, 16h and Nov 8, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry
+Cf. "Clifford structures, bilegendrian surfaces, and extrinsic curvature",
+[2308.06919](https://arxiv.org/abs/2308.06919).
 
 ### Oct 18, 16:30 -- Mikhail Mazin -- Equivariant K-theory of the square of an n-step partial flag variety and a "q=0" version of the affine quantum group
 
