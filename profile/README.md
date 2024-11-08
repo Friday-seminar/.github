@@ -215,26 +215,26 @@ A smooth curve $\gamma: [0,1] \to \mathbb{S}^2$ is locally convex
 if its geodesic curvature is positive at every point.
 J.~A.~Little showed that the space of all locally positive curves $\gamma$
 with $\gamma(0) = \gamma(1) = e_1$ and $\gamma'(0) = \gamma'(1) = e_2$
-has three connected components $\cL_{-1,c}$, $\cL_{+1}$, $\cL_{-1,n}$.
+has three connected components $\mathcal{L}_{-1,c}$, $\mathcal{L}_{+1}$, $\mathcal{L}_{-1,n}$.
 These spaces and variants have been discussed, among others,
 by B.~Shapiro, M.~Shapiro and B.~Khesin.
 
 Our first aim is to describe the homotopy type of these spaces.
-The connected component $\cL_{-1,c}$ is known to be contractible.
-We construct maps from $\cL_{+1}$ and $\cL_{-1,n}$
+The connected component $\mathcal{L}_{-1,c}$ is known to be contractible.
+We construct maps from $\mathcal{L}_{+1}$ and $\mathcal{L}_{-1,n}$
 to $\Omega\mathbb{S}^3 \vee \mathbb{S}^2 \vee \mathbb{S}^6 \vee \mathbb{S}^{10} \vee \cdots$
 and $\Omega\mathbb{S}^3 \vee \mathbb{S}^4 \vee \mathbb{S}^8 \vee \mathbb{S}^{12} \vee \cdots$,
 respectively, and show that they are (weak) homotopy equivalences.
 
 More generally, 
-a smooth curve $\gamma: [0,1] \to \mathbb{S}^n \subset \RR^{n+1}$ is locally convex
+a smooth curve $\gamma: [0,1] \to \mathbb{S}^n \subset \mathbf{R}^{n+1}$ is locally convex
 if $\det(\gamma(t),\ldots,\gamma^{n}(t)) > 0$ (for all $t$).
 We would like to understand the homotopy type of the space
-$\cL$ of locally convex curves
+$\mathcal{L}$ of locally convex curves
 with $\gamma^{(j)}(0) = \gamma^{(j)}(1) = e_{j+1}$
 (for all $j \ne n$).
 We describe a CW complex with the same homotopy type.
-The homotopy type of $\cL$ is described for $n = 3$.
+The homotopy type of $\mathcal{L}$ is described for $n = 3$.
 
 ### Nov 1, 16h and Nov 8, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry
 Cf. "Clifford structures, bilegendrian surfaces, and extrinsic curvature",
