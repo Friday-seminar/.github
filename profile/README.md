@@ -215,7 +215,7 @@ A smooth curve $\gamma: [0,1] \to \mathbb{S}^2$ is locally convex
 if its geodesic curvature is positive at every point.
 J.~A.~Little showed that the space of all locally positive curves $\gamma$
 with $\gamma(0) = \gamma(1) = e_1$ and $\gamma'(0) = \gamma'(1) = e_2$
-has three connected components $\mathcal{L}_{-1,c}$, $\mathcal{L}_{+1}$, $\mathcal{L}_{-1,n}$.
+has three connected components $\cal{L}_{-1,c}$, $\mathcal{L}_{+1}$, $\mathcal{L}_{-1,n}$.
 These spaces and variants have been discussed, among others,
 by B.~Shapiro, M.~Shapiro and B.~Khesin.
 
