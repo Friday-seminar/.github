@@ -211,8 +211,7 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
 We give an introduction to Thermodynamic formalism from the point of view of dynamics in a first lecture, then we show how to study Fisher Information geometry in this context.
 
 ### Nov 22, 16h -- Nicolau Saldanha -- The homotopy type of spaces of locally convex curves in the sphere
-\def\Ss{\mathbb{S}}
-A smooth curve $\gamma: [0,1] \to \Ss^2$ is locally convex
+A smooth curve $\gamma: [0,1] \to \mathbb{S}^2$ is locally convex
 if its geodesic curvature is positive at every point.
 J.~A.~Little showed that the space of all locally positive curves $\gamma$
 with $\gamma(0) = \gamma(1) = e_1$ and $\gamma'(0) = \gamma'(1) = e_2$
@@ -223,12 +222,12 @@ by B.~Shapiro, M.~Shapiro and B.~Khesin.
 Our first aim is to describe the homotopy type of these spaces.
 The connected component $\cL_{-1,c}$ is known to be contractible.
 We construct maps from $\cL_{+1}$ and $\cL_{-1,n}$
-to $\Omega\Ss^3 \vee \Ss^2 \vee \Ss^6 \vee \Ss^{10} \vee \cdots$
-and $\Omega\Ss^3 \vee \Ss^4 \vee \Ss^8 \vee \Ss^{12} \vee \cdots$,
+to $\Omega\mathbb{S}^3 \vee \mathbb{S}^2 \vee \mathbb{S}^6 \vee \mathbb{S}^{10} \vee \cdots$
+and $\Omega\mathbb{S}^3 \vee \mathbb{S}^4 \vee \mathbb{S}^8 \vee \mathbb{S}^{12} \vee \cdots$,
 respectively, and show that they are (weak) homotopy equivalences.
 
 More generally, 
-a smooth curve $\gamma: [0,1] \to \Ss^n \subset \RR^{n+1}$ is locally convex
+a smooth curve $\gamma: [0,1] \to \mathbb{S}^n \subset \RR^{n+1}$ is locally convex
 if $\det(\gamma(t),\ldots,\gamma^{n}(t)) > 0$ (for all $t$).
 We would like to understand the homotopy type of the space
 $\cL$ of locally convex curves
