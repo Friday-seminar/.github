@@ -17,8 +17,7 @@
 ### Nov 8, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry
 
 ### Nov 15 -- holiday
-### Nov 22, 14h -- Adriano on [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
-### Nov 22, 15h - TBA
+### Nov 22, 14h - TBA
 ### Nov 22, 16h - Nicolau Saldanha -- The homotopy type of spaces of locally convex curves in the sphere
 ### Nov 29 14h -- Raffaele Vitolo
 ### Nov 29, 17h - Rafael Ruggiero -- Thermodynamic formalism and Information geometry I.
@@ -77,7 +76,6 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Nov 29, 14h -- Raffaele Vitolo -- TBA
 - Nov 22, 16h - Nicolau Saldanha -- The homotopy type of spaces of locally convex curves in the sphere
 - Nov 22, 15h -- tba
-- Nov 22, 14h -- Adriano -- [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
 - Nov 15 -- holiday, no seminar.
 - Nov 8, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry, part ii/ii
 - Nov 8, from 13h to 16h -- [mntnk](http://www.mat.puc-rio.br/minutnik-concurso-de-palestras)
@@ -199,6 +197,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
+### TBA -- **Adriano** -- [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
+
 ### TBA -- **Lucas Castello Branco** -- Gaiotto Lagrangians
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
@@ -206,11 +206,11 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
 
 ### Dec 13 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella, Lucas Castello Branco
 
-### Nov 29, 17h and tba - Rafael Ruggiero -- Thermodynamic formalism and Information geometry I,II.
+### Nov 29, 17h and tba - **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry I,II.
 
 We give an introduction to Thermodynamic formalism from the point of view of dynamics in a first lecture, then we show how to study Fisher Information geometry in this context.
 
-### Nov 22, 16h -- Nicolau Saldanha -- The homotopy type of spaces of locally convex curves in the sphere
+### Nov 22, 16h -- **Nicolau Saldanha** -- The homotopy type of spaces of locally convex curves in the sphere
 A smooth curve $\gamma: [0,1] \to \mathbb{S}^2$ is locally convex
 if its geodesic curvature is positive at every point.
 J.~A.~Little showed that the space of all locally positive curves $\gamma$
@@ -236,11 +236,11 @@ with $\gamma^{(j)}(0) = \gamma^{(j)}(1) = e_{j+1}$
 We describe a CW complex with the same homotopy type.
 The homotopy type of $L$ is described for $n = 3$.
 
-### Nov 1, 16h and Nov 8, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry
+### Nov 1, 16h and Nov 8, 16h -- **Graham Smith** -- Symplectic and contact nature of Riemannian geometry
 Cf. "Clifford structures, bilegendrian surfaces, and extrinsic curvature",
 [2308.06919](https://arxiv.org/abs/2308.06919).
 
-### Oct 18, 16:30 -- Mikhail Mazin -- Equivariant K-theory of the square of an n-step partial flag variety and a "q=0" version of the affine quantum group
+### Oct 18, 16:30 -- **Mikhail Mazin** -- Equivariant K-theory of the square of an n-step partial flag variety and a "q=0" version of the affine quantum group
 
 More than thirty years ago Beilinson, Lusztig, and MacPherson provided a geometric framework for quantum groups by considering a convolution product on the square of the n-step partial flag variety over finite fields. Since then there were several generalizations, in particular Ginzburg and Vasserot used equivariant K-theory of the Steinberg variety in the cotangent space of the square of the n-step flag variety to study the affine quantum group, with the quantum parameter corresponding to the dilation action in the cotangent direction. In a joint work with Sergey Arkhipov we use the convolution product on the equivariant K-theory of the square of the n-step flag variety itself to define and study a "q=0" version of the affine quantum group.
 
@@ -248,18 +248,18 @@ In this talk, I will define our "q=0" version of the affine quantum group via ge
 
 The talk is based on a preprint with Sergey Arkhipov: https://arxiv.org/abs/2205.05184.
 
-### Oct 18, 15:15 -- Bruno Suassuna -- Coherent States in Geometric Quantization
+### Oct 18, 15:15 -- **Bruno Suassuna** -- Coherent States in Geometric Quantization
 
-### Oct 18, 14:00 -- Altan Erdnigor -- Method of Second Quantization
+### Oct 18, 14:00 -- **Altan Erdnigor** -- Method of Second Quantization
 My talk is devoted to [Berezin's construction](https://en.wikipedia.org/wiki/Berezin_integral) of [Weil's metaplectic representation](https://en.wikipedia.org/wiki/Metaplectic_group) on the [Fock space](https://en.wikipedia.org/wiki/Fock_space).
 
 ### Oct 11 -- research meeting of quantum surface group
 
-### Sep 27, 15h and Oct 4, 15h -- Eduardo Esteves -- Degenerations of the canonical series for curves
+### Sep 27, 15h and Oct 4, 15h -- **Eduardo Esteves** -- Degenerations of the canonical series for curves
 
 As curves degenerate, their canonical series go along. Where to? Can we describe the limit canonical divisors? We will see through an example that this is not an easy question, as linear equivalence is not preserved under a degeneration. Indeed, answers were known only in special cases, mainly curves of compact type and curves with two components. Expanding on work by Kapranov and Bainbridge-Chen-Gendron-Grushevsky-Müller, we will describe explicitly all the limits of canonical divisors to a nodal curve which is general for its topology. Furthermore, we analyze the dependence of the description on the singularity degrees of the degeneration, leading to a polyhedral fan and the construction of a projective variety parameterizing all the limits. This is joint work with Omid Amini (École Polytechnique) and Eduardo Garcez (UECE).
 
-### Sep 27, 13:30-14:30 -- Raffaele Vitolo -- Some problems in Hamiltonian geometry of PDEs
+### Sep 27, 13:30-14:30 -- **Raffaele Vitolo** -- Some problems in Hamiltonian geometry of PDEs
 
 The Hamiltonian formulation of Partial Differential Equations
 is one of the cornerstones of the theory of Integrable Systems. Being
@@ -269,18 +269,18 @@ differential-geometric aspects of the Hamiltonian theory of PDEs as well
 as new projective-geometric properties of known Integrable Systems that
 are emerging in recent years.
 
-### Sep 20 -- Felipe Zingali Meira -- [Jacobian elliptic fibrations in K3 surfaces](https://en.wikipedia.org/wiki/K3_surface#Elliptic_K3_surfaces) with non-symplectic automorphisms of prime order
+### Sep 20 -- **Felipe Zingali Meira** -- [Jacobian elliptic fibrations in K3 surfaces](https://en.wikipedia.org/wiki/K3_surface#Elliptic_K3_surfaces) with non-symplectic automorphisms of prime order
 
 K3 surfaces are one of the few classes of algebraic surfaces which allow more than one distinct relatively minimal elliptic fibration. There are distinct ways of classifying such fibrations. In this talk, we will describe how to classify these fibrations with relation to the action of a non-symplectic automorphism $\sigma$ of prime order on a K3 surface $X$, and how each type of fibration relates to a linear system in the quotient surface $X/\sigma$.
 
 ### Sep 13 -- research problems and topics of interest
 
-  - Daniel - chiral polytopes,
-  - Alex - quasi-Hamiltonian version of Moore-Tachikawa category of G-Hamiltonian holomorphic symplectic varieties,
-  - Lucas - Lagrangian subvarieties on moduli spaces of Higgs bundles, with special regards to Gaiotto construction,
-  - Arthur — Weil reciprocity law,
-  - Victor — matrix facrtorizations categories and Bondal-Orlov criterion,
-  - Sergey — Kapustin-Rozansky’s big picture.
+  - **Daniel** - chiral polytopes,
+  - **Alex** - quasi-Hamiltonian version of Moore--Tachikawa category of G--Hamiltonian holomorphic symplectic varieties,
+  - **Lucas** - Lagrangian subvarieties on moduli spaces of Higgs bundles, with special regards to Gaiotto construction,
+  - **Arthur** — Weil reciprocity law,
+  - **Victor** — matrix factorizations categories and Bondal--Orlov criterion,
+  - **Sergey** — Kapustin--Rozansky’s big picture.
 
 
 ### Sep 6 -- **Eduardo Alves da Silva** -- Classification of log Calabi-Yau pairs $(P^3,D)$ after Ducat
