@@ -19,7 +19,7 @@
 ### Nov 15 -- holiday
 ### Nov 22, 14h -- Adriano on [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
 ### Nov 22, 15h - TBA
-### Nov 22, 16h - Nicolau Saldanha -- homotopy types of the spaces of locally convex curves
+### Nov 22, 16h - Nicolau Saldanha -- The homotopy type of spaces of locally convex curves in the sphere
 ### Nov 29 14h -- Raffaele Vitolo
 ### Nov 29, 17h - Rafael Ruggiero -- Thermodynamic formalism and Information geometry I.
 ### Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, Raffaele Vitolo, Misha Verbitsky
@@ -75,7 +75,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, Raffaele Vitolo, Misha Verbitsky
 - Nov 29, 17h - Rafael Ruggiero -- Thermodynamic formalism and Information geometry I.
 - Nov 29, 14h -- Raffaele Vitolo -- TBA
-- Nov 22, 16h - Nicolau Saldanha -- homotopy types of the spaces of locally convex curves
+- Nov 22, 16h - Nicolau Saldanha -- The homotopy type of spaces of locally convex curves in the sphere
 - Nov 22, 15h -- tba
 - Nov 22, 14h -- Adriano -- [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
 - Nov 15 -- holiday, no seminar.
@@ -209,6 +209,33 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
 ### Nov 29, 17h and tba - Rafael Ruggiero -- Thermodynamic formalism and Information geometry I,II.
 
 We give an introduction to Thermodynamic formalism from the point of view of dynamics in a first lecture, then we show how to study Fisher Information geometry in this context.
+
+### Nov 22, 16h -- Nicolau Saldanha -- The homotopy type of spaces of locally convex curves in the sphere
+\def\Ss{\mathbb{S}}
+A smooth curve $\gamma: [0,1] \to \Ss^2$ is locally convex
+if its geodesic curvature is positive at every point.
+J.~A.~Little showed that the space of all locally positive curves $\gamma$
+with $\gamma(0) = \gamma(1) = e_1$ and $\gamma'(0) = \gamma'(1) = e_2$
+has three connected components $\cL_{-1,c}$, $\cL_{+1}$, $\cL_{-1,n}$.
+These spaces and variants have been discussed, among others,
+by B.~Shapiro, M.~Shapiro and B.~Khesin.
+
+Our first aim is to describe the homotopy type of these spaces.
+The connected component $\cL_{-1,c}$ is known to be contractible.
+We construct maps from $\cL_{+1}$ and $\cL_{-1,n}$
+to $\Omega\Ss^3 \vee \Ss^2 \vee \Ss^6 \vee \Ss^{10} \vee \cdots$
+and $\Omega\Ss^3 \vee \Ss^4 \vee \Ss^8 \vee \Ss^{12} \vee \cdots$,
+respectively, and show that they are (weak) homotopy equivalences.
+
+More generally, 
+a smooth curve $\gamma: [0,1] \to \Ss^n \subset \RR^{n+1}$ is locally convex
+if $\det(\gamma(t),\ldots,\gamma^{n}(t)) > 0$ (for all $t$).
+We would like to understand the homotopy type of the space
+$\cL$ of locally convex curves
+with $\gamma^{(j)}(0) = \gamma^{(j)}(1) = e_{j+1}$
+(for all $j \ne n$).
+We describe a CW complex with the same homotopy type.
+The homotopy type of $\cL$ is described for $n = 3$.
 
 ### Nov 1, 16h and Nov 8, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry
 Cf. "Clifford structures, bilegendrian surfaces, and extrinsic curvature",
