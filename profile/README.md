@@ -14,10 +14,9 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-### Nov 8, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry
 
 ### Nov 15 -- holiday
-### Nov 22, 14h - TBA
+### Nov 22, 14h - Dmitrii Korshunov -- Conformal center of mass and infinite dimensional GIT for the space of isometric loops
 ### Nov 22, 16h - Nicolau Saldanha -- The homotopy type of spaces of locally convex curves in the sphere
 ### Nov 29 14h -- Raffaele Vitolo
 ### Nov 29, 17h - Rafael Ruggiero -- Thermodynamic formalism and Information geometry I.
@@ -75,7 +74,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Nov 29, 17h - Rafael Ruggiero -- Thermodynamic formalism and Information geometry I.
 - Nov 29, 14h -- Raffaele Vitolo -- TBA
 - Nov 22, 16h - Nicolau Saldanha -- The homotopy type of spaces of locally convex curves in the sphere
-- Nov 22, 15h -- tba
+- Nov 22, 14h - Dmitrii Korshunov -- Conformal center of mass and infinite dimensional GIT for the space of isometric loops
 - Nov 15 -- holiday, no seminar.
 - Nov 8, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry, part ii/ii
 - Nov 8, from 13h to 16h -- [mntnk](http://www.mat.puc-rio.br/minutnik-concurso-de-palestras)
@@ -210,6 +209,8 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
 
 We give an introduction to Thermodynamic formalism from the point of view of dynamics in a first lecture, then we show how to study Fisher Information geometry in this context.
 
+### Nov 29, 14h -- Raffaele Vitolo
+
 ### Nov 22, 16h -- **Nicolau Saldanha** -- The homotopy type of spaces of locally convex curves in the sphere
 A smooth curve $\gamma: [0,1] \to \mathbb{S}^2$ is locally convex
 if its geodesic curvature is positive at every point.
@@ -236,7 +237,9 @@ with $\gamma^{(j)}(0) = \gamma^{(j)}(1) = e_{j+1}$
 We describe a CW complex with the same homotopy type.
 The homotopy type of $L$ is described for $n = 3$.
 
-### Nov 1, 16h and Nov 8, 16h -- **Graham Smith** -- Symplectic and contact nature of Riemannian geometry
+### Nov 22, 14h -- **Dmitrii Korshunov** -- Conformal center of mass and infinite dimensional GIT for the space of isometric loops
+
+### Nov 1 and Nov 8 -- **Graham Smith** -- Symplectic and contact nature of Riemannian geometry
 Cf. "Clifford structures, bilegendrian surfaces, and extrinsic curvature",
 [2308.06919](https://arxiv.org/abs/2308.06919).
 
