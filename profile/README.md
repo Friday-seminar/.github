@@ -27,9 +27,8 @@ Our first aim is to describe the homotopy type of these spaces. The connected co
 
 More generally, a smooth curve $\gamma: [0,1] \to \mathbb{S}^n \subset \mathbf{R}^{n+1}$ is locally convex if $\det(\gamma(t),\ldots,\gamma^{n}(t)) > 0$ (for all $t$). We would like to understand the homotopy type of the space $L$ of locally convex curves with $\gamma^{(j)}(0) = \gamma^{(j)}(1) = e_{j+1}$ (for all $j \ne n$). We describe a CW complex with the same homotopy type. The homotopy type of $L$ is described for $n = 3$.
 
-### Nov 29 14h -- Raffaele Vitolo
+### Nov 29 14h-17h -- Raffaele Vitolo -- PDE without tears
 
-### Nov 29, 17h - Rafael Ruggiero -- Thermodynamic formalism and Information geometry I.
 
 ### Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, Raffaele Vitolo, Misha Verbitsky
 
@@ -82,8 +81,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 - Dec 13 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella, Lucas Castello Branco
 - Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, Raffaele Vitolo, Misha Verbitsky
-- Nov 29, 17h - Rafael Ruggiero -- Thermodynamic formalism and Information geometry I.
-- Nov 29, 14h -- Raffaele Vitolo -- TBA
+- Nov 29, 14h -- Raffaele Vitolo -- PDE without tears
 - Nov 22, 16h - Nicolau Saldanha -- The homotopy type of spaces of locally convex curves in the sphere
 - Nov 22, 14h - Dmitrii Korshunov -- Conformal center of mass and infinite dimensional GIT for the space of isometric loops
 - Nov 15 -- holiday, no seminar.
@@ -216,11 +214,11 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
 
 ### Dec 13 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella, Lucas Castello Branco
 
-### Nov 29, 17h and tba - **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry I,II.
+### TBA - **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry I,II.
 
 We give an introduction to Thermodynamic formalism from the point of view of dynamics in a first lecture, then we show how to study Fisher Information geometry in this context.
 
-### Nov 29, 14h -- Raffaele Vitolo
+### Nov 29, 14h-17h -- Raffaele Vitolo -- PDE without tears
 
 ### Nov 22, 16h -- **Nicolau Saldanha** -- The homotopy type of spaces of locally convex curves in the sphere
 A smooth curve $\gamma: [0,1] \to \mathbb{S}^2$ is locally convex
