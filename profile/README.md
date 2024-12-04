@@ -13,26 +13,10 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### Nov 15 -- holiday (no seminar)
-
-### Nov 22, 14h - Dmitrii Korshunov -- Conformal center of mass and infinite dimensional GIT for the space of isometric loops
-
-We show, following Millson and Zombro, how to construct a Kähler structure on the moduli space of isometric maps of a circle into Euclidean space. The proof upgrades the Kirwan/Kempf--Ness theorem relating symplectic reduction and GIT to the infinite dimensional setting. The construction crucially uses the Douady--Earle's notion of conformal center of mass, which is of independent interest.
-
-### Nov 22, 16h - Nicolau Saldanha -- The homotopy type of spaces of locally convex curves in the sphere
-
-A smooth curve $\gamma: [0,1] \to \mathbb{S}^2$ is locally convex if its geodesic curvature is positive at every point. J.~A.~Little showed that the space of all locally positive curves $\gamma$ with $\gamma(0) = \gamma(1) = e_1$ and $\gamma'(0) = \gamma'(1) = e_2$ has three connected components $L_{-1,c}$, $L_{+1}$, $L_{-1,n}$. These spaces and variants have been discussed, among others, by B.~Shapiro, M.~Shapiro and B.~Khesin.
-
-Our first aim is to describe the homotopy type of these spaces. The connected component $L_{-1,c}$ is known to be contractible. We construct maps from $L_{+1}$ and $L_{-1,n}$ to $\Omega\mathbb{S}^3 \vee \mathbb{S}^2 \vee \mathbb{S}^6 \vee \mathbb{S}^{10} \vee \cdots$ and $\Omega\mathbb{S}^3 \vee \mathbb{S}^4 \vee \mathbb{S}^8 \vee \mathbb{S}^{12} \vee \cdots$, respectively, and show that they are (weak) homotopy equivalences.
-
-More generally, a smooth curve $\gamma: [0,1] \to \mathbb{S}^n \subset \mathbf{R}^{n+1}$ is locally convex if $\det(\gamma(t),\ldots,\gamma^{n}(t)) > 0$ (for all $t$). We would like to understand the homotopy type of the space $L$ of locally convex curves with $\gamma^{(j)}(0) = \gamma^{(j)}(1) = e_{j+1}$ (for all $j \ne n$). We describe a CW complex with the same homotopy type. The homotopy type of $L$ is described for $n = 3$.
-
-### Nov 29 14h-17h -- Raffaele Vitolo -- PDE without tears
-
 
 ### Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, Raffaele Vitolo, Misha Verbitsky
 
-### Dec 13 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella do Amaral, Lucas Castello Branco
+### Dec 12 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella do Amaral, Lucas Castello Branco
 
 ### TBA -- Lucas Castello Branco -- Gaiotto Lagrangians 
 
@@ -79,7 +63,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Schedule for 2024.2
 
-- Dec 13 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella, Lucas Castello Branco
+- Dec 12 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella, Lucas Castello Branco
 - Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, Raffaele Vitolo, Misha Verbitsky
 - Nov 29, 14h -- Raffaele Vitolo -- PDE without tears
 - Nov 22, 16h - Nicolau Saldanha -- The homotopy type of spaces of locally convex curves in the sphere
@@ -205,20 +189,19 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
+### TBA - **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry I,II.
+
+We give an introduction to Thermodynamic formalism from the point of view of dynamics in a first lecture, then we show how to study Fisher Information geometry in this context.
+
 ### TBA -- **Adriano** -- [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
 
 ### TBA -- **Lucas Castello Branco** -- Gaiotto Lagrangians
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
+### Dec 12 -- **[Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day** -- **Frank Loray**, **Thiago Fassarella**, **Lucas Castello Branco**
 
-### Dec 13 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella, Lucas Castello Branco
-
-### TBA - **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry I,II.
-
-We give an introduction to Thermodynamic formalism from the point of view of dynamics in a first lecture, then we show how to study Fisher Information geometry in this context.
-
-### Nov 29, 14h-17h -- Raffaele Vitolo -- PDE without tears
+### Nov 29, 14h -- **Raffaele Vitolo** -- PDE without tears: an introduction to geometry of PDE for geometry students
 
 ### Nov 22, 16h -- **Nicolau Saldanha** -- The homotopy type of spaces of locally convex curves in the sphere
 A smooth curve $\gamma: [0,1] \to \mathbb{S}^2$ is locally convex
