@@ -18,6 +18,14 @@
 
 ### Dec 12 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella do Amaral, Lucas Castello Branco
 
+### Higgs Bundles Day -- Frank Loray -- Moduli spaces of hyperelliptic objects
+
+Considering sl(2) connections or Higgs bundles on genus 2 curves are invariant under hyperelliptic involution and are pull-back of logarithmic sl(2) connections on $P^1$. We deduce a map between the corresponding moduli spaces. This was a joint work with Viktoria Heu. When the genus 2 curve degenerate to a nodal elliptic curve, then we get other maps between moduli spaces.
+
+### Higgs Bundles Day -- Thiago Fassarella -- Moduli of Higgs bundles
+
+We look at rank two parabolic Higgs bundles over the projective line minus five points.  The moduli space is studied in detail and all singular fibers of the Hitchin map are described, including the nilpotent cone.  This is joint work with Frank Loray.
+
 ### TBA -- Lucas Castello Branco -- Gaiotto Lagrangians 
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
