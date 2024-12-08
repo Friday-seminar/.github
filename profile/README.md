@@ -16,7 +16,7 @@
 
 ### Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, Raffaele Vitolo, Misha Verbitsky
 
-### Dec 12 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella do Amaral, Lucas Castello Branco
+### Dec 12, 13h-18h, Leme 856 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella do Amaral, Lucas Castello Branco
 
 ### Higgs Bundles Day -- Frank Loray -- Moduli spaces of hyperelliptic objects
 
