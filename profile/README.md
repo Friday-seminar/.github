@@ -14,21 +14,6 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-### Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, Raffaele Vitolo, Misha Verbitsky
-
-### Dec 12, 13h-18h, Leme 856 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella do Amaral, Lucas Castello Branco
-
-### Higgs Bundles Day -- Frank Loray -- Moduli spaces of hyperelliptic objects
-
-Considering sl(2) connections or Higgs bundles on genus 2 curves are invariant under hyperelliptic involution and are pull-back of logarithmic sl(2) connections on $P^1$. We deduce a map between the corresponding moduli spaces. This was a joint work with Viktoria Heu. When the genus 2 curve degenerate to a nodal elliptic curve, then we get other maps between moduli spaces.
-
-### Higgs Bundles Day -- Thiago Fassarella -- Moduli of Higgs bundles
-
-We look at rank two parabolic Higgs bundles over the projective line minus five points.  The moduli space is studied in detail and all singular fibers of the Hitchin map are described, including the nilpotent cone.  This is joint work with Frank Loray.
-
-### Higgs Bundles Day -- Lucas Castello Branco -- Gaiotto Lagrangians 
-
-Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
 ## when and where:
   - 🕑 Fridays (sexta-feiras) until **18:00**, start around 14h30m
@@ -69,13 +54,21 @@ and related topics.
 - Please [⭣⭣⭣ add here ⭣⭣⭣](https://github.com/friday-seminar/.github/blob/master/topics.md)
 interesting themes and topics for next seminar talks, references, slides of the talks, etc
 
-# Schedule for 2024.2
+# Schedule 
+
+## 2025
+
+- Mar 14 -- team meeting, what we did this summer
+- Mar 7 -- Maciej Denkowski -- C-algebraic functions 
+- Feb 28 -- Misha Skopenkov -- Feynman checkers: quantum theory on a checkered paper
+
+## 2024.2 (18 talks)
 
 - Dec 12 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella, Lucas Castello Branco
 - Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, Raffaele Vitolo, Misha Verbitsky
 - Nov 29, 14h -- Raffaele Vitolo -- PDE without tears
-- Nov 22, 16h - Nicolau Saldanha -- The homotopy type of spaces of locally convex curves in the sphere
-- Nov 22, 14h - Dmitrii Korshunov -- Conformal center of mass and infinite dimensional GIT for the space of isometric loops
+- Nov 22, 16h -- Nicolau Saldanha -- The homotopy type of spaces of locally convex curves in the sphere
+- Nov 22, 14h -- Dmitrii Korshunov -- Conformal center of mass and infinite dimensional GIT for the space of isometric loops
 - Nov 15 -- holiday, no seminar.
 - Nov 8, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry, part ii/ii
 - Nov 8, from 13h to 16h -- [mntnk](http://www.mat.puc-rio.br/minutnik-concurso-de-palestras)
@@ -91,7 +84,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Sep 27, 13:30-14:30 -- Raffaelle Vitolo -- Some problems in Hamiltonian geometry of PDEs
 - Sep 20 -- Felipe Zingali Meira -- [Jacobian elliptic fibrations in K3 surfaces](https://en.wikipedia.org/wiki/K3_surface#Elliptic_K3_surfaces) with non-symplectic automorphisms of prime order
 - Sep 13 -- Daniel, Alex, Lucas, Arthur, Victor, Sergey -- research problems and topics of interest
-- Sep 6 -- Eduardo Alves da Silva -- Classification of log Calabi-Yau pairs $(P^3,D)$ after Ducat
+- Sep 6 -- Eduardo Alves da Silva -- Classification of log Calabi--Yau pairs $(P^3,D)$ after Ducat
 
 
 ## 2024 winter (4 talks and a mini-course of 4 lectures)
@@ -132,6 +125,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Mar 8, 16h -- Altan Erdnigor -- [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization) and Equivariant Topology, part I/II
 - Mar 8, 14h -- Lucas Branco -- What is... a [Higgs bundle](https://en.wikipedia.org/wiki/Higgs_bundle)?
 
+
 ## 2024 summer (8 talks)
 
 - Mar 1 -- [José Carlos Valencia Alvites](http://www.uel.br/pos/pgmac/professores/prof_JoseCarlos.html) -- On [lattice Quantum Chromodynamics](https://en.wikipedia.org/wiki/Lattice_QCD) models in the strong coupling regime
@@ -145,12 +139,13 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 
 ## 2023.2 (18 talks)
+
 - Dec 8 -- [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
 - Dec 1 -- Alex Gomez -- [Delzant's theorem](https://en.wikipedia.org/wiki/Delzant's_theorem)
 - Nov 24 -- Victor el Adji -- [Matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial)
 - Nov 24 -- Lucas Castello Branco -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) and [Mirror Symmetry](https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory))
 - Nov 24 -- Sérgio Loiola -- [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
-- Nov 17 -- [Vladimir Roubtsov](https://math.univ-angers.fr/~volodya) -- Kontsevich and Buchstaber polynomials, multiplication kernels and Calabi-Yau diferential operators
+- Nov 17 -- [Vladimir Roubtsov](https://math.univ-angers.fr/~volodya) -- Kontsevich and Buchstaber polynomials, multiplication kernels and Calabi--Yau differential operators
 - Nov 3, Nov 10 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
 - Oct 27 -- Oktobermat XX
 - Oct 20 -- Dmitri Panov -- Spherical surfaces with conical singularities
@@ -162,7 +157,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Sep 8 -- recesso do [Dia da Independência](https://pt.wikipedia.org/wiki/Dia_da_Independência_(Brasil))
 - Sep 1 -- Altan Erdnigor -- [Intersection homology](https://en.wikipedia.org/wiki/Intersection_homology)
 - Sep 1 -- Sergey Galkin -- Logarithmic volume forms and special birational transformations (pre-tropical talk I)
-- Aug 25 -- [Eduardo Alves da Silva](https://sites.google.com/view/eduardo-alvesdasilva-math/)  -- Log Calabi-Yau geometry and Cremona maps
+- Aug 25 -- [Eduardo Alves da Silva](https://sites.google.com/view/eduardo-alvesdasilva-math/)  -- Log Calabi--Yau geometry and Cremona maps
 - Aug 18 -- Altan Erdnigor -- Homology of the Hilbert scheme of points on a surface
 - Aug 11 -- [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) -- [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u)
 - Aug 4 -- Dmitrii Korshunov -- [Bernstein-Sato polynomials and the division of distributions](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial)
@@ -203,11 +198,30 @@ We give an introduction to Thermodynamic formalism from the point of view of dyn
 
 ### TBA -- **Adriano** -- [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
 
-### TBA -- **Lucas Castello Branco** -- Gaiotto Lagrangians
+
+
+### 2025, Mar 7 -- **Maciej Denkowski** -- C-algebraic functions 
+
+In the 50s Remmert introduced the notion of a c-holomorphic function i.e. a complex continuous function defined on an analytic set or space and holomorphic at all regular points. Even though such functions do not have 'nice' differential or algebraic properties, they are well-behaved and similar to the holomorphic ones. Still, they have somehow fallen into oblivion. Due to the recent development of the theory of the so-called reguluous functions (Kollar, Kucharz et al.) in the real case, they started again to attract atttention. Indeed, the algebraic subclass, i.e. continuous complex functions with algebraic graphs are the natural complex counterpart of regulous functions. We studied them together with several collaborators obtaining some growth estimates at infinity, effective Lojasiewicz inequalities or Nullstellensaetze.
+
+### 2025, Feb 28 -- **Misha Skopenkov** -- Feynman checkers: quantum theory on a checkered paper
+
+We survey the most elementary model of electron motion introduced by Feynman. In this game, a checker moves on a checkerboard by simple rules, and we count the turns. Feynman checkers are also known as a one-dimensional quantum walk, or an Ising model at an imaginary temperature, or a six-vertex model with complex weights. We mathematically solve a Feynman problem from 1965, which was to prove that the discrete model (for large time, small average velocity, and small lattice step) is consistent with the continuum one. We get further asymptotic properties of the model for large time, improving the results by Sunada and Tate from 2012 towards the ultimate goal of a uniform asymptotic formula in the whole range.
+
+
+### 2024, Dec 12, Higgs Bundles Day -- **Frank Loray** -- Moduli spaces of hyperelliptic objects
+
+Considering sl(2) connections or Higgs bundles on genus 2 curves are invariant under hyperelliptic involution and are pull-back of logarithmic sl(2) connections on $P^1$. We deduce a map between the corresponding moduli spaces. This was a joint work with Viktoria Heu. When the genus 2 curve degenerate to a nodal elliptic curve, then we get other maps between moduli spaces.
+
+### 2024, Dec 12, Higgs Bundles Day -- **Thiago Fassarella do Amaral** -- Moduli of Higgs bundles
+
+We look at rank two parabolic Higgs bundles over the projective line minus five points.  The moduli space is studied in detail and all singular fibers of the Hitchin map are described, including the nilpotent cone.  This is joint work with Frank Loray.
+
+### 2024, Dec 12, Higgs Bundles Day -- **Lucas Castello Branco** -- Gaiotto Lagrangians 
 
 Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss the construction of Lagrangian subvarieties that arise from [symplectic representations](https://en.wikipedia.org/wiki/Symplectic_representation). In particular, for the standard representation of the symplectic group, we show that this corresponds to a particular irreducible component of the nilpotent cone of the Hitchin system using an auxiliary (spinor) moduli space and Morse theory techniques.
 
-### Dec 12 -- **[Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day** -- **Frank Loray**, **Thiago Fassarella**, **Lucas Castello Branco**
+### 2024, Dec 12 -- **[Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day** -- **Frank Loray**, **Thiago Fassarella**, **Lucas Castello Branco**
 
 ### Nov 29, 14h -- **Raffaele Vitolo** -- PDE without tears: an introduction to geometry of PDE for geometry students
 
