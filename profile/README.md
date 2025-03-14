@@ -60,7 +60,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 - Mar 14 -- team meeting, what we did this summer
 - Mar 7 -- Maciej Denkowski -- C-algebraic functions 
-- Feb 28 -- Misha Skopenkov -- Feynman checkers: quantum theory on a checkered paper
+- Feb 27 (Thu) -- Misha Skopenkov -- Feynman checkers: quantum theory on a checkered paper
 
 ## 2024.2 (18 talks)
 
@@ -204,7 +204,7 @@ We give an introduction to Thermodynamic formalism from the point of view of dyn
 
 In the 50s Remmert introduced the notion of a c-holomorphic function i.e. a complex continuous function defined on an analytic set or space and holomorphic at all regular points. Even though such functions do not have 'nice' differential or algebraic properties, they are well-behaved and similar to the holomorphic ones. Still, they have somehow fallen into oblivion. Due to the recent development of the theory of the so-called reguluous functions (Kollar, Kucharz et al.) in the real case, they started again to attract atttention. Indeed, the algebraic subclass, i.e. continuous complex functions with algebraic graphs are the natural complex counterpart of regulous functions. We studied them together with several collaborators obtaining some growth estimates at infinity, effective Lojasiewicz inequalities or Nullstellensaetze.
 
-### 2025, Feb 28 -- **Misha Skopenkov** -- Feynman checkers: quantum theory on a checkered paper
+### 2025, Feb 27 (Thu) -- **Misha Skopenkov** -- Feynman checkers: quantum theory on a checkered paper
 
 We survey the most elementary model of electron motion introduced by Feynman. In this game, a checker moves on a checkerboard by simple rules, and we count the turns. Feynman checkers are also known as a one-dimensional quantum walk, or an Ising model at an imaginary temperature, or a six-vertex model with complex weights. We mathematically solve a Feynman problem from 1965, which was to prove that the discrete model (for large time, small average velocity, and small lattice step) is consistent with the continuum one. We get further asymptotic properties of the model for large time, improving the results by Sunada and Tate from 2012 towards the ultimate goal of a uniform asymptotic formula in the whole range.
 
