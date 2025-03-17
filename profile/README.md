@@ -13,7 +13,9 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
+### March 21 -- Matias del Hoyo (UFRJ) -- Lie Groupoids: Foundations, Advances, and Future Directions
 
+Lie groupoids are central to modern geometry and mathematical physics, connecting differential geometry, topology, and dynamical systems. Based on a recent chapter co-authored with H. Bursztyn for the [Encyclopedia of Mathematical Physics](https://www.sciencedirect.com/science/article/abs/pii/B9780323957038000240), this talk will explore the foundations of Lie groupoids, their interactions with related structures like Lie algebroids and Poisson manifolds, and highlight recent advances and emerging research directions in the field.
 
 ## when and where:
   - 🕑 Fridays (sexta-feiras) until **18:00**, start around 14h30m
@@ -58,7 +60,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## 2025
 
-- Mar 14 -- team meeting, what we did this summer
+- Mar 21 -- Matias del Hoyo  -- Lie Groupoids: Foundations, Advances, and Future Directions
+- Mar 14 -- team meeting, QH(G/P), quantum hard Lefschetz, what we did this summer, and farewell to Altan
 - Mar 7 -- Maciej Denkowski -- C-algebraic functions 
 - Feb 27 (Thu) -- Misha Skopenkov -- Feynman checkers: quantum theory on a checkered paper
 
@@ -198,6 +201,10 @@ We give an introduction to Thermodynamic formalism from the point of view of dyn
 
 ### TBA -- **Adriano** -- [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
 
+
+### 2025, Mar 21 -- **Matias del Hoyo**  -- Lie Groupoids: Foundations, Advances, and Future Directions
+
+Lie groupoids are central to modern geometry and mathematical physics, connecting differential geometry, topology, and dynamical systems. Based on a recent chapter co-authored with H. Bursztyn for the [Encyclopedia of Mathematical Physics](https://www.sciencedirect.com/science/article/abs/pii/B9780323957038000240), this talk will explore the foundations of Lie groupoids, their interactions with related structures like Lie algebroids and Poisson manifolds, and highlight recent advances and emerging research directions in the field.
 
 
 ### 2025, Mar 7 -- **Maciej Denkowski** -- C-algebraic functions 
