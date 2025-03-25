@@ -60,6 +60,9 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## 2025
 
+- Holidays: Apr 18, Jun 20.
+
+- Mar 28 --  research meeting
 - Mar 21 -- Matias del Hoyo  -- Lie Groupoids: Foundations, Advances, and Future Directions
 - Mar 14 -- team meeting, QH(G/P), quantum hard Lefschetz, what we did this summer, and farewell to Altan
 - Mar 7 -- Maciej Denkowski -- C-algebraic functions 
