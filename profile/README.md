@@ -13,9 +13,6 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### March 21 -- Matias del Hoyo (UFRJ) -- Lie Groupoids: Foundations, Advances, and Future Directions
-
-Lie groupoids are central to modern geometry and mathematical physics, connecting differential geometry, topology, and dynamical systems. Based on a recent chapter co-authored with H. Bursztyn for the [Encyclopedia of Mathematical Physics](https://www.sciencedirect.com/science/article/abs/pii/B9780323957038000240), this talk will explore the foundations of Lie groupoids, their interactions with related structures like Lie algebroids and Poisson manifolds, and highlight recent advances and emerging research directions in the field.
 
 ## when and where:
   - 🕑 Fridays (sexta-feiras) until **18:00**, start around 14h30m
