@@ -59,6 +59,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 - Holidays: Apr 18, Jun 20.
 
+- Apr 11 -- Sergei Burkin
 - Apr 4 -- research meeting
 - Mar 28 --  research meeting
 - Mar 21 -- Matias del Hoyo  -- Lie Groupoids: Foundations, Advances, and Future Directions
