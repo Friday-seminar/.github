@@ -14,6 +14,14 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
+# April 11 -- [Joint Symplectic Seminar of Rio](https://sites.google.com/matematica.ufrj.br/semsimprio)
+
+1. 14:30-15:30 -- Alex Takeda -- Algebraic string topology operations and noncommutative Poisson geometry
+2. 16:00--17:00 -- Daniel Alvarez -- On the integration of Manin triples and Courant algebroids over homogeneous spaces
+
+# April 11, 16:00, PUC-Rio -- Giovanna Leal -- Homotopy types of intersections of real Bruhat cells, PhD thesis defence
+
+
 ## when and where:
   - 🕑 Fridays (sexta-feiras) until **18:00**, start around 14h30m
   - **DMAT PUC-Rio**, room **L863** in Leme building (left from main entrance), take an elevator to 8th floor near "Bar Nossa Senhora do Carmo" on the opposite site of a bookshop.
@@ -59,11 +67,12 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 - Holidays: Apr 18, Jun 20.
 
-- Apr 25 -- tba
+- Apr 25 -- Sergei Burkin
 - Apr 18 -- holiday
-- Apr 11 -- Sergei Burkin
-- Apr 4 -- research meeting
-- Mar 28 --  research meeting
+- Apr 11, 16h -- Giovanna Leal -- Homotopy types of intersections of real Bruhat cells, PhD thesis defence
+- Apr 11 -- [Joint Symplectic Seminar of Rio](https://sites.google.com/matematica.ufrj.br/semsimprio) in IMPA, 14:30-17:00
+- Apr 4 -- non public
+- Mar 28 -- research meeting
 - Mar 21 -- Matias del Hoyo  -- Lie Groupoids: Foundations, Advances, and Future Directions
 - Mar 14 -- team meeting, QH(G/P), quantum hard Lefschetz, what we did this summer, and farewell to Altan
 - Mar 7 -- Maciej Denkowski -- C-algebraic functions 
