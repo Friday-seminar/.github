@@ -73,7 +73,6 @@ interesting themes and topics for next seminar talks, references, slides of the 
 ## 2025
 
 - Holidays: Apr 18, Jun 20.
-
 - Apr 25 -- Sergei Burkin -- Higher structures and how to encode them
 - Apr 18 -- holiday
 - Apr 11, 16h -- Giovanna Leal -- Homotopy types of intersections of real Bruhat cells, PhD thesis defence
