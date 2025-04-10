@@ -14,12 +14,12 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-# April 11 -- [Joint Symplectic Seminar of Rio](https://sites.google.com/matematica.ufrj.br/semsimprio)
+# April 11, IMPA 236 -- [Joint Symplectic Seminar of Rio](https://sites.google.com/matematica.ufrj.br/semsimprio)
 
 1. 14:30-15:30 -- Alex Takeda -- Algebraic string topology operations and noncommutative Poisson geometry
 2. 16:00--17:00 -- Daniel Alvarez -- On the integration of Manin triples and Courant algebroids over homogeneous spaces
 
-# April 11, 16:00, PUC-Rio -- Giovanna Leal -- Homotopy types of intersections of real Bruhat cells, PhD thesis defence
+# April 11, PUC-Rio L856, 16:00 -- Giovanna Leal -- Homotopy types of intersections of real Bruhat cells, PhD thesis defence
 
 
 
@@ -74,7 +74,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 - Holidays: Apr 18, Jun 20.
 
-- Apr 25 -- Sergei Burkin
+- Apr 25 -- Sergei Burkin -- Higher structures and how to encode them
 - Apr 18 -- holiday
 - Apr 11, 16h -- Giovanna Leal -- Homotopy types of intersections of real Bruhat cells, PhD thesis defence
 - Apr 11 -- [Joint Symplectic Seminar of Rio](https://sites.google.com/matematica.ufrj.br/semsimprio) in IMPA, 14:30-17:00
