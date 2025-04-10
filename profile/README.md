@@ -22,6 +22,13 @@
 # April 11, 16:00, PUC-Rio -- Giovanna Leal -- Homotopy types of intersections of real Bruhat cells, PhD thesis defence
 
 
+
+# April 18 -- holiday
+
+# April 25 -- Sergei Burkin -- Higher structures and how to encode them
+
+In the first part we will review recent applications of higher structures, focusing on applications of (∞,1)-categories and (∞,n)-categories. Usually such structures are encoded as nice presheaves over categories of "geometric shapes". In the second part we will explain how to obtain several such categories. In the third, informal, part we will consider more examples and will speculate about possible open problems, about general architecture and philosothy of homotopy coherent mathematics.
+
 ## when and where:
   - 🕑 Fridays (sexta-feiras) until **18:00**, start around 14h30m
   - **DMAT PUC-Rio**, room **L863** in Leme building (left from main entrance), take an elevator to 8th floor near "Bar Nossa Senhora do Carmo" on the opposite site of a bookshop.
@@ -214,6 +221,9 @@ We give an introduction to Thermodynamic formalism from the point of view of dyn
 
 ### TBA -- **Adriano** -- [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
 
+### 2025, Apr 25 -- **Sergei Burkin** -- Higher structures and how to encode them
+
+In the first part we will review recent applications of higher structures, focusing on applications of (∞,1)-categories and (∞,n)-categories. Usually such structures are encoded as nice presheaves over categories of "geometric shapes". In the second part we will explain how to obtain several such categories. In the third, informal, part we will consider more examples and will speculate about possible open problems, about general architecture and philosothy of homotopy coherent mathematics.
 
 ### 2025, Mar 21 -- **Matias del Hoyo**  -- Lie Groupoids: Foundations, Advances, and Future Directions
 
