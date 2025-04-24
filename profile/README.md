@@ -14,11 +14,15 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-# April 18 -- holiday
-
 # April 25 -- Sergei Burkin -- Higher structures and how to encode them
 
 In the first part we will review recent applications of higher structures, focusing on applications of (∞,1)-categories and (∞,n)-categories. Usually such structures are encoded as nice presheaves over categories of "geometric shapes". In the second part we will explain how to obtain several such categories. In the third, informal, part we will consider more examples and will speculate about possible open problems, about general architecture and philosothy of homotopy coherent mathematics.
+
+
+# May 2, 16h -- Chi Hong Chow -- Gamma conjecture I for flag varieties
+
+Gamma conjecture I is a conjecture proposed by Galkin, Golyshev and Iritani which states that the fundamental solution of the quantum connection of a Fano manifold associated to the regular singular point sends the Gamma class to a flat section whose growth near the irregular singular point is determined by the quantum period. In this talk, we will discuss the conjecture for flag varieties. They are good spaces in this context because they have mirror symmetry and a good notion of positivity, allowing us to apply a strategy of Galkin and Iritani.
+
 
 ## when and where:
   - 🕑 Fridays (sexta-feiras) until **18:00**, start around 14h30m
@@ -63,7 +67,10 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## 2025
 
-- Holidays: Apr 18, Jun 20.
+- Holidays: Jun 20.
+- May 16 -- Olivier Martin
+- May 9 -- Rafael Ruggiero -- Thermodynamic formalism and Information geometry
+- May 2, 16h -- Chi Hong Chow -- Gamma conjecture I for flag varieties
 - Apr 25 -- Sergei Burkin -- Higher structures and how to encode them
 - Apr 18 -- holiday
 - Apr 11, 16h -- Giovanna Leal -- Homotopy types of intersections of real Bruhat cells, PhD thesis defence
@@ -205,11 +212,17 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
-### TBA - **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry I,II.
+### May 16 --
+
+### May 9 - **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry I,II.
 
 We give an introduction to Thermodynamic formalism from the point of view of dynamics in a first lecture, then we show how to study Fisher Information geometry in this context.
 
 ### TBA -- **Adriano** -- [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
+
+# May 2, 16h -- Chi Hong Chow -- Gamma conjecture I for flag varieties
+
+Gamma conjecture I is a conjecture proposed by Galkin, Golyshev and Iritani which states that the fundamental solution of the quantum connection of a Fano manifold associated to the regular singular point sends the Gamma class to a flat section whose growth near the irregular singular point is determined by the quantum period. In this talk, we will discuss the conjecture for flag varieties. They are good spaces in this context because they have mirror symmetry and a good notion of positivity, allowing us to apply a strategy of Galkin and Iritani.
 
 ### 2025, Apr 25 -- **Sergei Burkin** -- Higher structures and how to encode them
 
