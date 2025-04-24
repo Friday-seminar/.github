@@ -212,7 +212,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
-### May 16 --
+### May 16 -- Olivier Martin
 
 ### May 9 - **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry I,II.
 
@@ -220,7 +220,7 @@ We give an introduction to Thermodynamic formalism from the point of view of dyn
 
 ### TBA -- **Adriano** -- [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
 
-# May 2, 16h -- Chi Hong Chow -- Gamma conjecture I for flag varieties
+### May 2, 16h -- Chi Hong Chow -- Gamma conjecture I for flag varieties
 
 Gamma conjecture I is a conjecture proposed by Galkin, Golyshev and Iritani which states that the fundamental solution of the quantum connection of a Fano manifold associated to the regular singular point sends the Gamma class to a flat section whose growth near the irregular singular point is determined by the quantum period. In this talk, we will discuss the conjecture for flag varieties. They are good spaces in this context because they have mirror symmetry and a good notion of positivity, allowing us to apply a strategy of Galkin and Iritani.
 
