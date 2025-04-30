@@ -63,6 +63,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
 ## 2025
 
 - Holidays: Jun 20.
+- May 30 -- TBA
+- May 23 -- Ale Cabrera on non-formal quantization
 - May 16 -- Olivier Martin
 - May 9 -- Rafael Ruggiero -- Thermodynamic formalism and Information geometry
 - May 2, 16h -- Chi Hong Chow -- Gamma conjecture I for flag varieties
