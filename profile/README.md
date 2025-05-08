@@ -14,9 +14,10 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-# May 2, 16h -- Chi Hong Chow -- Gamma conjecture I for flag varieties
+# May 9, 14h -- Rafael Ruggiero -- Thermodynamic formalism and Information geometry I, II
 
-Gamma conjecture I is a conjecture proposed by Galkin, Golyshev and Iritani which states that the fundamental solution of the quantum connection of a Fano manifold associated to the regular singular point sends the Gamma class to a flat section whose growth near the irregular singular point is determined by the quantum period. In this talk, we will discuss the conjecture for flag varieties. They are good spaces in this context because they have mirror symmetry and a good notion of positivity, allowing us to apply a strategy of Galkin and Iritani.
+In this first talk we present the fundamental ideas of thermodynamic formalism from the point of view of dynamics, without entering into technical details.
+In a second talk, we shall show some recent developments relating thermodynamic formalism and information geometry. 
 
 
 ## when and where:
@@ -209,13 +210,18 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
+### TBA -- **Adriano** -- [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
+
+### May 30 -- ALe Cabrera -- non-formal deformation quantization
+
 ### May 16 -- Olivier Martin
 
 ### May 9 - **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry I,II.
 
-We give an introduction to Thermodynamic formalism from the point of view of dynamics in a first lecture, then we show how to study Fisher Information geometry in this context.
+In this first talk we present the fundamental ideas of thermodynamic formalism from the point of view of dynamics, without entering into technical details.
+In a second talk, we shall show some recent developments relating thermodynamic formalism and information geometry. 
 
-### TBA -- **Adriano** -- [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
+
 
 ### May 2, 16h -- **Chi Hong Chow** -- Gamma conjecture I for flag varieties
 
