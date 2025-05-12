@@ -14,10 +14,9 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-# May 9, 14h -- Rafael Ruggiero -- Thermodynamic formalism and Information geometry I, II
+# May 12 -- Olivier Martin -- Xiao's conjecture for trigonal fibrations
 
-In this first talk we present the fundamental ideas of thermodynamic formalism from the point of view of dynamics, without entering into technical details.
-In a second talk, we shall show some recent developments relating thermodynamic formalism and information geometry. 
+The relative irregularity q_f of a fibered surface $f: S ↦ B$ is the relative dimension of the induced surjection $Alb(S) ↦ Alb(B)$.  A conjecture of Xiao Gang predicts that the relative irregularity of f is related to the genus g of a generic fiber through the inequality $q_f ≤ g/2+1$. This conjecture has been verified if the general fiber of f is Clifford general or hyperelliptic. I will present a proof of this conjecture when the generic fiber is trigonal. It will arise as a consequence of much stronger rigidity statements for trigonal curves on abelian varieties.
 
 
 ## when and where:
@@ -214,7 +213,9 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ### May 30 -- ALe Cabrera -- non-formal deformation quantization
 
-### May 16 -- Olivier Martin
+### May 16 -- Olivier Martin -- Xiao's conjecture for trigonal fibrations
+
+The relative irregularity q_f of a fibered surface $f: S ↦ B$ is the relative dimension of the induced surjection $Alb(S) ↦ Alb(B)$.  A conjecture of Xiao Gang predicts that the relative irregularity of f is related to the genus g of a generic fiber through the inequality $q_f ≤ g/2+1$. This conjecture has been verified if the general fiber of f is Clifford general or hyperelliptic. I will present a proof of this conjecture when the generic fiber is trigonal. It will arise as a consequence of much stronger rigidity statements for trigonal curves on abelian varieties.
 
 ### May 9 - **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry I,II.
 
