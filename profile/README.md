@@ -72,7 +72,10 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## 2025
 
-- Holidays: Jun 20.
+- Jun 27 - tba
+- Jun 20 - holiday (Corpus Christi)
+- Jun 13 - tba
+- Jun 6 - tba
 - May 30 -- Alejandro Cabrera on non-formal quantization
 - May 23 -- Dmitrii Korshunov -- Sub-twistor metrics
 - May 16 -- Olivier Martin -- Xiao's conjecture for trigonal fibrations
