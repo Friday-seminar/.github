@@ -26,7 +26,7 @@ light-like curves in general relativity,
 sub-twistor paths in hyperkähler geometry
 and convex integration.
 We will concentrate on the relaxation phenomena, showing that at least metric questions essentially boil down to sub-Finsler geometry.
-
+Reference: [Sub-twistor metrics](https://arxiv.org/abs/2410.18255), 2410.18255.
 
 
 ## when and where:
@@ -234,6 +234,7 @@ light-like curves in general relativity,
 sub-twistor paths in hyperkähler geometry
 and convex integration.
 We will concentrate on the relaxation phenomena, showing that at least metric questions essentially boil down to sub-Finsler geometry.
+Reference: [Sub-twistor metrics](https://arxiv.org/abs/2410.18255), 2410.18255.
 
 ### May 16 -- Olivier Martin -- Xiao's conjecture for trigonal fibrations
 
