@@ -14,9 +14,19 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-# May 16 -- Olivier Martin -- Xiao's conjecture for trigonal fibrations
+# Next talk: May 16 -- Olivier Martin -- Xiao's conjecture for trigonal fibrations
 
 The relative irregularity q_f of a fibered surface $f: S ↦ B$ is the relative dimension of the induced surjection $Alb(S) ↦ Alb(B)$.  A conjecture of Xiao Gang predicts that the relative irregularity of f is related to the genus g of a generic fiber through the inequality $q_f ≤ g/2+1$. This conjecture has been verified if the general fiber of f is Clifford general or hyperelliptic. I will present a proof of this conjecture when the generic fiber is trigonal. It will arise as a consequence of much stronger rigidity statements for trigonal curves on abelian varieties.
+
+### May 23 -- Dmitrii Korshunov -- Sub-twistor metrics
+
+We will discuss several situations when one has to travel through space
+under the non-holonomic restrictions imposed by distributions of cones:
+light-like curves in general relativity,
+sub-twistor paths in hyperkähler geometry
+and convex integration.
+We will concentrate on the relaxation phenomena, showing that at least metric questions essentially boil down to sub-Finsler geometry.
+
 
 
 ## when and where:
@@ -63,8 +73,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
 ## 2025
 
 - Holidays: Jun 20.
-- May 30 -- Ale Cabrera on non-formal quantization
-- May 23 -- Dmitrii Korshunov -- Cones and twistor spaces (TBC)
+- May 30 -- Alejandro Cabrera on non-formal quantization
+- May 23 -- Dmitrii Korshunov -- Sub-twistor metrics
 - May 16 -- Olivier Martin -- Xiao's conjecture for trigonal fibrations
 - May 9 -- Rafael Ruggiero -- Thermodynamic formalism and Information geometry
 - May 2, 16h -- Chi Hong Chow -- Gamma conjecture I for flag varieties
@@ -213,7 +223,14 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ### May 30 -- Ale Cabrera -- non-formal deformation quantization
 
-### May 23 -- Dmitrii Korshunov -- Cones and twistor spaces (TBC)
+### May 23 -- Dmitrii Korshunov -- Sub-twistor metrics
+
+We will discuss several situations when one has to travel through space
+under the non-holonomic restrictions imposed by distributions of cones:
+light-like curves in general relativity,
+sub-twistor paths in hyperkähler geometry
+and convex integration.
+We will concentrate on the relaxation phenomena, showing that at least metric questions essentially boil down to sub-Finsler geometry.
 
 ### May 16 -- Olivier Martin -- Xiao's conjecture for trigonal fibrations
 
