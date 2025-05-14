@@ -229,11 +229,11 @@ interesting themes and topics for next seminar talks, references, slides of the 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
 
-### May 30 -- Ale Cabrera -- Topics in the quantization of Poisson manifolds
+### 2025, May 30 -- Ale Cabrera -- Topics in the quantization of Poisson manifolds
 
 In this talk, we shall provide an overview about different mathematical structures related to the problem of quantization of Poisson manifolds M. After reviewing the definition of this problem, and some examples, we move towards the role of symplectic groupoids in it. We then explain some recent results by the speaker in the direction of achieving quantization through such groupoids and its relation to both Kontsevich's formal quantization formula and an underlying 2d topological field theory called Poisson sigma model. Finally, I will comment on a new phenomenon involving failure of associativity in non-formal quantizations which comes from the failure of "integrability" of M to a symplectic groupoid.
 
-### May 23 -- Dmitrii Korshunov -- Sub-conical geometry
+### 2025, May 23 -- Dmitrii Korshunov -- Sub-conical geometry
 
 We will discuss several situations when one has to travel through space
 under the non-holonomic restrictions imposed by distributions of cones:
@@ -243,16 +243,16 @@ and convex integration.
 We will concentrate on the relaxation phenomena, showing that at least metric questions essentially boil down to sub-Finsler geometry.
 Reference: [Sub-twistor metrics](https://arxiv.org/abs/2410.18255), 2410.18255.
 
-### May 16 -- Olivier Martin -- Xiao's conjecture for trigonal fibrations
+### 2025, May 16 -- Olivier Martin -- Xiao's conjecture for trigonal fibrations
 
 The relative irregularity q_f of a fibered surface $f: S ↦ B$ is the relative dimension of the induced surjection $Alb(S) ↦ Alb(B)$.  A conjecture of Xiao Gang predicts that the relative irregularity of f is related to the genus g of a generic fiber through the inequality $q_f ≤ g/2+1$. This conjecture has been verified if the general fiber of f is Clifford general or hyperelliptic. I will present a proof of this conjecture when the generic fiber is trigonal. It will arise as a consequence of much stronger rigidity statements for trigonal curves on abelian varieties.
 
-### May 9 - **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry I,II.
+### 2025, May 9 -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry I,II.
 
 In this first talk we present the fundamental ideas of thermodynamic formalism from the point of view of dynamics, without entering into technical details.
 In a second talk, we shall show some recent developments relating thermodynamic formalism and information geometry. 
 
-### May 2, 16h -- **Chi Hong Chow** -- Gamma conjecture I for flag varieties
+### 2025, May 2, 16h -- **Chi Hong Chow** -- Gamma conjecture I for flag varieties
 
 Gamma conjecture I is a conjecture proposed by Galkin, Golyshev and Iritani which states that the fundamental solution of the quantum connection of a Fano manifold associated to the regular singular point sends the Gamma class to a flat section whose growth near the irregular singular point is determined by the quantum period. In this talk, we will discuss the conjecture for flag varieties. They are good spaces in this context because they have mirror symmetry and a good notion of positivity, allowing us to apply a strategy of Galkin and Iritani.
 
