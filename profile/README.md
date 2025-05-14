@@ -36,7 +36,7 @@ In this talk, we shall provide an overview about different mathematical structur
 
 
 ## when and where:
-  - 🕑 Fridays (sexta-feiras) until **18:00**, start around 14h30m
+  - 🕑 Fridays (sexta-feiras) until **18:00**, start usually around 14:00 or 14h30m
   - **DMAT PUC-Rio**, room **L863** in Leme building (left from main entrance), take an elevator to 8th floor near "Bar Nossa Senhora do Carmo" on the opposite site of a bookshop.
 
 ## we are:
