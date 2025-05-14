@@ -88,7 +88,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - May 9 -- Rafael Ruggiero -- Thermodynamic formalism and Information geometry
 - May 2, 16h -- Chi Hong Chow -- Gamma conjecture I for flag varieties
 - Apr 25 -- Sergei Burkin -- Higher structures and how to encode them
-- Apr 18 -- holiday
+- Apr 18 -- holiday (Sexta de Paixão)
 - Apr 11, 16h -- Giovanna Leal -- Homotopy types of intersections of real Bruhat cells, PhD thesis defence
 - Apr 11 -- [Joint Symplectic Seminar of Rio](https://sites.google.com/matematica.ufrj.br/semsimprio) in IMPA, 14:30-17:00
 - Apr 4 -- non public
@@ -156,7 +156,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Apr 12 -- Sergey Galkin -- [Mirror symmetry and Fano manifolds](https://arxiv.org/abs/1212.1722)
 - Apr 5 -- Bruno Suassuna -- Rational endomorphisms preserving logarithmic volume
 - Apr 5 -- Altan Erdnigor -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction), part II/II
-- Mar 29 -- [Sexta-Feira da Paixão](https://pt.wikipedia.org/wiki/Sexta-feira_Santa)
+- Mar 29 -- holiday, [Sexta-Feira da Paixão](https://pt.wikipedia.org/wiki/Sexta-feira_Santa)
 - Mar 27 (Wed) -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
 - Mar 8, 16h -- Altan Erdnigor -- [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization) and Equivariant Topology, part I/II
 - Mar 8, 14h -- Lucas Branco -- What is... a [Higgs bundle](https://en.wikipedia.org/wiki/Higgs_bundle)?
@@ -185,12 +185,12 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Nov 3, Nov 10 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
 - Oct 27 -- Oktobermat XX
 - Oct 20 -- Dmitri Panov -- Spherical surfaces with conical singularities
-- Oct 13 -- Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
+- Oct 13 -- holiday, Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
 - Oct 6 -- Ilia Gaiur -- Multiplication kernels: introduction and examples
 - Sep 29 -- Sergey Galkin -- Tropicalizations of rational maps preserving logarithmic volume forms (tropical talk II)
 - Sep 22 -- Bruno Suassuna -- $n$ bosonic modes
 - Sep 15 -- Arthur Fidalgo -- [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
-- Sep 8 -- recesso do [Dia da Independência](https://pt.wikipedia.org/wiki/Dia_da_Independência_(Brasil))
+- Sep 8 -- holiday, recesso do [Dia da Independência](https://pt.wikipedia.org/wiki/Dia_da_Independência_(Brasil))
 - Sep 1 -- Altan Erdnigor -- [Intersection homology](https://en.wikipedia.org/wiki/Intersection_homology)
 - Sep 1 -- Sergey Galkin -- Logarithmic volume forms and special birational transformations (pre-tropical talk I)
 - Aug 25 -- [Eduardo Alves da Silva](https://sites.google.com/view/eduardo-alvesdasilva-math/)  -- Log Calabi--Yau geometry and Cremona maps
@@ -205,7 +205,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Jun 30 - Andrey Soldatenkov - [o-minimal structure](https://en.wikipedia.org/wiki/O-minimal_theory)
 - Jun 23 - Sergey Sergeev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation)
 - Jun 16 - Sergey Burkin -  [Operads](https://en.wikipedia.org/wiki/Operad) 
-- Jun 9 - holiday - [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
+- Jun 9 - holiday, [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
 - Jun 2 - Rodrigo Matos - [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) 
 - Jun 2 - Miguel Batista - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares) and [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes)
 - May 26 - Antonio Vasconcellos - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
@@ -213,9 +213,9 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - May 12 - Veronika Treumova - [dessins d'enfant](https://en.wikipedia.org/wiki/Dessin_d'enfant)
 - May 5 - Victor el Adji - [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
 - Apr 28 - Sergey Galkin - pencils of quadrics
-- Apr 21 - holiday - [Tiradentes](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
+- Apr 21 - holiday, [Tiradentes](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - Apr 14 - Filipe Nóbrega - [pencils of conics](https://en.wikipedia.org/wiki/Pencil_(geometry))
-- Apr 7 - holiday - [Sexta-feira da Paixão](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
+- Apr 7 - holiday, [Sexta-feira da Paixão](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - Mar 31 - [Jacques Pienaar](https://www.jaypienaar.com) - [QBism](https://en.wikipedia.org/wiki/Quantum_Bayesianism)
 - Mar 24 - Bruno Suassuna - [formal perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory) for stochastic paths
 
