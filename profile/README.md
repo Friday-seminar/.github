@@ -26,6 +26,7 @@ light-like curves in general relativity,
 sub-twistor paths in hyperkähler geometry
 and convex integration.
 We will concentrate on the relaxation phenomena, showing that at least metric questions essentially boil down to sub-Finsler geometry.
+Reference: [Sub-twistor metrics](https://arxiv.org/abs/2410.18255), 2410.18255.
 
 ### May 30 -- Alejandro Cabrera -- Topics in the quantization of Poisson manifolds
 
@@ -227,7 +228,6 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
-### TBA -- **Adriano** -- [PRIMES is in P](https://en.wikipedia.org/wiki/AKS_primality_test) 
 
 ### May 30 -- Ale Cabrera -- Topics in the quantization of Poisson manifolds
 
@@ -241,6 +241,7 @@ light-like curves in general relativity,
 sub-twistor paths in hyperkähler geometry
 and convex integration.
 We will concentrate on the relaxation phenomena, showing that at least metric questions essentially boil down to sub-Finsler geometry.
+Reference: [Sub-twistor metrics](https://arxiv.org/abs/2410.18255), 2410.18255.
 
 ### May 16 -- Olivier Martin -- Xiao's conjecture for trigonal fibrations
 
