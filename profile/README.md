@@ -14,11 +14,7 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-## Next talk: May 16 -- Olivier Martin -- Xiao's conjecture for trigonal fibrations
-
-The relative irregularity q_f of a fibered surface $f: S ↦ B$ is the relative dimension of the induced surjection $Alb(S) ↦ Alb(B)$.  A conjecture of Xiao Gang predicts that the relative irregularity of f is related to the genus g of a generic fiber through the inequality $q_f ≤ g/2+1$. This conjecture has been verified if the general fiber of f is Clifford general or hyperelliptic. I will present a proof of this conjecture when the generic fiber is trigonal. It will arise as a consequence of much stronger rigidity statements for trigonal curves on abelian varieties.
-
-### May 23 -- Dmitrii Korshunov -- Sub-conical geometry
+##  May 23 -- Dmitrii Korshunov -- Sub-conical geometry
 
 We will discuss several situations when one has to travel through space
 under the non-holonomic restrictions imposed by distributions of cones:
@@ -78,10 +74,15 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## 2025
 
-- Jun 27 - tba
+- Jul 11 - tba
+- Jul 4 - tba
+- Jun 27, 16h - tba
+- Jun 27, 14h - Hiroshi Nunokawa -- hep-th, standard model and neutrino physics (tbc)
 - Jun 20 - holiday (Corpus Christi)
-- Jun 13 - tba
-- Jun 6 - tba
+- Jun 13, 16h - tba
+- Jun 13, 14h - Wei Chen -- topological order and topological phases (tbc)
+- Jun 6, 16h - tba
+- Jun 6, 14h - Thiago Guerreiro -- gravitational waves and quantum mechanics (tbc)
 - May 30 -- Alejandro Cabrera -- Topics in the quantization of Poisson manifolds
 - May 23 -- Dmitrii Korshunov -- Sub-conical geometry
 - May 16 -- Olivier Martin -- Xiao's conjecture for trigonal fibrations
