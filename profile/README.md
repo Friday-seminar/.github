@@ -28,6 +28,14 @@ Reference: [Sub-twistor metrics](https://arxiv.org/abs/2410.18255), 2410.18255.
 
 In this talk, we shall provide an overview about different mathematical structures related to the problem of quantization of Poisson manifolds M. After reviewing the definition of this problem, and some examples, we move towards the role of symplectic groupoids in it. We then explain some recent results by the speaker in the direction of achieving quantization through such groupoids and its relation to both Kontsevich's formal quantization formula and an underlying 2d topological field theory called Poisson sigma model. Finally, I will comment on a new phenomenon involving failure of associativity in non-formal quantizations which comes from the failure of "integrability" of M to a symplectic groupoid.
 
+### 2025, June 13, 14h -- [Wei Chen](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and [topological order](https://en.wikipedia.org/wiki/Topological_order) in solids
+
+The quantum mechanical wave function of electrons in a particular class of materials, called topological materials, displays intriguing quantum
+geometrical and topological properties. Mathematically, the topological order in these materials can be ubiquitously described by a topological
+invariant similar to the Gauss map. In addition, a quantum metric can be introduced from the overlap of neighboring quantum states in momentum
+space, whose determinant is related to the topological invariant through a metric-curvature correspondence. Through this quantum metric, we reveal
+a number of intriguing differential geometrical properties of these materials, including a maximally symmetric space, constant Ricci scalar,
+vacuum Einstein equation with a finite cosmological constant, and straight line geodesic.
 
 
 
@@ -80,7 +88,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Jun 27, 14h - Hiroshi Nunokawa -- hep-th, standard model and neutrino physics (tbc)
 - Jun 20 - holiday (Corpus Christi)
 - Jun 13, 16h - tba
-- Jun 13, 14h - Wei Chen -- topological order and topological phases (tbc)
+- Jun 13, 14h - [Wei Chen](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and [topological order](https://en.wikipedia.org/wiki/Topological_order) in solids
 - Jun 6, 16h - tba
 - Jun 6, 14h - Thiago Guerreiro -- gravitational waves and quantum mechanics (tbc)
 - May 30 -- Alejandro Cabrera -- Topics in the quantization of Poisson manifolds
@@ -228,6 +236,21 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
+
+### 2025, June 13, 14h -- [Wei Chen](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and topological order in solids
+
+The quantum mechanical wave function of electrons in a particular class
+of materials, called topological materials, displays intriguing quantum
+geometrical and topological properties. Mathematically, the topological
+order in these materials can be ubiquitously described by a topological
+invariant similar to the Gauss map. In addition, a quantum metric can be
+introduced from the overlap of neighboring quantum states in momentum
+space, whose determinant is related to the topological invariant through
+a metric-curvature correspondence. Through this quantum metric, we reveal
+a number of intriguing differential geometrical properties of these
+materials, including a maximally symmetric space, constant Ricci scalar,
+vacuum Einstein equation with a finite cosmological constant, and straight
+line geodesic.
 
 
 ### 2025, May 30 -- Ale Cabrera -- Topics in the quantization of Poisson manifolds
