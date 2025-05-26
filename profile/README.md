@@ -14,17 +14,7 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-##  May 23 -- Dmitrii Korshunov -- Sub-conical geometry
-
-We will discuss several situations when one has to travel through space
-under the non-holonomic restrictions imposed by distributions of cones:
-light-like curves in general relativity,
-sub-twistor paths in hyperkähler geometry
-and convex integration.
-We will concentrate on the relaxation phenomena, showing that at least metric questions essentially boil down to sub-Finsler geometry.
-Reference: [Sub-twistor metrics](https://arxiv.org/abs/2410.18255), 2410.18255.
-
-### May 30 -- Alejandro Cabrera -- Topics in the quantization of Poisson manifolds
+##  May 30 -- Alejandro Cabrera -- Topics in the quantization of Poisson manifolds
 
 In this talk, we shall provide an overview about different mathematical structures related to the problem of quantization of Poisson manifolds M. After reviewing the definition of this problem, and some examples, we move towards the role of symplectic groupoids in it. We then explain some recent results by the speaker in the direction of achieving quantization through such groupoids and its relation to both Kontsevich's formal quantization formula and an underlying 2d topological field theory called Poisson sigma model. Finally, I will comment on a new phenomenon involving failure of associativity in non-formal quantizations which comes from the failure of "integrability" of M to a symplectic groupoid.
 
