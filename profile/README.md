@@ -74,8 +74,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Jun 20 - holiday (Corpus Christi)
 - Jun 13, 15:00-17:30 -- Brazilian Algebraic Geometry Seminar (in IMPA)
 - Jun 13, 11:00-13:00 -- [Wei Chen](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and [topological order](https://en.wikipedia.org/wiki/Topological_order) in solids
-- Jun 6, 16h - tba
-- Jun 6, 14h - Thiago Guerreiro -- gravitational waves and quantum mechanics (tbc)
+- Jun 6, 14h - tba
+- Jun 6, 11:00-13:00 -- Thiago Guerreiro -- gravitational waves and quantum mechanics (tbc)
 - May 30 -- Alejandro Cabrera -- Topics in the quantization of Poisson manifolds
 - May 23 -- Dmitrii Korshunov -- Sub-conical geometry
 - May 16 -- Olivier Martin -- Xiao's conjecture for trigonal fibrations
