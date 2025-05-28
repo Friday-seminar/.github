@@ -75,11 +75,11 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Jul 4 - tba
 - Jun 27, 16h - tba
 - Jun 27, 14h - Hiroshi Nunokawa -- hep-th, standard model and neutrino physics (tbc)
-- Jun 20 - holiday (Corpus Christi)
+- Jun 20 -- holiday (Corpus Christi), no seminar, also Sergey Galkin speaks on Bogotá seminar in zoom
 - Jun 13, 15:00-17:30 -- Brazilian Algebraic Geometry Seminar (in IMPA)
 - Jun 13, 11:00-13:00 -- [Wei Chen](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and [topological order](https://en.wikipedia.org/wiki/Topological_order) in solids
 - Jun 6, 14h - tba
-- Jun 6, 11:00-13:00 -- Thiago Guerreiro -- gravitational waves and quantum mechanics (tbc)
+- Jun 6, 11:00-13:00 -- Thiago Guerreiro -- Nonclassical gravitational waves and the quantum nature of gravity
 - May 30 -- Alejandro Cabrera -- Topics in the quantization of Poisson manifolds
 - May 23 -- Dmitrii Korshunov -- Sub-conical geometry
 - May 16 -- Olivier Martin -- Xiao's conjecture for trigonal fibrations
@@ -226,21 +226,13 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
-### 2025, June 13, 11h-13h (unusual time) -- [Wei Chen](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and topological order in solids
+### 2025, June 13, 11:00-13:00 (unusual time) -- [Wei Chen](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and topological order in solids
 
-The quantum mechanical wave function of electrons in a particular class
-of materials, called topological materials, displays intriguing quantum
-geometrical and topological properties. Mathematically, the topological
-order in these materials can be ubiquitously described by a topological
-invariant similar to the Gauss map. In addition, a quantum metric can be
-introduced from the overlap of neighboring quantum states in momentum
-space, whose determinant is related to the topological invariant through
-a metric-curvature correspondence. Through this quantum metric, we reveal
-a number of intriguing differential geometrical properties of these
-materials, including a maximally symmetric space, constant Ricci scalar,
-vacuum Einstein equation with a finite cosmological constant, and straight
-line geodesic.
+The quantum mechanical wave function of electrons in a particular class of materials, called topological materials, displays intriguing quantum geometrical and topological properties. Mathematically, the topological order in these materials can be ubiquitously described by a topological invariant similar to the Gauss map. In addition, a quantum metric can be introduced from the overlap of neighboring quantum states in momentum space, whose determinant is related to the topological invariant through a metric-curvature correspondence. Through this quantum metric, we reveal a number of intriguing differential geometrical properties of these materials, including a maximally symmetric space, constant Ricci scalar, vacuum Einstein equation with a finite cosmological constant, and straight line geodesic.
 
+### 2025, June 6, 11:00-13:00 (unusual time) -- Thiago Guerreiro -- Nonclassical gravitational waves and the quantum nature of gravity
+
+Einstein's theory of gravity admits a low energy effective quantum field description from which predictions beyond classical general relativity can be made. As gravitational wave detectors improve, we may ask whether nonclassical features of such theory can be experimentally verified? In this talk, I will discuss three aspects of this question: First, what kinds of signals would nonclassical GWs impart on a detector? Next, what would we need to measure in order to certify the quantum nature of gravity? And finally, are nonclassical gravitational wave states produced in Nature, and if yes, what are the sources?
 
 ### 2025, May 30 -- Ale Cabrera -- Topics in the quantization of Poisson manifolds
 
@@ -248,12 +240,7 @@ In this talk, we shall provide an overview about different mathematical structur
 
 ### 2025, May 23 -- Dmitrii Korshunov -- Sub-conical geometry
 
-We will discuss several situations when one has to travel through space
-under the non-holonomic restrictions imposed by distributions of cones:
-light-like curves in general relativity,
-sub-twistor paths in hyperkähler geometry
-and convex integration.
-We will concentrate on the relaxation phenomena, showing that at least metric questions essentially boil down to sub-Finsler geometry.
+We will discuss several situations when one has to travel through space under the non-holonomic restrictions imposed by distributions of cones: light-like curves in general relativity, sub-twistor paths in hyperkähler geometry and convex integration. We will concentrate on the relaxation phenomena, showing that at least metric questions essentially boil down to sub-Finsler geometry.
 Reference: [Sub-twistor metrics](https://arxiv.org/abs/2410.18255), 2410.18255.
 
 ### 2025, May 16 -- Olivier Martin -- Xiao's conjecture for trigonal fibrations
@@ -759,11 +746,11 @@ A __real (complex) pencil of conics__ is a one-parameter family of conics given 
 ## Mar 24: **Bruno Suassuna**: Formal Perturbation Theory for Stochastic Paths
 - Short abstract for mathematicians:
 
-We discuss methods of perturbative QFT applied to certain stochastic differential equations (SDE), perturbations of the Ornstein-Uhlenbeck process. No knowledge of SDE or QFT is assumed.
+We discuss methods of perturbative QFT applied to certain stochastic differential equations (SDE), perturbations of the Ornstein--Uhlenbeck process. No knowledge of SDE or QFT is assumed.
 
 Perturbative QFT amounts to some sort of generating function for formal power series expansions, and these methods have found many applications in pure and applied mathematics. This is the main motivation for this talk. The lack of mathematical proofs often comes together with the magical formulas derived from these methods, and this will also be examplified in this talk. 
 
-The application we discuss was the subject of joint work with Bruno Melo (ETH Zurich) and Thiago Guerreiro (PUC-RIO), published (PhysRevA) in January 2021.
+The application we discuss was the subject of joint work with Bruno Melo (ETH Zurich) and Thiago Guerreiro (PUC-Rio), published (PhysRevA) in January 2021.
 
 - Fine-print for physicists:
 
