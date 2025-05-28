@@ -18,6 +18,8 @@
 
 In this talk, we shall provide an overview about different mathematical structures related to the problem of quantization of Poisson manifolds M. After reviewing the definition of this problem, and some examples, we move towards the role of symplectic groupoids in it. We then explain some recent results by the speaker in the direction of achieving quantization through such groupoids and its relation to both Kontsevich's formal quantization formula and an underlying 2d topological field theory called Poisson sigma model. Finally, I will comment on a new phenomenon involving failure of associativity in non-formal quantizations which comes from the failure of "integrability" of M to a symplectic groupoid.
 
+### 2025, June 6, 14h -- Carlos Tomei on [Lax pairs](https://en.wikipedia.org/wiki/Lax_pair)
+
 ### 2025, June 6, 11:00-13:00 (unusual time) -- Thiago Guerreiro -- Nonclassical gravitational waves and the quantum nature of gravity
 
 Einstein's theory of gravity admits a low energy effective quantum field description from which predictions beyond classical general relativity can be made. As gravitational wave detectors improve, we may ask whether nonclassical features of such theory can be experimentally verified? In this talk, I will discuss three aspects of this question: First, what kinds of signals would nonclassical GWs impart on a detector? Next, what would we need to measure in order to certify the quantum nature of gravity? And finally, are nonclassical gravitational wave states produced in Nature, and if yes, what are the sources?
@@ -78,7 +80,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Jun 20 -- holiday (Corpus Christi), no seminar, also Sergey Galkin speaks on Bogotá seminar in zoom
 - Jun 13, 15:00-17:30 -- Brazilian Algebraic Geometry Seminar (in IMPA)
 - Jun 13, 11:00-13:00 -- [Wei Chen](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and [topological order](https://en.wikipedia.org/wiki/Topological_order) in solids
-- Jun 6, 14h - tba
+- Jun 6, 14h -- Carlos Tomei on [Lax pairs](https://en.wikipedia.org/wiki/Lax_pair), tbc
 - Jun 6, 11:00-13:00 -- Thiago Guerreiro -- Nonclassical gravitational waves and the quantum nature of gravity
 - May 30 -- Alejandro Cabrera -- Topics in the quantization of Poisson manifolds
 - May 23 -- Dmitrii Korshunov -- Sub-conical geometry
