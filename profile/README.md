@@ -18,7 +18,13 @@
 
 In this talk, we shall provide an overview about different mathematical structures related to the problem of quantization of Poisson manifolds M. After reviewing the definition of this problem, and some examples, we move towards the role of symplectic groupoids in it. We then explain some recent results by the speaker in the direction of achieving quantization through such groupoids and its relation to both Kontsevich's formal quantization formula and an underlying 2d topological field theory called Poisson sigma model. Finally, I will comment on a new phenomenon involving failure of associativity in non-formal quantizations which comes from the failure of "integrability" of M to a symplectic groupoid.
 
-### 2025, June 6, 14h -- Carlos Tomei on [Lax pairs](https://en.wikipedia.org/wiki/Lax_pair)
+
+### 2025, June 6, 14:14-16:00 -- Carlos Tomei -- What to expect from equations in [Lax pair](https://en.wikipedia.org/wiki/Lax_pair) form
+
+What to expect from equations in [Lax pair](https://en.wikipedia.org/wiki/Lax_pair) form?
+Rather surprisingly, not much in general. But a lot in most situations which come to mind.
+We'll go through examples, from results in integrability to total linearization in large phase spaces.
+
 
 ### 2025, June 6, 11:00-13:00 (unusual time) -- Thiago Guerreiro -- Nonclassical gravitational waves and the quantum nature of gravity
 
@@ -80,9 +86,9 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Jun 20 -- holiday (Corpus Christi), no seminar, also Sergey Galkin speaks on Bogotá seminar in zoom
 - Jun 13, 15:00-17:30 -- Brazilian Algebraic Geometry Seminar (in IMPA)
 - Jun 13, 11:00-13:00 -- [Wei Chen](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and [topological order](https://en.wikipedia.org/wiki/Topological_order) in solids
-- Jun 6, 14h -- Carlos Tomei on [Lax pairs](https://en.wikipedia.org/wiki/Lax_pair), tbc
-- Jun 6, 11:00-13:00 -- Thiago Guerreiro -- Nonclassical gravitational waves and the quantum nature of gravity
-- May 30 -- Alejandro Cabrera -- Topics in the quantization of Poisson manifolds
+- Jun 6, 14h -- Carlos Tomei -- [Lax pairs](https://en.wikipedia.org/wiki/Lax_pair)
+- Jun 6, 11:00-13:00 -- Thiago Guerreiro -- Non-classical gravitational waves and the quantum nature of gravity
+- May 30 -- Alejandro Cabrera -- Quantization of Poisson manifolds
 - May 23 -- Dmitrii Korshunov -- Sub-conical geometry
 - May 16 -- Olivier Martin -- Xiao's conjecture for trigonal fibrations
 - May 9 -- Rafael Ruggiero -- Thermodynamic formalism and Information geometry
@@ -176,7 +182,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## 2023.2 (18 talks)
 
-- Dec 8 -- [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
+- Dec 8 -- holiday, [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
 - Dec 1 -- Alex Gomez -- [Delzant's theorem](https://en.wikipedia.org/wiki/Delzant's_theorem)
 - Nov 24 -- Victor el Adji -- [Matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial)
 - Nov 24 -- Lucas Castello Branco -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) and [Mirror Symmetry](https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory))
@@ -185,7 +191,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Nov 3, Nov 10 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
 - Oct 27 -- Oktobermat XX
 - Oct 20 -- Dmitri Panov -- Spherical surfaces with conical singularities
-- Oct 13 -- holiday, Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
+- Oct 13 -- holiday, recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
 - Oct 6 -- Ilia Gaiur -- Multiplication kernels: introduction and examples
 - Sep 29 -- Sergey Galkin -- Tropicalizations of rational maps preserving logarithmic volume forms (tropical talk II)
 - Sep 22 -- Bruno Suassuna -- $n$ bosonic modes
@@ -226,26 +232,35 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 
 
-# Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
+# Abstracts of all talks 
 
 ### 2025, June 13, 11:00-13:00 (unusual time) -- [Wei Chen](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and topological order in solids
 
 The quantum mechanical wave function of electrons in a particular class of materials, called topological materials, displays intriguing quantum geometrical and topological properties. Mathematically, the topological order in these materials can be ubiquitously described by a topological invariant similar to the Gauss map. In addition, a quantum metric can be introduced from the overlap of neighboring quantum states in momentum space, whose determinant is related to the topological invariant through a metric-curvature correspondence. Through this quantum metric, we reveal a number of intriguing differential geometrical properties of these materials, including a maximally symmetric space, constant Ricci scalar, vacuum Einstein equation with a finite cosmological constant, and straight line geodesic.
 
+
+### 2025, June 6, 14:14-16:00 -- Carlos Tomei -- What to expect from equations in [Lax pair](https://en.wikipedia.org/wiki/Lax_pair) form
+
+What to expect from equations in [Lax pair](https://en.wikipedia.org/wiki/Lax_pair) form?
+Rather surprisingly, not much in general. But a lot in most situations which come to mind.
+We'll go through examples, from results in integrability to total linearization in large phase spaces.
+
 ### 2025, June 6, 11:00-13:00 (unusual time) -- Thiago Guerreiro -- Nonclassical gravitational waves and the quantum nature of gravity
 
 Einstein's theory of gravity admits a low energy effective quantum field description from which predictions beyond classical general relativity can be made. As gravitational wave detectors improve, we may ask whether nonclassical features of such theory can be experimentally verified? In this talk, I will discuss three aspects of this question: First, what kinds of signals would nonclassical GWs impart on a detector? Next, what would we need to measure in order to certify the quantum nature of gravity? And finally, are nonclassical gravitational wave states produced in Nature, and if yes, what are the sources?
 
+
 ### 2025, May 30 -- Ale Cabrera -- Topics in the quantization of Poisson manifolds
 
 In this talk, we shall provide an overview about different mathematical structures related to the problem of quantization of Poisson manifolds M. After reviewing the definition of this problem, and some examples, we move towards the role of symplectic groupoids in it. We then explain some recent results by the speaker in the direction of achieving quantization through such groupoids and its relation to both Kontsevich's formal quantization formula and an underlying 2d topological field theory called Poisson sigma model. Finally, I will comment on a new phenomenon involving failure of associativity in non-formal quantizations which comes from the failure of "integrability" of M to a symplectic groupoid.
+
 
 ### 2025, May 23 -- Dmitrii Korshunov -- Sub-conical geometry
 
 We will discuss several situations when one has to travel through space under the non-holonomic restrictions imposed by distributions of cones: light-like curves in general relativity, sub-twistor paths in hyperkähler geometry and convex integration. We will concentrate on the relaxation phenomena, showing that at least metric questions essentially boil down to sub-Finsler geometry.
 Reference: [Sub-twistor metrics](https://arxiv.org/abs/2410.18255), 2410.18255.
 
-### 2025, May 16 -- Olivier Martin -- Xiao's conjecture for trigonal fibrations
+### 2025, May 16 -- **Olivier Martin** -- Xiao's conjecture for trigonal fibrations
 
 The relative irregularity q_f of a fibered surface $f: S ↦ B$ is the relative dimension of the induced surjection $Alb(S) ↦ Alb(B)$.  A conjecture of Xiao Gang predicts that the relative irregularity of f is related to the genus g of a generic fiber through the inequality $q_f ≤ g/2+1$. This conjecture has been verified if the general fiber of f is Clifford general or hyperelliptic. I will present a proof of this conjecture when the generic fiber is trigonal. It will arise as a consequence of much stronger rigidity statements for trigonal curves on abelian varieties.
 
