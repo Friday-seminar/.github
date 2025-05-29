@@ -14,23 +14,23 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-## 2025, May 30, 14h -- Alejandro Cabrera -- Topics in the quantization of Poisson manifolds
+## 2025, May 30, 14h -- **Alejandro Cabrera** -- Topics in the quantization of Poisson manifolds
 
 In this talk, we shall provide an overview about different mathematical structures related to the problem of quantization of Poisson manifolds M. After reviewing the definition of this problem, and some examples, we move towards the role of symplectic groupoids in it. We then explain some recent results by the speaker in the direction of achieving quantization through such groupoids and its relation to both Kontsevich's formal quantization formula and an underlying 2d topological field theory called Poisson sigma model. Finally, I will comment on a new phenomenon involving failure of associativity in non-formal quantizations which comes from the failure of "integrability" of M to a symplectic groupoid.
 
 
-### 2025, June 6, 14:14-16:00 -- Carlos Tomei -- What to expect from equations in [Lax pair](https://en.wikipedia.org/wiki/Lax_pair) form
+### 2025, June 6, 14:14-16:00 -- **Carlos Tomei** -- What to expect from equations in [Lax pair](https://en.wikipedia.org/wiki/Lax_pair) form
 
 What to expect from equations in [Lax pair](https://en.wikipedia.org/wiki/Lax_pair) form?
 Rather surprisingly, not much in general. But a lot in most situations which come to mind.
 We'll go through examples, from results in integrability to total linearization in large phase spaces.
 
 
-### 2025, June 6, 11:00-13:00 (unusual time) -- Thiago Guerreiro -- Nonclassical gravitational waves and the quantum nature of gravity
+### 2025, June 6, 11:00-13:00 (unusual time) -- **Thiago Guerreiro** -- Nonclassical gravitational waves and the quantum nature of gravity
 
 Einstein's theory of gravity admits a low energy effective quantum field description from which predictions beyond classical general relativity can be made. As gravitational wave detectors improve, we may ask whether nonclassical features of such theory can be experimentally verified? In this talk, I will discuss three aspects of this question: First, what kinds of signals would nonclassical GWs impart on a detector? Next, what would we need to measure in order to certify the quantum nature of gravity? And finally, are nonclassical gravitational wave states produced in Nature, and if yes, what are the sources?
 
-### 2025, June 13, 11:00-13:00 (unusual time) -- [Wei Chen](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and [topological order](https://en.wikipedia.org/wiki/Topological_order) in solids
+### 2025, June 13, 11:00-13:00 (unusual time) -- [**Wei Chen**](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and [topological order](https://en.wikipedia.org/wiki/Topological_order) in solids
 
 The quantum mechanical wave function of electrons in a particular class of materials, called topological materials, displays intriguing quantum geometrical and topological properties. Mathematically, the topological order in these materials can be ubiquitously described by a topological invariant similar to the Gauss map. In addition, a quantum metric can be introduced from the overlap of neighboring quantum states in momentum space, whose determinant is related to the topological invariant through a metric-curvature correspondence. Through this quantum metric, we reveal a number of intriguing differential geometrical properties of these materials, including a maximally symmetric space, constant Ricci scalar, vacuum Einstein equation with a finite cosmological constant, and straight line geodesic.
 
@@ -82,27 +82,27 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Jul 11 - tba
 - Jul 4 - tba
 - Jun 27, 16h - tba
-- Jun 27, 14h - Hiroshi Nunokawa -- hep-th, standard model and neutrino physics (tbc)
+- Jun 27, 14h - **Hiroshi Nunokawa** -- hep-th, standard model and neutrino physics (tbc)
 - Jun 20 -- holiday (Corpus Christi), no seminar, also Sergey Galkin speaks on Bogotá seminar in zoom
 - Jun 13, 15:00-17:30 -- Brazilian Algebraic Geometry Seminar (in IMPA)
-- Jun 13, 11:00-13:00 -- [Wei Chen](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and [topological order](https://en.wikipedia.org/wiki/Topological_order) in solids
-- Jun 6, 14h -- Carlos Tomei -- [Lax pairs](https://en.wikipedia.org/wiki/Lax_pair)
-- Jun 6, 11:00-13:00 -- Thiago Guerreiro -- Non-classical gravitational waves and the quantum nature of gravity
-- May 30 -- Alejandro Cabrera -- Quantization of Poisson manifolds
-- May 23 -- Dmitrii Korshunov -- Sub-conical geometry
-- May 16 -- Olivier Martin -- Xiao's conjecture for trigonal fibrations
-- May 9 -- Rafael Ruggiero -- Thermodynamic formalism and Information geometry
-- May 2, 16h -- Chi Hong Chow -- Gamma conjecture I for flag varieties
-- Apr 25 -- Sergei Burkin -- Higher structures and how to encode them
+- Jun 13, 11:00-13:00 -- [**Wei Chen**](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and [topological order](https://en.wikipedia.org/wiki/Topological_order) in solids
+- Jun 6, 14h -- **Carlos Tomei** -- [Lax pairs](https://en.wikipedia.org/wiki/Lax_pair)
+- Jun 6, 11:00-13:00 -- **Thiago Guerreiro** -- Non-classical gravitational waves and the quantum nature of gravity
+- May 30 -- **Alejandro Cabrera** -- Quantization of Poisson manifolds
+- May 23 -- **Dmitrii Korshunov** -- Sub-conical geometry
+- May 16 -- **Olivier Martin** -- Xiao's conjecture for trigonal fibrations
+- May 9 -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry
+- May 2, 16h -- **Chi Hong Chow** -- Gamma conjecture I for flag varieties
+- Apr 25 -- **Sergei Burkin** -- Higher structures and how to encode them
 - Apr 18 -- holiday (Sexta de Paixão)
 - Apr 11, 16h -- Giovanna Leal -- Homotopy types of intersections of real Bruhat cells, PhD thesis defence
 - Apr 11 -- [Joint Symplectic Seminar of Rio](https://sites.google.com/matematica.ufrj.br/semsimprio) in IMPA, 14:30-17:00
 - Apr 4 -- non public
 - Mar 28 -- research meeting
-- Mar 21 -- Matias del Hoyo  -- Lie Groupoids: Foundations, Advances, and Future Directions
+- Mar 21 -- **Matias del Hoyo**  -- Lie Groupoids: Foundations, Advances, and Future Directions
 - Mar 14 -- team meeting, QH(G/P), quantum hard Lefschetz, what we did this summer, and farewell to Altan
-- Mar 7 -- Maciej Denkowski -- C-algebraic functions 
-- Feb 27 (Thu) -- Misha Skopenkov -- Feynman checkers: quantum theory on a checkered paper
+- Mar 7 -- **Maciej Denkowski** -- C-algebraic functions 
+- Feb 27 (Thu) -- **Misha Skopenkov** -- Feynman checkers: quantum theory on a checkered paper
 
 ## 2024.2 (18 talks)
 
@@ -234,28 +234,28 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Abstracts of all talks 
 
-### 2025, June 13, 11:00-13:00 (unusual time) -- [Wei Chen](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and topological order in solids
+### 2025, June 13, 11:00-13:00 (unusual time) -- [**Wei Chen**](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and topological order in solids
 
 The quantum mechanical wave function of electrons in a particular class of materials, called topological materials, displays intriguing quantum geometrical and topological properties. Mathematically, the topological order in these materials can be ubiquitously described by a topological invariant similar to the Gauss map. In addition, a quantum metric can be introduced from the overlap of neighboring quantum states in momentum space, whose determinant is related to the topological invariant through a metric-curvature correspondence. Through this quantum metric, we reveal a number of intriguing differential geometrical properties of these materials, including a maximally symmetric space, constant Ricci scalar, vacuum Einstein equation with a finite cosmological constant, and straight line geodesic.
 
 
-### 2025, June 6, 14:14-16:00 -- Carlos Tomei -- What to expect from equations in [Lax pair](https://en.wikipedia.org/wiki/Lax_pair) form
+### 2025, June 6, 14:14-16:00 -- **Carlos Tomei** -- What to expect from equations in [Lax pair](https://en.wikipedia.org/wiki/Lax_pair) form
 
 What to expect from equations in [Lax pair](https://en.wikipedia.org/wiki/Lax_pair) form?
 Rather surprisingly, not much in general. But a lot in most situations which come to mind.
 We'll go through examples, from results in integrability to total linearization in large phase spaces.
 
-### 2025, June 6, 11:00-13:00 (unusual time) -- Thiago Guerreiro -- Nonclassical gravitational waves and the quantum nature of gravity
+### 2025, June 6, 11:00-13:00 (unusual time) -- **Thiago Guerreiro** -- Nonclassical gravitational waves and the quantum nature of gravity
 
 Einstein's theory of gravity admits a low energy effective quantum field description from which predictions beyond classical general relativity can be made. As gravitational wave detectors improve, we may ask whether nonclassical features of such theory can be experimentally verified? In this talk, I will discuss three aspects of this question: First, what kinds of signals would nonclassical GWs impart on a detector? Next, what would we need to measure in order to certify the quantum nature of gravity? And finally, are nonclassical gravitational wave states produced in Nature, and if yes, what are the sources?
 
 
-### 2025, May 30 -- Ale Cabrera -- Topics in the quantization of Poisson manifolds
+### 2025, May 30 -- **Ale Cabrera** -- Topics in the quantization of Poisson manifolds
 
 In this talk, we shall provide an overview about different mathematical structures related to the problem of quantization of Poisson manifolds M. After reviewing the definition of this problem, and some examples, we move towards the role of symplectic groupoids in it. We then explain some recent results by the speaker in the direction of achieving quantization through such groupoids and its relation to both Kontsevich's formal quantization formula and an underlying 2d topological field theory called Poisson sigma model. Finally, I will comment on a new phenomenon involving failure of associativity in non-formal quantizations which comes from the failure of "integrability" of M to a symplectic groupoid.
 
 
-### 2025, May 23 -- Dmitrii Korshunov -- Sub-conical geometry
+### 2025, May 23 -- **Dmitrii Korshunov** -- Sub-conical geometry
 
 We will discuss several situations when one has to travel through space under the non-holonomic restrictions imposed by distributions of cones: light-like curves in general relativity, sub-twistor paths in hyperkähler geometry and convex integration. We will concentrate on the relaxation phenomena, showing that at least metric questions essentially boil down to sub-Finsler geometry.
 Reference: [Sub-twistor metrics](https://arxiv.org/abs/2410.18255), 2410.18255.
@@ -308,13 +308,14 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
 ### Nov 29, 14h -- **Raffaele Vitolo** -- PDE without tears: an introduction to geometry of PDE for geometry students
 
 ### Nov 22, 16h -- **Nicolau Saldanha** -- The homotopy type of spaces of locally convex curves in the sphere
+
 A smooth curve $\gamma: [0,1] \to \mathbb{S}^2$ is locally convex
 if its geodesic curvature is positive at every point.
 J.~A.~Little showed that the space of all locally positive curves $\gamma$
 with $\gamma(0) = \gamma(1) = e_1$ and $\gamma'(0) = \gamma'(1) = e_2$
 has three connected components $L_{-1,c}$, $L_{+1}$, $L_{-1,n}$.
 These spaces and variants have been discussed, among others,
-by B.~Shapiro, M.~Shapiro and B.~Khesin.
+by B. Shapiro, M. Shapiro and B. Khesin.
 
 Our first aim is to describe the homotopy type of these spaces.
 The connected component $L_{-1,c}$ is known to be contractible.
@@ -417,13 +418,13 @@ Given a birational map in three-dimensional projective space defined by monomial
 
 The Mordell-Weil theorem states that the group of points on an abelian variety over a number field is finitely generated. In the first part of the talk I will briefly cover the theory complex tori and abelian varieties, and then use it to prove Mordell-Weil theorem.
 
-### June 28, 16h -- **Bruno Suassuna** -- Complex compact manifolds with affine structure are non-kahler (except for some finite coverings of tori) 
+### June 28, 16h -- **Bruno Suassuna** -- Complex compact manifolds with affine structure are non-Kähler (except for some finite coverings of tori) 
 
-The main goal of this talk is to discuss a proof of the claim above. More precisely we will prove that: if a complex manifold M is compact, admits complex affine structure and admits kahler structure, then M must admit a flat Riemannian metric. A proof can be found in a [Mathoverflow post](https://mathoverflow.net/questions/323451/compact-complex-affine-kähler-manifold-is-a-torus), so this fact is well-known.
+The main goal of this talk is to discuss a proof of the claim above. More precisely we will prove that: if a complex manifold $M$ is compact, admits complex affine structure and admits Kähler structure, then $M$ must admit a flat Riemannian metric. A proof can be found in a [Mathoverflow post](https://mathoverflow.net/questions/323451/compact-complex-affine-kähler-manifold-is-a-torus), so this fact is well-known.
 
-The compact flat Riemannian manifolds are known as Euclidean space forms, and by Bieberbach there are finitely many Euclidean Space forms of any given dimension and they are all finite coverings of tori. Complex compact affine manifolds M which are not diffeomorphic to an Euclidean Space form do not admit kahler metrics.
+The compact flat Riemannian manifolds are known as Euclidean space forms, and by Bieberbach there are finitely many Euclidean Space forms of any given dimension and they are all finite coverings of tori. Complex compact affine manifolds M which are not diffeomorphic to an Euclidean Space form do not admit Kähler metrics.
 
-The main step of the proof will be to show that a compact kahler manifold with $c_1(M)=0$ (Calabi-Yau manifold) together with $c_2(M)=0$ must admit a flat Riemannian metric; we will discuss the french proof in [Premières formes de Chern des variétés kählériennes compactes - Séminaire Bourbaki](http://www.numdam.org/article/SB_1977-1978__20__1_0.pdf), which uses the Calabi-Yau theorem. The second main step will be to explain why in the "complex affine kahler" case, all chern classes vanish: $c_k(M)=0$ for $k>0$. We will explain how this follows from the existence of a holomorphic connection (vanishing of the Atiyah class).
+The main step of the proof will be to show that a compact Kähler manifold with $c_1(M)=0$ (Calabi-Yau manifold) together with $c_2(M)=0$ must admit a flat Riemannian metric; we will discuss the french proof in [Premières formes de Chern des variétés kählériennes compactes - Séminaire Bourbaki](http://www.numdam.org/article/SB_1977-1978__20__1_0.pdf), which uses the Calabi-Yau theorem. The second main step will be to explain why in the "complex affine Kähler" case, all Chern classes vanish: $c_k(M)=0$ for $k>0$. We will explain how this follows from the existence of a holomorphic connection (vanishing of the Atiyah class).
 
 ### June 28 -- **John Alexander Cruz Morales** -- Around the notion of F-algebroids
 
@@ -495,13 +496,13 @@ I will give basic definitions and sketch a dictionary, proving (or outlining/exp
 
 The two topics are modern and classical. Gino Fano studied these manifolds maybe from 1900s (or 1890s) to his death in 1952. Mirror symmetry started in late 1980s and was formulated for Fano manifolds implicitly in  early 1990s, and explicitly in 1996. 
 
-On symplectic side Fano manifolds are known as positive monotone symlpectic manifolds, whose earliest study is Archimedes's construction of a first integrable system of S^2: the one (according to Cicero) depicted on his grave (sphere X cylinder). On the complex side we call the very same S^2 as Riemann sphere, the best studied of all compact Riemann surfaces. Its mirror is the function, z + 1/z, used by Joukowski to engineer the wings of airplanes. Algebraic geometry of the same object goes back to the earliest antiquity — Babylonian mathematics, the Plimpton 322 papyrus (1800 BCE?) with solutions of Pythagorean triplets a^2 + b^2 = c^2, and all that. Two-dimensional (real four-dimensional) Fano manifolds are named after Pasquale del Pezzo, who gave a description of them in 1887, and in 1960s Yuri Manin related them to exceptional lattices E_n. Fano threefolds, that Fano himself studied are related to K3 surfaces and canonical curves of small genus.
+On symplectic side Fano manifolds are known as positive monotone symplectic manifolds, whose earliest study is Archimedes's construction of a first integrable system on the sphere $S^2$: the one (according to Cicero) depicted on his grave (the sphere vs. the cylinder). On the complex side we call the very same sphere $S^2$ as Riemann sphere (or complex projective line $\mathbf{CP}^1$), the most studied compact Riemann surface. Its mirror is the function, $z + 1/z$, used by Joukowski to engineer the wings of airplanes. Algebraic geometry of the same object goes back to the earliest antiquity — Babylonian mathematics, the Plimpton 322 papyrus (1800 BCE?) with solutions of Pythagorean triplets $a^2 + b^2 = c^2$, and all that. Two-dimensional (real four-dimensional) Fano manifolds are named after Pasquale del Pezzo, who gave a description of them in 1887, and in 1960s Yuri Manin related them to exceptional lattices $E_n$. Fano threefolds, that Fano himself studied are related to $K3$ surfaces and canonical curves of small genus.
 
 As seen through the looking glass, Fano manifolds do not look like spaces, but more like functions! Ginzburg-Landau theory of superconductivity (1950s)  is often cited in this context of mirror symmetry.
 
-I am going to explain what all (or some of) these words mean, what problems are there, why in some sense this always used to be main topics in algebraic and symplectic geomegry, and show a brief demo, so that seminar participants might start doing new discoveries in these fields.
+I am going to explain what all (or some of) these words mean, what problems are there, why in some sense this always used to be main topics in algebraic and symplectic geometry, and show a brief demo, so that seminar participants might start doing new discoveries in these fields.
 
-### Apr 5, 16h -- **Bruno Suassuna** -- Log-volume preserving rational endomorphisms of (C^*)^n
+### Apr 5, 16h -- **Bruno Suassuna** -- Log-volume preserving rational endomorphisms of $(\mathbf{C}^*)^$n
 
 In this short talk, the goal is to discuss rational maps from (C^*)^n to itself that preserves the usual logarithmic-volume form. For n=1, the form is dz/z, and for (C^*)^n we take the product over coordinates z_1,...,z_n. For n=1, the only rational map that preserves the log-volume form is f(z) = c z; there are much more interesting examples for n>1. We state the Scaling-Winding Theorem for rational maps which scale the log-volue form and discuss how we can prove it; for this we need to define the naive tropicalization of the map. In analogy with the famous (open) Jacobian Conjecture, we can ask: if a rational endomorphism of (C^*)^n that preserves the usual log-volume form must be bi-rational. This is not true! We will show a counter-example for n=2, which in light of the Scaling-Winding theorem means a rational map from 2 variables to itself, preserving the log-volume form and which has winding number 2.
 
