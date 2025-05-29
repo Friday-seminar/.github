@@ -19,16 +19,16 @@
 In this talk, we shall provide an overview about different mathematical structures related to the problem of quantization of Poisson manifolds M. After reviewing the definition of this problem, and some examples, we move towards the role of symplectic groupoids in it. We then explain some recent results by the speaker in the direction of achieving quantization through such groupoids and its relation to both Kontsevich's formal quantization formula and an underlying 2d topological field theory called Poisson sigma model. Finally, I will comment on a new phenomenon involving failure of associativity in non-formal quantizations which comes from the failure of "integrability" of M to a symplectic groupoid.
 
 
+### 2025, June 6, 11:00-13:00 (unusual time) -- **Thiago Guerreiro** -- Nonclassical gravitational waves and the quantum nature of gravity
+
+Einstein's theory of gravity admits a low energy effective quantum field description from which predictions beyond classical general relativity can be made. As gravitational wave detectors improve, we may ask whether nonclassical features of such theory can be experimentally verified? In this talk, I will discuss three aspects of this question: First, what kinds of signals would nonclassical GWs impart on a detector? Next, what would we need to measure in order to certify the quantum nature of gravity? And finally, are nonclassical gravitational wave states produced in Nature, and if yes, what are the sources?
+
 ### 2025, June 6, 14:14-16:00 -- **Carlos Tomei** -- What to expect from equations in [Lax pair](https://en.wikipedia.org/wiki/Lax_pair) form
 
 What to expect from equations in [Lax pair](https://en.wikipedia.org/wiki/Lax_pair) form?
 Rather surprisingly, not much in general. But a lot in most situations which come to mind.
 We'll go through examples, from results in integrability to total linearization in large phase spaces.
 
-
-### 2025, June 6, 11:00-13:00 (unusual time) -- **Thiago Guerreiro** -- Nonclassical gravitational waves and the quantum nature of gravity
-
-Einstein's theory of gravity admits a low energy effective quantum field description from which predictions beyond classical general relativity can be made. As gravitational wave detectors improve, we may ask whether nonclassical features of such theory can be experimentally verified? In this talk, I will discuss three aspects of this question: First, what kinds of signals would nonclassical GWs impart on a detector? Next, what would we need to measure in order to certify the quantum nature of gravity? And finally, are nonclassical gravitational wave states produced in Nature, and if yes, what are the sources?
 
 ### 2025, June 13, 11:00-13:00 (unusual time) -- [**Wei Chen**](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and [topological order](https://en.wikipedia.org/wiki/Topological_order) in solids
 
