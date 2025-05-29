@@ -83,6 +83,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Jul 4 - tba
 - Jun 27, 16h - tba
 - Jun 27, 14h - **Hiroshi Nunokawa** -- hep-th, standard model and neutrino physics (tbc)
+- Jun 27, 11h - Grigory Ivanov, (tbc)
 - Jun 20 -- holiday (Corpus Christi), no seminar, also Sergey Galkin speaks on Bogotá seminar in zoom
 - Jun 13, 15:00-17:30 -- Brazilian Algebraic Geometry Seminar (in IMPA)
 - Jun 13, 11:00-13:00 -- [**Wei Chen**](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and [topological order](https://en.wikipedia.org/wiki/Topological_order) in solids
@@ -214,13 +215,13 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Jun 9 - holiday, [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
 - Jun 2 - Rodrigo Matos - [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) 
 - Jun 2 - Miguel Batista - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares) and [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes)
-- May 26 - Antonio Vasconcellos - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
+- May 26 - Antonio MacDowell - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
 - May 19 - Graham Smith - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology)
 - May 12 - Veronika Treumova - [dessins d'enfant](https://en.wikipedia.org/wiki/Dessin_d'enfant)
 - May 5 - Victor el Adji - [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
 - Apr 28 - Sergey Galkin - pencils of quadrics
 - Apr 21 - holiday, [Tiradentes](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
-- Apr 14 - Filipe Nóbrega - [pencils of conics](https://en.wikipedia.org/wiki/Pencil_(geometry))
+- Apr 14 - Filipe Bellio da Nóbrega - [pencils of conics](https://en.wikipedia.org/wiki/Pencil_(geometry))
 - Apr 7 - holiday, [Sexta-feira da Paixão](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - Mar 31 - [Jacques Pienaar](https://www.jaypienaar.com) - [QBism](https://en.wikipedia.org/wiki/Quantum_Bayesianism)
 - Mar 24 - Bruno Suassuna - [formal perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory) for stochastic paths
@@ -349,7 +350,7 @@ More than thirty years ago Beilinson, Lusztig, and MacPherson provided a geometr
 
 In this talk, I will define our "q=0" version of the affine quantum group via generators and relations, introduce the convolution algebra on the equivariant K-theory of the  square of the n-step flag variety, and outline the construction of a surjective morphism from the "q=0" affine quantum group onto the convolution algebra.
 
-The talk is based on a preprint with Sergey Arkhipov: https://arxiv.org/abs/2205.05184.
+The talk is based on a preprint with Sergey Arkhipov: [2205.05184](https://arxiv.org/abs/2205.05184).
 
 ### Oct 18, 15:15 -- **Bruno Suassuna** -- Coherent States in Geometric Quantization
 
@@ -715,7 +716,7 @@ A comment from Sergey: Rodrigo will introduce us to an area at the intersection 
 I will introduce the concept of a finite projective plane (FPP), their basic structure, and show the existence of some of them. Beside that, I will talk about Mutually Orthogonal Latin Squares (MOLS), a "categorical" way to visualize it and how they interact with FPP. If possible I will talk about more complex FPP existence theorems.
 
 
-### May 26: **Antonio Vasconcellos** - [random matrices](https://en.wikipedia.org/wiki/Random_matrix), graphs and a combinatorial proof of [Wigner's Semi-Circle Law](https://en.wikipedia.org/wiki/Wigner_semicircle_distribution)
+### May 26: **Antonio MacDowell** - [random matrices](https://en.wikipedia.org/wiki/Random_matrix), graphs and a combinatorial proof of [Wigner's Semi-Circle Law](https://en.wikipedia.org/wiki/Wigner_semicircle_distribution)
 
 In this seminar, we present a combinatorial proof of
          [Wigner's Semi-Circle Law](https://en.wikipedia.org/wiki/Wigner_semicircle_distribution),
