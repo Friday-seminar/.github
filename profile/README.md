@@ -75,10 +75,10 @@ interesting themes and topics for next seminar talks, references, slides of the 
 ## 2025
 
 - Jul 11 - tba
-- Jul 4 - tba
+- Jul 4 -- **Gero von Gersdorff** -- tba
 - Jun 27, 16h - tba
-- Jun 27, 14h - **Hiroshi Nunokawa** -- hep-th, standard model and neutrino physics (tbc)
-- Jun 27, 11h - Grigory Ivanov, (tbc)
+- Jun 27, 14h -- **Hiroshi Nunokawa** -- hep-th, standard model and neutrino physics (tbc)
+- Jun 27, 11h - **Grigory Ivanov** -- tbc/tba
 - Jun 20 -- holiday (Corpus Christi), no seminar, also Sergey Galkin speaks on Bogotá seminar in zoom
 - Jun 13, 15:00-17:30 -- Brazilian Algebraic Geometry Seminar (in IMPA)
 - Jun 13, 11:00-13:00 -- [**Wei Chen**](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and [topological order](https://en.wikipedia.org/wiki/Topological_order) in solids
