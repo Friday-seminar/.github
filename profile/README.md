@@ -14,11 +14,11 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-##  2025, June 6, 11:00-13:00 (unusual time) -- **Thiago Guerreiro** -- Nonclassical gravitational waves and the quantum nature of gravity
+##  2025, June 6, 11:00-13:00 (unusual time) -- **Thiago Guerreiro** -- Tensions between quantum mechanics and gravity
 
 Einstein's theory of gravity admits a low energy effective quantum field description from which predictions beyond classical general relativity can be made. As gravitational wave detectors improve, we may ask whether nonclassical features of such theory can be experimentally verified? In this talk, I will discuss three aspects of this question: First, what kinds of signals would nonclassical GWs impart on a detector? Next, what would we need to measure in order to certify the quantum nature of gravity? And finally, are nonclassical gravitational wave states produced in Nature, and if yes, what are the sources?
 
-## 2025, June 6, 14:14-16:00 -- **Carlos Tomei** -- What to expect from equations in [Lax pair](https://en.wikipedia.org/wiki/Lax_pair) form
+## 2025, June 6, 14:30-18:00 -- **Carlos Tomei** -- What to expect from equations in [Lax pair](https://en.wikipedia.org/wiki/Lax_pair) form
 
 What to expect from equations in [Lax pair](https://en.wikipedia.org/wiki/Lax_pair) form?
 Rather surprisingly, not much in general. But a lot in most situations which come to mind.
@@ -76,14 +76,13 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 - Jul 11 - tba
 - Jul 4 -- **Gero von Gersdorff** -- tba
-- Jun 27, 16h - tba
 - Jun 27, 14h -- **Hiroshi Nunokawa** -- hep-th, standard model and neutrino physics (tbc)
 - Jun 27, 11h - **Grigory Ivanov** -- tbc/tba
 - Jun 20 -- holiday (Corpus Christi), no seminar, also Sergey Galkin speaks on Bogotá seminar in zoom
 - Jun 13, 15:00-17:30 -- Brazilian Algebraic Geometry Seminar (in IMPA)
 - Jun 13, 11:00-13:00 -- [**Wei Chen**](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and [topological order](https://en.wikipedia.org/wiki/Topological_order) in solids
-- Jun 6, 14h -- **Carlos Tomei** -- [Lax pairs](https://en.wikipedia.org/wiki/Lax_pair)
-- Jun 6, 11:00-13:00 -- **Thiago Guerreiro** -- Non-classical gravitational waves and the quantum nature of gravity
+- Jun 6, 14:30-18:00 -- **Carlos Tomei** -- [Lax pairs](https://en.wikipedia.org/wiki/Lax_pair)
+- Jun 6, 11:00-13:00 -- **Thiago Guerreiro** -- Tensions between quantum mechanics and gravity
 - May 30 -- **Alejandro Cabrera** -- Quantization of Poisson manifolds
 - May 23 -- **Dmitrii Korshunov** -- Sub-conical geometry
 - May 16 -- **Olivier Martin** -- Xiao's conjecture for trigonal fibrations
@@ -241,7 +240,11 @@ What to expect from equations in [Lax pair](https://en.wikipedia.org/wiki/Lax_pa
 Rather surprisingly, not much in general. But a lot in most situations which come to mind.
 We'll go through examples, from results in integrability to total linearization in large phase spaces.
 
-### 2025, June 6, 11:00-13:00 (unusual time) -- **Thiago Guerreiro** -- Nonclassical gravitational waves and the quantum nature of gravity
+### 2025, June 6, 11:00-13:00 (unusual time) -- **Thiago Guerreiro** -- Tensions between quantum mechanics and gravity 
+
+The talk was a bit more general than the announcement below.
+
+(Nonclassical gravitational waves and the quantum nature of gravity)
 
 Einstein's theory of gravity admits a low energy effective quantum field description from which predictions beyond classical general relativity can be made. As gravitational wave detectors improve, we may ask whether nonclassical features of such theory can be experimentally verified? In this talk, I will discuss three aspects of this question: First, what kinds of signals would nonclassical GWs impart on a detector? Next, what would we need to measure in order to certify the quantum nature of gravity? And finally, are nonclassical gravitational wave states produced in Nature, and if yes, what are the sources?
 
