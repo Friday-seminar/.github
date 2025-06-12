@@ -14,22 +14,13 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-##  2025, June 6, 11:00-13:00 (unusual time) -- **Thiago Guerreiro** -- Tensions between quantum mechanics and gravity
-
-Einstein's theory of gravity admits a low energy effective quantum field description from which predictions beyond classical general relativity can be made. As gravitational wave detectors improve, we may ask whether nonclassical features of such theory can be experimentally verified? In this talk, I will discuss three aspects of this question: First, what kinds of signals would nonclassical GWs impart on a detector? Next, what would we need to measure in order to certify the quantum nature of gravity? And finally, are nonclassical gravitational wave states produced in Nature, and if yes, what are the sources?
-
-## 2025, June 6, 14:30-18:00 -- **Carlos Tomei** -- What to expect from equations in [Lax pair](https://en.wikipedia.org/wiki/Lax_pair) form
-
-What to expect from equations in [Lax pair](https://en.wikipedia.org/wiki/Lax_pair) form?
-Rather surprisingly, not much in general. But a lot in most situations which come to mind.
-We'll go through examples, from results in integrability to total linearization in large phase spaces.
-
-
-### 2025, June 13, 11:00-13:00 (unusual time) -- [**Wei Chen**](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and [topological order](https://en.wikipedia.org/wiki/Topological_order) in solids
+## 2025, June 13, 11:00-13:00 (unusual time) -- [**Wei Chen**](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and [topological order](https://en.wikipedia.org/wiki/Topological_order) in solids
 
 The quantum mechanical wave function of electrons in a particular class of materials, called topological materials, displays intriguing quantum geometrical and topological properties. Mathematically, the topological order in these materials can be ubiquitously described by a topological invariant similar to the Gauss map. In addition, a quantum metric can be introduced from the overlap of neighboring quantum states in momentum space, whose determinant is related to the topological invariant through a metric-curvature correspondence. Through this quantum metric, we reveal a number of intriguing differential geometrical properties of these materials, including a maximally symmetric space, constant Ricci scalar, vacuum Einstein equation with a finite cosmological constant, and straight line geodesic.
 
+### June 27, 11:00-13:00 -- Grigory Ivanov -- Duality and Convexity
 
+We survey the polar transform of convex sets and its functional counterpart, the Legendre transform. After outlining their connections to celestial mechanics, linear programming, and functional analysis, we focus on bounds for the volume product. The classical Santaló inequality gives the best known upper bound, whereas the still-open Mahler conjecture provides the expected lower bound; the latter would follow from a special case of Viterbo's conjecture.
 
 ## when and where:
   - 🕑 Fridays (sexta-feiras) until **18:00**, start usually around 14:00 or 14h30m
@@ -74,10 +65,14 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## 2025
 
-- Jul 11 - tba
-- Jul 4 -- **Gero von Gersdorff** -- tba
-- Jun 27, 14h -- **Hiroshi Nunokawa** -- hep-th, standard model and neutrino physics (tbc)
-- Jun 27, 11h - **Grigory Ivanov** -- tbc/tba
+- Winter break: 
+  - [**Rafael Ruggieiro**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Thermodynamic formalism and Information geometry II,
+  - [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) on non-equilibrium statistical thermodynamics,
+  - TBA (Thermodynamic Bethe Ansatz), TBA (To Be Announced), TBA
+- Jul 11 - TBA
+- Jul 4 -- **Gero von Gersdorff** -- TBA
+- Jun 27, 14h -- **Hiroshi Nunokawa** -- Neutrinos, flavour and weak interactions
+- Jun 27, 11:00-13:00 -- **Grigory Ivanov** -- Duality and Convexity
 - Jun 20 -- holiday (Corpus Christi), no seminar, also Sergey Galkin speaks on Bogotá seminar in zoom
 - Jun 13, 15:00-17:30 -- Brazilian Algebraic Geometry Seminar (in IMPA)
 - Jun 13, 11:00-13:00 -- [**Wei Chen**](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and [topological order](https://en.wikipedia.org/wiki/Topological_order) in solids
@@ -86,7 +81,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - May 30 -- **Alejandro Cabrera** -- Quantization of Poisson manifolds
 - May 23 -- **Dmitrii Korshunov** -- Sub-conical geometry
 - May 16 -- **Olivier Martin** -- Xiao's conjecture for trigonal fibrations
-- May 9 -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry
+- May 9 -- [**Rafael Ruggiero**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Thermodynamic formalism and Information geometry
 - May 2, 16h -- **Chi Hong Chow** -- Gamma conjecture I for flag varieties
 - Apr 25 -- **Sergei Burkin** -- Higher structures and how to encode them
 - Apr 18 -- holiday (Sexta de Paixão)
@@ -228,6 +223,14 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 
 # Abstracts of all talks 
+
+### 2025, July 4, 14h -- **Gero**
+
+### 2025, June 27, 14h -- **Hiroshi Nunokawa** -- Neutrinos
+
+### 2025, June 27, 11:00-13:00 (unusual time) -- **Grigory Ivanov** -- Duality and Convexity
+
+We survey the polar transform of convex sets and its functional counterpart, the Legendre transform. After outlining their connections to celestial mechanics, linear programming, and functional analysis, we focus on bounds for the volume product. The classical Santaló inequality gives the best known upper bound, whereas the still-open Mahler conjecture provides the expected lower bound; the latter would follow from a special case of Viterbo's conjecture.
 
 ### 2025, June 13, 11:00-13:00 (unusual time) -- [**Wei Chen**](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and topological order in solids
 
