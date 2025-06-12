@@ -70,6 +70,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Winter break: 
   - [**Rafael Ruggieiro**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Thermodynamic formalism and Information geometry II,
   - [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) on non-equilibrium statistical thermodynamics,
+  - [**Rangel Baldasso**](https://sites.google.com/view/rangelbaldasso) -- [Sanov's theorem](https://en.wikipedia.org/wiki/Sanov's_theorem)), and its proof via discretizations,
   - TBA (Thermodynamic Bethe Ansatz), TBA (To Be Announced), TBA
 - Jul 11 - TBA
 - Jul 4 -- **Gero von Gersdorff** -- TBA
