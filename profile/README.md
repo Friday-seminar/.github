@@ -14,11 +14,11 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-### June 27, 11:00-13:00 -- Grigory Ivanov -- Duality and Convexity
+### June 27, 11:00-13:00 -- **Grigory Ivanov** -- Duality and Convexity
 
 We survey the polar transform of convex sets and its functional counterpart, the Legendre transform. After outlining their connections to celestial mechanics, linear programming, and functional analysis, we focus on bounds for the volume product. The classical Santaló inequality gives the best known upper bound, whereas the still-open Mahler conjecture provides the expected lower bound; the latter would follow from a special case of Viterbo's conjecture.
 
-### June 27, 14h -- Hiroshi Nunokawa -- Neutrinos, flavour and weak interaction
+### June 27, 14h -- **Hiroshi Nunokawa** -- Neutrinos, flavour and weak interaction
 
 ## when and where:
   - 🕑 Fridays (sexta-feiras) until **18:00**, start usually around 14:00 or 14h30m
