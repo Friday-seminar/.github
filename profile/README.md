@@ -14,10 +14,6 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-## 2025, June 13, 11:00-13:00 (unusual time) -- [**Wei Chen**](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and [topological order](https://en.wikipedia.org/wiki/Topological_order) in solids
-
-The quantum mechanical wave function of electrons in a particular class of materials, called topological materials, displays intriguing quantum geometrical and topological properties. Mathematically, the topological order in these materials can be ubiquitously described by a topological invariant similar to the Gauss map. In addition, a quantum metric can be introduced from the overlap of neighboring quantum states in momentum space, whose determinant is related to the topological invariant through a metric-curvature correspondence. Through this quantum metric, we reveal a number of intriguing differential geometrical properties of these materials, including a maximally symmetric space, constant Ricci scalar, vacuum Einstein equation with a finite cosmological constant, and straight line geodesic.
-
 ### June 27, 11:00-13:00 -- Grigory Ivanov -- Duality and Convexity
 
 We survey the polar transform of convex sets and its functional counterpart, the Legendre transform. After outlining their connections to celestial mechanics, linear programming, and functional analysis, we focus on bounds for the volume product. The classical Santaló inequality gives the best known upper bound, whereas the still-open Mahler conjecture provides the expected lower bound; the latter would follow from a special case of Viterbo's conjecture.
@@ -227,9 +223,9 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Abstracts of all talks 
 
-### 2025, July 4, 14h -- **Gero**
+### 2025, July 4, 14h -- **Gero von Gersdorff**
 
-### 2025, June 27, 14h -- **Hiroshi Nunokawa** -- Neutrinos
+### 2025, June 27, 14h -- **Hiroshi Nunokawa** -- Neutrinos, flavours and weak interaction
 
 ### 2025, June 27, 11:00-13:00 (unusual time) -- **Grigory Ivanov** -- Duality and Convexity
 
