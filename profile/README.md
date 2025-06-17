@@ -25,6 +25,8 @@ We survey the polar transform of convex sets and its functional counterpart, the
   - **DMAT PUC-Rio**, room **L863** in Leme building (left from main entrance), take an elevator to 8th floor near "Bar Nossa Senhora do Carmo" on the opposite site of a bookshop.
 
 ## we are:
+
+an open weekly seminar in mathematics department of PUC-Rio with core participants belonging to
 a research and study group interested in 
 [algebraic](https://en.wikipedia.org/wiki/Algebraic_geometry), 
 [symplectic](https://en.wikipedia.org/wiki/Symplectic_geometry),
@@ -51,7 +53,7 @@ their interfaces in
 [mirror symmetry](https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory)),
 [Langlands correspondence](https://en.wikipedia.org/wiki/Langlands_program),
 and related topics.
-
+Feel free to join presencially or in the discussions in our telegram channel and group.
  
 
 #  Seminar materials and how to join
@@ -66,9 +68,10 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Winter break: 
   - [**Rafael Ruggieiro**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Thermodynamic formalism and Information geometry II,
   - [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) on non-equilibrium statistical thermodynamics,
-  - [**Rangel Baldasso**](https://sites.google.com/view/rangelbaldasso) -- [Sanov's theorem](https://en.wikipedia.org/wiki/Sanov's_theorem), and its proof via discretizations,
+  - [**Francesco Toppan**](https://scholar.google.com/citations?user=FVZEAr0AAAAJ)
   - TBA (Thermodynamic Bethe Ansatz), TBA (To Be Announced), TBA
-- Jul 11 - TBA
+- Jul 11, 16h - [**Rangel Baldasso**](https://sites.google.com/view/rangelbaldasso) -- [Sanov's theorem](https://en.wikipedia.org/wiki/Sanov's_theorem), and its proof via discretizations
+- Jul 11 -- TBA
 - Jul 4 -- **Gero von Gersdorff** -- TBA
 - Jun 27, 14h -- **Hiroshi Nunokawa** -- Neutrinos, flavour and weak interactions
 - Jun 27, 11:00-13:00 -- **Grigory Ivanov** -- Duality and Convexity
