@@ -70,9 +70,10 @@ interesting themes and topics for next seminar talks, references, slides of the 
   - [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) on non-equilibrium statistical thermodynamics,
   - [**Francesco Toppan**](https://scholar.google.com/citations?user=FVZEAr0AAAAJ)
   - TBA (Thermodynamic Bethe Ansatz), TBA (To Be Announced), TBA
-- Jul 11, 16h - [**Rangel Baldasso**](https://sites.google.com/view/rangelbaldasso) -- [Sanov's theorem](https://en.wikipedia.org/wiki/Sanov's_theorem), and its proof via discretizations
-- Jul 11 -- TBA
-- Jul 4 -- **Gero von Gersdorff** -- TBA
+- Jul 11, 14h -- TBA
+- Jul 11, 11:00-13:00 -- [**Marcos Craizer**](https://sites.google.com/view/marcos-craizer-home-page) on congruences of lines
+- Jul 4, 16h - [**Rangel Baldasso**](https://sites.google.com/view/rangelbaldasso) -- [Sanov's theorem](https://en.wikipedia.org/wiki/Sanov's_theorem), and its proof via discretizations
+- Jul 4, 14h -- **Gero von Gersdorff** -- TBA
 - Jun 27, 14h -- **Hiroshi Nunokawa** -- Neutrinos, flavour and weak interactions
 - Jun 27, 11:00-13:00 -- **Grigory Ivanov** -- Duality and Convexity
 - Jun 20 -- holiday (Corpus Christi), no seminar, also Sergey Galkin speaks on Bogotá seminar in zoom
