@@ -79,7 +79,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Jun 20 -- holiday (Corpus Christi), no seminar, also Sergey Galkin speaks on Bogotá seminar in zoom
 - Jun 13, 15:00-17:30 -- Brazilian Algebraic Geometry Seminar (in IMPA)
 - Jun 13, 11:00-13:00 -- [**Wei Chen**](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and [topological order](https://en.wikipedia.org/wiki/Topological_order) in solids
-- Jun 6, 14:30-18:00 -- **Carlos Tomei** -- [Lax pairs](https://en.wikipedia.org/wiki/Lax_pair)
+- Jun 6, 14:30-18:00 -- [**Carlos Tomei**](http://intranet.mat.puc-rio.br/~carlos/) -- [Lax pairs](https://en.wikipedia.org/wiki/Lax_pair)
 - Jun 6, 11:00-13:00 -- **Thiago Guerreiro** -- Tensions between quantum mechanics and gravity
 - May 30 -- **Alejandro Cabrera** -- Quantization of Poisson manifolds
 - May 23 -- **Dmitrii Korshunov** -- Sub-conical geometry
