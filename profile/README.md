@@ -13,12 +13,12 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
+### July 4, Gero von Gersdorff -- TBA
 
-### June 27, 11:00-13:00 -- **Grigory Ivanov** -- Duality and Convexity
+### July 4, 16h -- Rangel Balsaddo -- Sanov's theorem
 
-We survey the polar transform of convex sets and its functional counterpart, the Legendre transform. After outlining their connections to celestial mechanics, linear programming, and functional analysis, we focus on bounds for the volume product. The classical Santaló inequality gives the best known upper bound, whereas the still-open Mahler conjecture provides the expected lower bound; the latter would follow from a special case of Viterbo's conjecture.
+ Vamos revisar alguns dos principais resultados envolvendo a teoria de grandes desvios, com ênfase em particular no Teorema de Sanov. Vamos apresentar uma prova alternativa deste teorema para espaços métricos poloneses via argumentos de discretização. Esta prova tem como um dos seus principais passos a escolha de boas aproximações discretas de um espaço métrico polonês e um controle explícito da taxa de convergência das medidas aproximadas. Baseada em um trabalho em conjunto com Roberto I. Oliveira, Alan Pereira e Guilherme Reis.
 
-### June 27, 14h -- **Hiroshi Nunokawa** -- Neutrinos, flavour and weak interaction
 
 ## when and where:
   - 🕑 Fridays (sexta-feiras) until **18:00**, start usually around 14:00 or 14h30m
@@ -63,16 +63,17 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Schedule 
 
-## 2025
+## 2025, winter break (July 21-24), and 2025.2:
 
-- Winter break (July 21-24, tbc):
-  - [**Marcos Craizer**](https://sites.google.com/view/marcos-craizer-home-page) on congruences of lines 
-  - [**Rafael Ruggieiro**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Thermodynamic formalism and Information geometry II,
-  - [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) on non-equilibrium statistical thermodynamics,
-  - [**Francesco Toppan**](https://scholar.google.com/citations?user=FVZEAr0AAAAJ)
-  - TBA (Thermodynamic Bethe Ansatz), TBA (To Be Announced), TBA
-- Jul 11, 14h -- TBA
-- Jul 11, 11:00-13:00 -- TBA
+- [**Francesco Toppan**](https://scholar.google.com/citations?user=FVZEAr0AAAAJ)
+- [**Marcos Craizer**](https://sites.google.com/view/marcos-craizer-home-page) on congruences of lines 
+- TBA (Thermodynamic Bethe Ansatz), TBA (To Be Announced), TBA
+
+
+## 2025.1 (until July 11)
+
+- Jul 11, [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) on non-equilibrium statistical thermodynamics,
+- Jul 11, [**Rafael Ruggieiro**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Thermodynamic formalism and Information geometry II,
 - Jul 4, 16h - [**Rangel Baldasso**](https://sites.google.com/view/rangelbaldasso) -- [Sanov's theorem](https://en.wikipedia.org/wiki/Sanov's_theorem), and its proof via discretizations
 - Jul 4, 14h -- **Gero von Gersdorff** -- TBA
 - Jun 27, 14h -- **Hiroshi Nunokawa** -- Neutrinos, flavour and weak interactions
@@ -228,9 +229,19 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Abstracts of all talks 
 
-### 2025, July 4, 14h -- **Gero von Gersdorff**
+# 2025, July 4, 16h -- **Rangel Baldasso** -- Sanov's theorem revised
+
+Vamos revisar alguns dos principais resultados envolvendo a teoria de grandes desvios, com ênfase em particular no Teorema de Sanov. Vamos apresentar uma prova alternativa deste teorema para espaços métricos poloneses via argumentos de discretização. Esta prova tem como um dos seus principais passos a escolha de boas aproximações discretas de um espaço métrico polonês e um controle explícito da taxa de convergência das medidas aproximadas. Baseada em um trabalho em conjunto com Roberto I. Oliveira, Alan Pereira e Guilherme Reis.
+
+### 2025, July 4, 11h-13h and 14h-16h -- **Gero von Gersdorff**
+
 
 ### 2025, June 27, 14h -- **Hiroshi Nunokawa** -- Neutrinos, flavours and weak interaction
+
+Prof. Hiroshi introduced us to the world of neutrinos. He explained how non-zero neutrino
+masses are related to their flavour oscillation, introduced PNMS matrix,
+and explained the calculation and the experiments (Super-K, etc) that establish
+neutrino oscillation and give evidence there are but three generations.
 
 ### 2025, June 27, 11:00-13:00 (unusual time) -- **Grigory Ivanov** -- Duality and Convexity
 
