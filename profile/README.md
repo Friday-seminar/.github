@@ -13,11 +13,19 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### July 4, Gero von Gersdorff -- TBA
+### July 4, 11:00-13:00 -- **Gero von Gersdorff** -- Elementary particles at various scales: from the Electroweak Standard Model to Grand Unified Theories
 
-### July 4, 16h -- Rangel Balsaddo -- Sanov's theorem
+### July 4, 14h-16h -- **Gero von Gersdorff** -- The peculiar hierarchical structure of quarks and leptons in the Standard Model and beyond
+
+### July 4, 16h -- **Rangel Balsaddo** -- Sanov's theorem
 
  Vamos revisar alguns dos principais resultados envolvendo a teoria de grandes desvios, com ênfase em particular no Teorema de Sanov. Vamos apresentar uma prova alternativa deste teorema para espaços métricos poloneses via argumentos de discretização. Esta prova tem como um dos seus principais passos a escolha de boas aproximações discretas de um espaço métrico polonês e um controle explícito da taxa de convergência das medidas aproximadas. Baseada em um trabalho em conjunto com Roberto I. Oliveira, Alan Pereira e Guilherme Reis.
+
+### July 11 -- **Non-equilzibrium thermodynamics day**:
+
+- 14:00-16:00 -- **Welles Morgado** -- Non-equilibrium statistical thermodynamics (TBC)
+- 16:00-18:00 -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry II
+
 
 
 ## when and where:
@@ -67,15 +75,17 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 - [**Francesco Toppan**](https://scholar.google.com/citations?user=FVZEAr0AAAAJ)
 - [**Marcos Craizer**](https://sites.google.com/view/marcos-craizer-home-page) on congruences of lines 
+- Samuel Pacitti on four-vertex theorems
 - TBA (Thermodynamic Bethe Ansatz), TBA (To Be Announced), TBA
 
 
 ## 2025.1 (until July 11)
 
-- Jul 11, [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) on non-equilibrium statistical thermodynamics,
-- Jul 11, [**Rafael Ruggieiro**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Thermodynamic formalism and Information geometry II,
+- Jul 11, 16h -- [**Rafael Ruggieiro**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Thermodynamic formalism and Information geometry II,
+- Jul 11, 14h -- [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) on non-equilibrium statistical thermodynamics,
 - Jul 4, 16h - [**Rangel Baldasso**](https://sites.google.com/view/rangelbaldasso) -- [Sanov's theorem](https://en.wikipedia.org/wiki/Sanov's_theorem), and its proof via discretizations
-- Jul 4, 14h -- **Gero von Gersdorff** -- TBA
+- Jul 4, 14h -- **Gero von Gersdorff** -- The peculiar hierarchical structure of quarks and leptons in the Standard Model and beyond
+- Jul 4, 11h -- **Gero von Gersdorff** -- Elementary particles at various scales: from the Electroweak Standard Model to Grand Unified Theories
 - Jun 27, 14h -- **Hiroshi Nunokawa** -- Neutrinos, flavour and weak interactions
 - Jun 27, 11:00-13:00 -- **Grigory Ivanov** -- Duality and Convexity
 - Jun 20 -- holiday (Corpus Christi), no seminar, also Sergey Galkin speaks on Bogotá seminar in zoom
