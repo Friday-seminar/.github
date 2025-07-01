@@ -17,11 +17,11 @@
 
 ### July 4, 14h-16h -- **Gero von Gersdorff** -- The peculiar hierarchical structure of quarks and leptons in the Standard Model and beyond
 
-### July 4, 16h -- **Rangel Balsaddo** -- Sanov's theorem
+### July 4, 16h -- **Rangel Baldasso** -- Sanov's theorem
 
  Vamos revisar alguns dos principais resultados envolvendo a teoria de grandes desvios, com ênfase em particular no Teorema de Sanov. Vamos apresentar uma prova alternativa deste teorema para espaços métricos poloneses via argumentos de discretização. Esta prova tem como um dos seus principais passos a escolha de boas aproximações discretas de um espaço métrico polonês e um controle explícito da taxa de convergência das medidas aproximadas. Baseada em um trabalho em conjunto com Roberto I. Oliveira, Alan Pereira e Guilherme Reis.
 
-### July 11 -- **Non-equilzibrium thermodynamics day**:
+### July 11 -- **Non-equilibrium thermodynamics day**:
 
 - 14:00-16:00 -- **Welles Morgado** -- Non-equilibrium statistical thermodynamics (TBC)
 - 16:00-18:00 -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry II
@@ -239,11 +239,18 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Abstracts of all talks 
 
-# 2025, July 4, 16h -- **Rangel Baldasso** -- Sanov's theorem revised
+
+### 2025, July 11, 16h -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry II/II.
+
+In this first talk (May 9) we presented the fundamental ideas of thermodynamic formalism from the point of view of dynamics, without entering into technical details.
+In a second talk (July 11), we shall show some recent developments relating thermodynamic formalism and information geometry. 
+
+
+### 2025, July 4, 16h -- **Rangel Baldasso** -- Sanov's theorem revised
 
 Vamos revisar alguns dos principais resultados envolvendo a teoria de grandes desvios, com ênfase em particular no Teorema de Sanov. Vamos apresentar uma prova alternativa deste teorema para espaços métricos poloneses via argumentos de discretização. Esta prova tem como um dos seus principais passos a escolha de boas aproximações discretas de um espaço métrico polonês e um controle explícito da taxa de convergência das medidas aproximadas. Baseada em um trabalho em conjunto com Roberto I. Oliveira, Alan Pereira e Guilherme Reis.
 
-### 2025, July 4, 11h-13h and 14h-16h -- **Gero von Gersdorff**
+### 2025, July 4, 11h-13h and 14h-16h -- **Gero von Gersdorff** -- the Standard Model of particle physics
 
 
 ### 2025, June 27, 14h -- **Hiroshi Nunokawa** -- Neutrinos, flavours and weak interaction
@@ -253,22 +260,22 @@ masses are related to their flavour oscillation, introduced PNMS matrix,
 and explained the calculation and the experiments (Super-K, etc) that establish
 neutrino oscillation and give evidence there are but three generations.
 
-### 2025, June 27, 11:00-13:00 (unusual time) -- **Grigory Ivanov** -- Duality and Convexity
+### 2025, June 27, 11h-13h -- **Grigory Ivanov** -- Duality and Convexity
 
 We survey the polar transform of convex sets and its functional counterpart, the Legendre transform. After outlining their connections to celestial mechanics, linear programming, and functional analysis, we focus on bounds for the volume product. The classical Santaló inequality gives the best known upper bound, whereas the still-open Mahler conjecture provides the expected lower bound; the latter would follow from a special case of Viterbo's conjecture.
 
-### 2025, June 13, 11:00-13:00 (unusual time) -- [**Wei Chen**](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and topological order in solids
+### 2025, June 13, 11h-13h -- [**Wei Chen**](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and topological order in solids
 
 The quantum mechanical wave function of electrons in a particular class of materials, called topological materials, displays intriguing quantum geometrical and topological properties. Mathematically, the topological order in these materials can be ubiquitously described by a topological invariant similar to the Gauss map. In addition, a quantum metric can be introduced from the overlap of neighboring quantum states in momentum space, whose determinant is related to the topological invariant through a metric-curvature correspondence. Through this quantum metric, we reveal a number of intriguing differential geometrical properties of these materials, including a maximally symmetric space, constant Ricci scalar, vacuum Einstein equation with a finite cosmological constant, and straight line geodesic.
 
 
-### 2025, June 6, 14:14-16:00 -- **Carlos Tomei** -- What to expect from equations in [Lax pair](https://en.wikipedia.org/wiki/Lax_pair) form
+### 2025, June 6, 14:30-18:00 -- **Carlos Tomei** -- What to expect from equations in [Lax pair](https://en.wikipedia.org/wiki/Lax_pair) form
 
 What to expect from equations in [Lax pair](https://en.wikipedia.org/wiki/Lax_pair) form?
 Rather surprisingly, not much in general. But a lot in most situations which come to mind.
 We'll go through examples, from results in integrability to total linearization in large phase spaces.
 
-### 2025, June 6, 11:00-13:00 (unusual time) -- **Thiago Guerreiro** -- Tensions between quantum mechanics and gravity 
+### 2025, June 6, 11h-13h -- **Thiago Guerreiro** -- Tensions between quantum mechanics and gravity 
 
 The talk was a bit more general than the announcement below.
 
@@ -291,10 +298,10 @@ Reference: [Sub-twistor metrics](https://arxiv.org/abs/2410.18255), 2410.18255.
 
 The relative irregularity q_f of a fibered surface $f: S ↦ B$ is the relative dimension of the induced surjection $Alb(S) ↦ Alb(B)$.  A conjecture of Xiao Gang predicts that the relative irregularity of f is related to the genus g of a generic fiber through the inequality $q_f ≤ g/2+1$. This conjecture has been verified if the general fiber of f is Clifford general or hyperelliptic. I will present a proof of this conjecture when the generic fiber is trigonal. It will arise as a consequence of much stronger rigidity statements for trigonal curves on abelian varieties.
 
-### 2025, May 9 -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry I,II.
+### 2025, May 9 -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry I/II.
 
-In this first talk we present the fundamental ideas of thermodynamic formalism from the point of view of dynamics, without entering into technical details.
-In a second talk, we shall show some recent developments relating thermodynamic formalism and information geometry. 
+In this first talk (May 9) we present the fundamental ideas of thermodynamic formalism from the point of view of dynamics, without entering into technical details.
+In a second talk (July 11), we shall show some recent developments relating thermodynamic formalism and information geometry. 
 
 ### 2025, May 2, 16h -- **Chi Hong Chow** -- Gamma conjecture I for flag varieties
 
