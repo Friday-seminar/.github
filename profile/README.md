@@ -17,7 +17,8 @@
 
 ### July 11 -- **Non-equilibrium thermodynamics day**:
 
-- 14:00-16:00 -- **Welles Morgado** -- On stochastic thermodynamics
+- 14:00-16:00 -- [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) --
+                 [Stochastic thermodynamics](https://en.wikipedia.org/wiki/Stochastic_thermodynamics)
 - 16:00-18:00 -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry II
 
 
@@ -76,7 +77,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
 ## 2025.1 (until July 11)
 
 - Jul 11, 16h -- [**Rafael Ruggieiro**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Thermodynamic formalism and Information geometry II,
-- Jul 11, 14h -- [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) -- On stochastic thermodynamics,
+- Jul 11, 14h -- [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) --
+                [Stochastic thermodynamics](https://en.wikipedia.org/wiki/Stochastic_thermodynamics)
 - Jul 4, 16h - [**Rangel Baldasso**](https://sites.google.com/view/rangelbaldasso) -- [Sanov's theorem](https://en.wikipedia.org/wiki/Sanov's_theorem), and its proof via discretizations
 - Jul 4, 14h -- **Gero von Gersdorff** -- The peculiar hierarchical structure of quarks and leptons in the Standard Model and beyond
 - Jul 4, 11h -- **Gero von Gersdorff** -- Elementary particles at various scales: from the Electroweak Standard Model to Grand Unified Theories
@@ -239,8 +241,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 In this first talk (May 9) we presented the fundamental ideas of thermodynamic formalism from the point of view of dynamics, without entering into technical details.
 In a second talk (July 11), we shall show some recent developments relating thermodynamic formalism and information geometry. 
 
-### 2025, July 11, 14h -- **Welles Morgado** -- On stochastic thermodynamics
-
+### 2025, July 11, 14h -- [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) -- [Stochastic thermodynamics](https://en.wikipedia.org/wiki/Stochastic_thermodynamics)
 
 ### 2025, July 4, 16h -- **Rangel Baldasso** -- Sanov's theorem revised
 
