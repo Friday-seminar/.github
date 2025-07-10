@@ -66,11 +66,15 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Schedule 
 
-## 2025, winter break (July 21-24), and 2025.2:
+## 2025, winter days (July 21-24), and 2025.2:
 
 - [**Francesco Toppan**](https://scholar.google.com/citations?user=FVZEAr0AAAAJ)
 - [**Marcos Craizer**](https://sites.google.com/view/marcos-craizer-home-page) on congruences of lines 
-- Samuel Pacitti on four-vertex theorems
+- **Samuel Pacitti** on four-vertex theorems
+- [**Jeanine Van Order**](https://sites.google.com/view/jeanine-van-order/main)
+- [**Sajad Salami**](https://sites.google.com/a/ime.uerj.br/sajadsalami/)
+- [**Sergey Tikhomirov**](https://sites.google.com/site/sergeytikhomirov/) -- Shadowing X Large Deviation (TBC)
+- **Eduardo Esteves** and **Piere Rodriguez** (TBC) -- [Degenerations of maps to projective spaces](https://arxiv.org/abs/2507.00901)
 - TBA (Thermodynamic Bethe Ansatz), TBA (To Be Announced), TBA
 
 
