@@ -13,17 +13,11 @@
 
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
-### July 4, 11:00-13:00 -- **Gero von Gersdorff** -- Elementary particles at various scales: from the Electroweak Standard Model to Grand Unified Theories
 
-### July 4, 14h-16h -- **Gero von Gersdorff** -- The peculiar hierarchical structure of quarks and leptons in the Standard Model and beyond
-
-### July 4, 16h -- **Rangel Baldasso** -- Sanov's theorem
-
- Vamos revisar alguns dos principais resultados envolvendo a teoria de grandes desvios, com ênfase em particular no Teorema de Sanov. Vamos apresentar uma prova alternativa deste teorema para espaços métricos poloneses via argumentos de discretização. Esta prova tem como um dos seus principais passos a escolha de boas aproximações discretas de um espaço métrico polonês e um controle explícito da taxa de convergência das medidas aproximadas. Baseada em um trabalho em conjunto com Roberto I. Oliveira, Alan Pereira e Guilherme Reis.
 
 ### July 11 -- **Non-equilibrium thermodynamics day**:
 
-- 14:00-16:00 -- **Welles Morgado** -- Non-equilibrium statistical thermodynamics (TBC)
+- 14:00-16:00 -- **Welles Morgado** -- On stochastic thermodynamics
 - 16:00-18:00 -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry II
 
 
@@ -82,7 +76,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 ## 2025.1 (until July 11)
 
 - Jul 11, 16h -- [**Rafael Ruggieiro**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Thermodynamic formalism and Information geometry II,
-- Jul 11, 14h -- [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) on non-equilibrium statistical thermodynamics,
+- Jul 11, 14h -- [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) -- On stochastic thermodynamics,
 - Jul 4, 16h - [**Rangel Baldasso**](https://sites.google.com/view/rangelbaldasso) -- [Sanov's theorem](https://en.wikipedia.org/wiki/Sanov's_theorem), and its proof via discretizations
 - Jul 4, 14h -- **Gero von Gersdorff** -- The peculiar hierarchical structure of quarks and leptons in the Standard Model and beyond
 - Jul 4, 11h -- **Gero von Gersdorff** -- Elementary particles at various scales: from the Electroweak Standard Model to Grand Unified Theories
@@ -240,10 +234,12 @@ interesting themes and topics for next seminar talks, references, slides of the 
 # Abstracts of all talks 
 
 
-### 2025, July 11, 16h -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry II/II.
+### 2025, July 11, 16h -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry II/II
 
 In this first talk (May 9) we presented the fundamental ideas of thermodynamic formalism from the point of view of dynamics, without entering into technical details.
 In a second talk (July 11), we shall show some recent developments relating thermodynamic formalism and information geometry. 
+
+### 2025, July 11, 14h -- **Welles Morgado** -- On stochastic thermodynamics
 
 
 ### 2025, July 4, 16h -- **Rangel Baldasso** -- Sanov's theorem revised
