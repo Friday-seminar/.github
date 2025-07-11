@@ -15,7 +15,7 @@
 
 
 
-### July 11 -- **Non-equilibrium thermodynamics day**:
+### July 11 -- **Thermodynamics and Information geometry**:
 
 - 14:00-16:00 -- [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) --
                  [Stochastic thermodynamics](https://en.wikipedia.org/wiki/Stochastic_thermodynamics)
