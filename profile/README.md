@@ -80,7 +80,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## 2025.1 (until July 11)
 
-- Jul 11, 16h -- [**Rafael Ruggieiro**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Thermodynamic formalism and Information geometry II,
+- Jul 11, 16h -- [**Rafael Ruggieiro**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Thermodynamic formalism and Information geometry II/II
 - Jul 11, 14h -- [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) --
                 [Stochastic thermodynamics](https://en.wikipedia.org/wiki/Stochastic_thermodynamics)
 - Jul 4, 16h - [**Rangel Baldasso**](https://sites.google.com/view/rangelbaldasso) -- [Sanov's theorem](https://en.wikipedia.org/wiki/Sanov's_theorem), and its proof via discretizations
