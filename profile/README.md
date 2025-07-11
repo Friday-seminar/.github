@@ -96,7 +96,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - May 30 -- **Alejandro Cabrera** -- Quantization of Poisson manifolds
 - May 23 -- **Dmitrii Korshunov** -- Sub-conical geometry
 - May 16 -- **Olivier Martin** -- Xiao's conjecture for trigonal fibrations
-- May 9 -- [**Rafael Ruggiero**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Thermodynamic formalism and Information geometry
+- May 9 -- [**Rafael Ruggiero**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Thermodynamic formalism and Information geometry I/II
 - May 2, 16h -- **Chi Hong Chow** -- Gamma conjecture I for flag varieties
 - Apr 25 -- **Sergei Burkin** -- Higher structures and how to encode them
 - Apr 18 -- holiday (Sexta de Paixão)
