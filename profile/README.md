@@ -19,7 +19,7 @@
 
 - 14:00-16:00 -- [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) --
                  [Stochastic thermodynamics](https://en.wikipedia.org/wiki/Stochastic_thermodynamics)
-- 16:00-18:00 -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry II
+- 16:00-18:00 -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry
 
 
 
