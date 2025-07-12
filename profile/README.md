@@ -19,7 +19,6 @@
 
 - 14:00-16:00 -- [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) --
                  [Stochastic thermodynamics](https://en.wikipedia.org/wiki/Stochastic_thermodynamics)
-- 16:00-18:00 -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry
 
 
 
@@ -68,13 +67,16 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## 2025, winter days (July 21-24), and 2025.2:
 
-- [**Francesco Toppan**](https://scholar.google.com/citations?user=FVZEAr0AAAAJ)
-- [**Marcos Craizer**](https://sites.google.com/view/marcos-craizer-home-page) on congruences of lines 
+- [**Sergey Tikhomirov**](https://sites.google.com/site/sergeytikhomirov/) -- Shadowing X Large Deviation (TBC)
+- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry
 - **Samuel Pacitti** on four-vertex theorems
+- **Filipe Bellio** on osculating conics
 - [**Jeanine Van Order**](https://sites.google.com/view/jeanine-van-order/main)
 - [**Sajad Salami**](https://sites.google.com/a/ime.uerj.br/sajadsalami/)
-- [**Sergey Tikhomirov**](https://sites.google.com/site/sergeytikhomirov/) -- Shadowing X Large Deviation (TBC)
-- **Eduardo Esteves** and **Piere Rodriguez** (TBC) -- [Degenerations of maps to projective spaces](https://arxiv.org/abs/2507.00901)
+- **Piere Rodriguez** (TBC) -- [Degenerations of maps to projective spaces](https://arxiv.org/abs/2507.00901)
+- **Eduardo Esteves** -- [Degenerations of maps to projective spaces](https://arxiv.org/abs/2507.00901)
+- [**Francesco Toppan**](https://scholar.google.com/citations?user=FVZEAr0AAAAJ)
+- [**Marcos Craizer**](https://sites.google.com/view/marcos-craizer-home-page) on congruences of lines 
 - TBA (Thermodynamic Bethe Ansatz), TBA (To Be Announced), TBA
 
 
