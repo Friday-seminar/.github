@@ -14,17 +14,13 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-
-### July 11 -- **Thermodynamics and Information geometry**:
-
-- 14:00-16:00 -- [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) --
-                 [Stochastic thermodynamics](https://en.wikipedia.org/wiki/Stochastic_thermodynamics)
-
-
+### July 21-24 -- 冬の日 / winter days 2025, see below
 
 ## when and where:
-  - 🕑 Fridays (sexta-feiras) until **18:00**, start usually around 14:00 or 14h30m
-  - **DMAT PUC-Rio**, room **L863** in Leme building (left from main entrance), take an elevator to 8th floor near "Bar Nossa Senhora do Carmo" on the opposite site of a bookshop.
+  - 🕑 Fridays (sexta-feiras) until **18:00**, start usually around 14h or 14:30.
+       Morning sessions 11h are 11:00-13:00.
+  - **DMAT PUC-Rio**, room **L863** in Leme building (left from main entrance).
+  Take an elevator to 8th floor near "Bar Nossa Senhora do Carmo", on the opposite site of a bookstore.
 
 ## we are:
 
@@ -55,84 +51,76 @@ their interfaces in
 [mirror symmetry](https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory)),
 [Langlands correspondence](https://en.wikipedia.org/wiki/Langlands_program),
 and related topics.
-Feel free to join presencially or in the discussions in our telegram channel and group.
+Feel free to join in person, or by zoom, and/or in the discussions in the telegram channel and group.
  
-
-#  Seminar materials and how to join
-- Make a pull request to join our group
-- Please [⭣⭣⭣ add here ⭣⭣⭣](https://github.com/friday-seminar/.github/blob/master/topics.md)
-interesting themes and topics for next seminar talks, references, slides of the talks, etc
 
 # Schedule 
 
 ## 2025, winter days (July 21-24), and 2025.2:
 
-- [**Sergey Tikhomirov**](https://sites.google.com/site/sergeytikhomirov/) -- Shadowing X Large Deviation (TBC)
+Winter days 2025, July 21-24:
+
 - **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry
+- [**Sergey Tikhomirov**](https://sites.google.com/site/sergeytikhomirov/) -- Shadowing X Large Deviation (TBC)
 - **Samuel Pacitti** on four-vertex theorems
 - **Filipe Bellio** on osculating conics
 - [**Jeanine Van Order**](https://sites.google.com/view/jeanine-van-order/main)
 - [**Sajad Salami**](https://sites.google.com/a/ime.uerj.br/sajadsalami/)
 - **Piere Rodriguez** (TBC) -- [Degenerations of maps to projective spaces](https://arxiv.org/abs/2507.00901)
+- TBA (Thermodynamic Bethe Ansatz), TBA (To Be Announced), TBA
+
+Beyond:
+
 - **Eduardo Esteves** -- [Degenerations of maps to projective spaces](https://arxiv.org/abs/2507.00901)
 - [**Francesco Toppan**](https://scholar.google.com/citations?user=FVZEAr0AAAAJ)
 - [**Marcos Craizer**](https://sites.google.com/view/marcos-craizer-home-page) on congruences of lines 
-- TBA (Thermodynamic Bethe Ansatz), TBA (To Be Announced), TBA
+- ...
 
 
-## 2025.1 (until July 11)
+## 2025.1 (17 talks)
 
-- Jul 11, 16h -- [**Rafael Ruggieiro**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Thermodynamic formalism and Information geometry II/II
-- Jul 11, 14h -- [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) --
-                [Stochastic thermodynamics](https://en.wikipedia.org/wiki/Stochastic_thermodynamics)
-- Jul 4, 16h - [**Rangel Baldasso**](https://sites.google.com/view/rangelbaldasso) -- [Sanov's theorem](https://en.wikipedia.org/wiki/Sanov's_theorem), and its proof via discretizations
-- Jul 4, 14h -- **Gero von Gersdorff** -- The peculiar hierarchical structure of quarks and leptons in the Standard Model and beyond
-- Jul 4, 11h -- **Gero von Gersdorff** -- Elementary particles at various scales: from the Electroweak Standard Model to Grand Unified Theories
+- Jul 11 -- [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) -- [Stochastic thermodynamics](https://en.wikipedia.org/wiki/Stochastic_thermodynamics)
+- Jul 4, 16h -- [**Rangel Baldasso**](https://sites.google.com/view/rangelbaldasso) -- [Sanov's theorem](https://en.wikipedia.org/wiki/Sanov's_theorem)
+- Jul 4, 11h and 14h -- **Gero von Gersdorff** -- Standard Model. 11h: Elementary particles at various scales: from the Electroweak Standard Model to Grand Unified Theories. 14h: The peculiar hierarchical structure of quarks and leptons in the Standard Model and beyond.
 - Jun 27, 14h -- **Hiroshi Nunokawa** -- Neutrinos, flavour and weak interactions
-- Jun 27, 11:00-13:00 -- **Grigory Ivanov** -- Duality and Convexity
-- Jun 20 -- holiday (Corpus Christi), no seminar, also Sergey Galkin speaks on Bogotá seminar in zoom
-- Jun 13, 15:00-17:30 -- Brazilian Algebraic Geometry Seminar (in IMPA)
-- Jun 13, 11:00-13:00 -- [**Wei Chen**](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and [topological order](https://en.wikipedia.org/wiki/Topological_order) in solids
+- Jun 27, 11h -- **Grigory Ivanov** -- Duality and Convexity
+- Jun 13, 11h -- [**Wei Chen**](https://sites.google.com/view/pucriocmt) -- Quantum Geometry and [topological order](https://en.wikipedia.org/wiki/Topological_order) in solids
 - Jun 6, 14:30-18:00 -- [**Carlos Tomei**](http://intranet.mat.puc-rio.br/~carlos/) -- [Lax pairs](https://en.wikipedia.org/wiki/Lax_pair)
-- Jun 6, 11:00-13:00 -- **Thiago Guerreiro** -- Tensions between quantum mechanics and gravity
+- Jun 6, 11h -- **Thiago Guerreiro** -- Tensions between quantum mechanics and gravity
 - May 30 -- **Alejandro Cabrera** -- Quantization of Poisson manifolds
 - May 23 -- **Dmitrii Korshunov** -- Sub-conical geometry
 - May 16 -- **Olivier Martin** -- Xiao's conjecture for trigonal fibrations
 - May 9 -- [**Rafael Ruggiero**](http://www.mat.puc-rio.br/docente/rafael-o.-ruggiero) -- Thermodynamic formalism and Information geometry I/II
 - May 2, 16h -- **Chi Hong Chow** -- Gamma conjecture I for flag varieties
 - Apr 25 -- **Sergei Burkin** -- Higher structures and how to encode them
-- Apr 18 -- holiday (Sexta de Paixão)
-- Apr 11, 16h -- Giovanna Leal -- Homotopy types of intersections of real Bruhat cells, PhD thesis defence
-- Apr 11 -- [Joint Symplectic Seminar of Rio](https://sites.google.com/matematica.ufrj.br/semsimprio) in IMPA, 14:30-17:00
-- Apr 4 -- non public
-- Mar 28 -- research meeting
 - Mar 21 -- **Matias del Hoyo**  -- Lie Groupoids: Foundations, Advances, and Future Directions
-- Mar 14 -- team meeting, QH(G/P), quantum hard Lefschetz, what we did this summer, and farewell to Altan
+- Mar 14 -- quantum cohomology of homogeneous spaces, quantum hard Lefschetz, what else we did this summer, and farewell to Altan
 - Mar 7 -- **Maciej Denkowski** -- C-algebraic functions 
 - Feb 27 (Thu) -- **Misha Skopenkov** -- Feynman checkers: quantum theory on a checkered paper
 
-## 2024.2 (18 talks)
+## 2024.2 (16 talks, including 3 of Higgs bundles day)
 
 - Dec 12 -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) Day -- Frank Loray, Thiago Fassarella, Lucas Castello Branco
 - Dec 6 -- Inaugural Rio Geometry seminar -- Daniel Fadel, Carlos Toro, Raffaele Vitolo, Misha Verbitsky
-- Nov 29, 14h -- Raffaele Vitolo -- PDE without tears
+- Nov 29, 14h -- Raffaele Vitolo -- "PDE without tears", an intro to PDE for geometry students
 - Nov 22, 16h -- Nicolau Saldanha -- The homotopy type of spaces of locally convex curves in the sphere
 - Nov 22, 14h -- Dmitrii Korshunov -- Conformal center of mass and infinite dimensional GIT for the space of isometric loops
-- Nov 15 -- holiday, no seminar.
-- Nov 8, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry, part ii/ii
-- Nov 8, from 13h to 16h -- [mntnk](http://www.mat.puc-rio.br/minutnik-concurso-de-palestras)
-- Nov 1, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry, part i/ii
+- Nov 1, 16h and Nov 8, 16h -- Graham Smith -- Symplectic and contact nature of Riemannian geometry.
 - Nov 1, 14h -- Alex Gomez -- [Karoubian Completion](https://ncatlab.org/nlab/show/Karoubi+envelope)
-- Oct 25, [Oktobermat @ PUC](http://www.mat.puc-rio.br/oktobermat-2024) and [Rio Joint Symplectic Seminar @ UFF](https://sites.google.com/matematica.ufrj.br/semsimprio).
 - Oct 18, 16:30 -- Mikhail Mazin -- Equivariant K-theory of the square of an n-step partial flag variety and a "q=0" version of the affine quantum group
 - Oct 18, 15:15 -- Bruno Suassuna -- Coherent States in Geometric Quantization
-- Oct 18, 14:00 -- Altan Erdnigor -- Method of Second Quantization
+- Oct 18, 14h -- Altan Erdnigor -- Method of Second Quantization
 - Oct 11 -- Bruno Suassuna and Sergey Galkin -- quantization of surfaces, preliminaries and research prospects
-- Oct 4 -- Eduardo Esteves -- Degenerations of the canonical series for curves, part ii/ii
-- Sep 27, 15h -- Eduardo Esteves -- Degenerations of the canonical series for curves, part i/ii
+- Sep 27, 15h and Oct 4 -- Eduardo Esteves -- Degenerations of the canonical series for curves.
 - Sep 27, 13:30-14:30 -- Raffaelle Vitolo -- Some problems in Hamiltonian geometry of PDEs
 - Sep 20 -- Felipe Zingali Meira -- [Jacobian elliptic fibrations in K3 surfaces](https://en.wikipedia.org/wiki/K3_surface#Elliptic_K3_surfaces) with non-symplectic automorphisms of prime order
-- Sep 13 -- Daniel, Alex, Lucas, Arthur, Victor, Sergey -- research problems and topics of interest
+- Sep 13 -- research problems and topics of interest:
+(1) **Daniel** - chiral polytopes,
+(2) **Alex** - quasi-Hamiltonian version of Moore--Tachikawa category,
+(3) **Lucas** - Gaiotto construction and other Lagrangian subvarieties on moduli spaces of Higgs bundles,
+(4) **Arthur** — Weil reciprocity law,
+(5) **Victor** — matrix factorizations categories and Bondal--Orlov criterion,
+(6) **Sergey** — Kapustin--Rozansky’s big picture.
 - Sep 6 -- Eduardo Alves da Silva -- Classification of log Calabi--Yau pairs $(P^3,D)$ after Ducat
 
 
@@ -154,9 +142,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - June 28, 16h -- Bruno Suassuna -- Complex compact manifolds with affine structure
 - June 28, 14h -- John Alexander Cruz Morales -- On the notion of F-algebroids
 - June 21 -- Graham Smith -- The many lives of the [sinh-Gordon equation](https://en.wikipedia.org/wiki/Sine-Gordon_equation#Related_equations)
-- June 14 -- no seminar, [Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio/home) in UFRJ
 - June 7 -- Altan Erdnigor -- geometric class field theory, part II
-- May 31 -- [Recesso do Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - May 24 -- John Alexander Cruz Morales -- Revisiting mirror maps: model theory, arithmetic and geometry
 - May 24 -- Lucas Castello Branco -- [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization) and Hitchin connection
 - May 17, 16h -- Sergey Galkin -- More [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry): Amari-Chentsov tensor, [exponential families](https://en.wikipedia.org/wiki/Exponential_family), dually flat geometry and related topics
@@ -169,7 +155,6 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Apr 12 -- Sergey Galkin -- [Mirror symmetry and Fano manifolds](https://arxiv.org/abs/1212.1722)
 - Apr 5 -- Bruno Suassuna -- Rational endomorphisms preserving logarithmic volume
 - Apr 5 -- Altan Erdnigor -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction), part II/II
-- Mar 29 -- holiday, [Sexta-Feira da Paixão](https://pt.wikipedia.org/wiki/Sexta-feira_Santa)
 - Mar 27 (Wed) -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
 - Mar 8, 16h -- Altan Erdnigor -- [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization) and Equivariant Topology, part I/II
 - Mar 8, 14h -- Lucas Branco -- What is... a [Higgs bundle](https://en.wikipedia.org/wiki/Higgs_bundle)?
@@ -187,23 +172,19 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Jan 12 -- Bruno Suassuna -- Weight systems of Chern-Simons-Witten and Rozansky-Witten, and Rozansky-Witten invariants
 
 
-## 2023.2 (18 talks)
+## 2023.2 (17 talks)
 
-- Dec 8 -- holiday, [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
 - Dec 1 -- Alex Gomez -- [Delzant's theorem](https://en.wikipedia.org/wiki/Delzant's_theorem)
 - Nov 24 -- Victor el Adji -- [Matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial)
 - Nov 24 -- Lucas Castello Branco -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) and [Mirror Symmetry](https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory))
 - Nov 24 -- Sérgio Loiola -- [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 - Nov 17 -- [Vladimir Roubtsov](https://math.univ-angers.fr/~volodya) -- Kontsevich and Buchstaber polynomials, multiplication kernels and Calabi--Yau differential operators
 - Nov 3, Nov 10 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
-- Oct 27 -- Oktobermat XX
 - Oct 20 -- Dmitri Panov -- Spherical surfaces with conical singularities
-- Oct 13 -- holiday, recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
 - Oct 6 -- Ilia Gaiur -- Multiplication kernels: introduction and examples
 - Sep 29 -- Sergey Galkin -- Tropicalizations of rational maps preserving logarithmic volume forms (tropical talk II)
 - Sep 22 -- Bruno Suassuna -- $n$ bosonic modes
 - Sep 15 -- Arthur Fidalgo -- [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
-- Sep 8 -- holiday, recesso do [Dia da Independência](https://pt.wikipedia.org/wiki/Dia_da_Independência_(Brasil))
 - Sep 1 -- Altan Erdnigor -- [Intersection homology](https://en.wikipedia.org/wiki/Intersection_homology)
 - Sep 1 -- Sergey Galkin -- Logarithmic volume forms and special birational transformations (pre-tropical talk I)
 - Aug 25 -- [Eduardo Alves da Silva](https://sites.google.com/view/eduardo-alvesdasilva-math/)  -- Log Calabi--Yau geometry and Cremona maps
@@ -215,39 +196,36 @@ interesting themes and topics for next seminar talks, references, slides of the 
 ## 2023.1 (13 talks)
 
 - Jul 7: summary of seminar in 2023.1, and free discussion
-- Jun 30 - Andrey Soldatenkov - [o-minimal structure](https://en.wikipedia.org/wiki/O-minimal_theory)
-- Jun 23 - Sergey Sergeev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation)
-- Jun 16 - Sergey Burkin -  [Operads](https://en.wikipedia.org/wiki/Operad) 
-- Jun 9 - holiday, [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
-- Jun 2 - Rodrigo Matos - [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) 
-- Jun 2 - Miguel Batista - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares) and [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes)
-- May 26 - Antonio MacDowell - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
-- May 19 - Graham Smith - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology)
-- May 12 - Veronika Treumova - [dessins d'enfant](https://en.wikipedia.org/wiki/Dessin_d'enfant)
-- May 5 - Victor el Adji - [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
-- Apr 28 - Sergey Galkin - pencils of quadrics
-- Apr 21 - holiday, [Tiradentes](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
-- Apr 14 - Filipe Bellio da Nóbrega - [pencils of conics](https://en.wikipedia.org/wiki/Pencil_(geometry))
-- Apr 7 - holiday, [Sexta-feira da Paixão](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
-- Mar 31 - [Jacques Pienaar](https://www.jaypienaar.com) - [QBism](https://en.wikipedia.org/wiki/Quantum_Bayesianism)
-- Mar 24 - Bruno Suassuna - [formal perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory) for stochastic paths
+- Jun 30 -- Andrey Soldatenkov -- [o-minimal structure](https://en.wikipedia.org/wiki/O-minimal_theory)
+- Jun 23 -- Sergey Sergeev -- [WKB method](https://en.wikipedia.org/wiki/WKB_approximation)
+- Jun 16 -- Sergey Burkin --  [operads](https://en.wikipedia.org/wiki/Operad) 
+- Jun 2 -- Rodrigo Matos -- [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) 
+- Jun 2 -- Miguel Batista -- [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares) and [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes)
+- May 26 -- Antonio MacDowell -- [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
+- May 19 -- Graham Smith -- [Morse homology](https://en.wikipedia.org/wiki/Morse_homology)
+- May 12 -- Veronika Treumova -- [dessins d'enfant](https://en.wikipedia.org/wiki/Dessin_d'enfant)
+- May 5 -- Victor el Adji -- [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
+- Apr 28 -- Sergey Galkin -- pencils of quadrics
+- Apr 14 -- Filipe Bellio da Nóbrega - [pencils of conics](https://en.wikipedia.org/wiki/Pencil_(geometry))
+- Mar 31 -- [Jacques Pienaar](https://www.jaypienaar.com) -- [QBism](https://en.wikipedia.org/wiki/Quantum_Bayesianism)
+- Mar 24 -- Bruno Suassuna -- [formal perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory) for stochastic paths
 
 ## 2022.2 (2 talks)
 
-- Dec 16 - Marcos Craizer - [Improper Affine Spheres](https://en.wikipedia.org/wiki/Affine_sphere) and [Monge-Ampère equations](https://en.wikipedia.org/wiki/Monge–Ampère_equation)
-- Dec 9 - Alexander Guterman - [Permanents](https://en.wikipedia.org/wiki/Permanent_(mathematics))
+- Dec 16 -- Marcos Craizer -- [Improper Affine Spheres](https://en.wikipedia.org/wiki/Affine_sphere) and [Monge-Ampère equations](https://en.wikipedia.org/wiki/Monge–Ampère_equation)
+- Dec 9 -- Alexander Guterman -- [Permanents](https://en.wikipedia.org/wiki/Permanent_(mathematics))
 
 
 
 # Abstracts of all talks 
 
 
-### 2025, July 11, 16h -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry II/II
+### 2025, July 21-24 -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry II/II
 
 In this first talk (May 9) we presented the fundamental ideas of thermodynamic formalism from the point of view of dynamics, without entering into technical details.
-In a second talk (July 11), we shall show some recent developments relating thermodynamic formalism and information geometry. 
+In a second talk, we shall show some recent developments relating thermodynamic formalism and information geometry. 
 
-### 2025, July 11, 14h -- [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) -- [Stochastic thermodynamics](https://en.wikipedia.org/wiki/Stochastic_thermodynamics)
+### 2025, July 11 -- [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) -- [Stochastic thermodynamics](https://en.wikipedia.org/wiki/Stochastic_thermodynamics)
 
 ### 2025, July 4, 16h -- **Rangel Baldasso** -- Sanov's theorem revised
 
@@ -255,11 +233,15 @@ Vamos revisar alguns dos principais resultados envolvendo a teoria de grandes de
 
 ### 2025, July 4, 11h-13h and 14h-16h -- **Gero von Gersdorff** -- the Standard Model of particle physics
 
+1. Elementary particles at various scales: from the Electroweak Standard Model to Grand Unified Theories.
+2. The peculiar hierarchical structure of quarks and leptons in the Standard Model and beyond.
 
-### 2025, June 27, 14h -- **Hiroshi Nunokawa** -- Neutrinos, flavours and weak interaction
+### 2025, June 27, 14h -- **Hiroshi Nunokawa** -- [Neutrinos](https://en.wikipedia.org/wiki/Neutrino), flavours and weak interaction
 
-Prof. Hiroshi introduced us to the world of neutrinos. He explained how non-zero neutrino
-masses are related to their flavour oscillation, introduced PNMS matrix,
+Prof. Hiroshi introduced us to the world of neutrinos. He explained how non-zero neutrino masses are related to
+their [flavour oscillation](https://en.wikipedia.org/wiki/Neutrino_oscillation), introduced 
+[PNMS matrix](https://en.wikipedia.org/wiki/Pontecorvo%E2%80%93Maki%E2%80%93Nakagawa%E2%80%93Sakata_matrix)
+(after Pontecorvo, Maki, Nakagawa, Sakata),
 and explained the calculation and the experiments (Super-K, etc) that establish
 neutrino oscillation and give evidence there are but three generations.
 
@@ -282,7 +264,7 @@ We'll go through examples, from results in integrability to total linearization 
 
 The talk was a bit more general than the announcement below.
 
-(Nonclassical gravitational waves and the quantum nature of gravity)
+- Nonclassical gravitational waves and the quantum nature of gravity
 
 Einstein's theory of gravity admits a low energy effective quantum field description from which predictions beyond classical general relativity can be made. As gravitational wave detectors improve, we may ask whether nonclassical features of such theory can be experimentally verified? In this talk, I will discuss three aspects of this question: First, what kinds of signals would nonclassical GWs impart on a detector? Next, what would we need to measure in order to certify the quantum nature of gravity? And finally, are nonclassical gravitational wave states produced in Nature, and if yes, what are the sources?
 
@@ -304,7 +286,7 @@ The relative irregularity q_f of a fibered surface $f: S ↦ B$ is the relative 
 ### 2025, May 9 -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry I/II.
 
 In this first talk (May 9) we present the fundamental ideas of thermodynamic formalism from the point of view of dynamics, without entering into technical details.
-In a second talk (July 11), we shall show some recent developments relating thermodynamic formalism and information geometry. 
+In a second talk (July), we shall show some recent developments relating thermodynamic formalism and information geometry. 
 
 ### 2025, May 2, 16h -- **Chi Hong Chow** -- Gamma conjecture I for flag varieties
 
@@ -312,7 +294,7 @@ Gamma conjecture I is a conjecture proposed by Galkin, Golyshev and Iritani whic
 
 ### 2025, Apr 25 -- **Sergei Burkin** -- Higher structures and how to encode them
 
-In the first part we will review recent applications of higher structures, focusing on applications of (∞,1)-categories and (∞,n)-categories. Usually such structures are encoded as nice presheaves over categories of "geometric shapes". In the second part we will explain how to obtain several such categories. In the third, informal, part we will consider more examples and will speculate about possible open problems, about general architecture and philosothy of homotopy coherent mathematics.
+In the first part we will review recent applications of higher structures, focusing on applications of (∞,1)-categories and (∞,n)-categories. Usually such structures are encoded as nice pre-sheaves over categories of "geometric shapes". In the second part we will explain how to obtain several such categories. In the third, informal, part we will consider more examples and will speculate about possible open problems, about general architecture and philosophy of homotopy coherent mathematics.
 
 ### 2025, Mar 21 -- **Matias del Hoyo**  -- Lie Groupoids: Foundations, Advances, and Future Directions
 
@@ -346,10 +328,10 @@ Motivated by mirror symmetry for the moduli space of Higgs bundles, we discuss t
 
 ### Nov 22, 16h -- **Nicolau Saldanha** -- The homotopy type of spaces of locally convex curves in the sphere
 
-A smooth curve $\gamma: [0,1] \to \mathbb{S}^2$ is locally convex
+A smooth curve $\gamma: [0,1] \to S²$ is locally convex
 if its geodesic curvature is positive at every point.
-J.~A.~Little showed that the space of all locally positive curves $\gamma$
-with $\gamma(0) = \gamma(1) = e_1$ and $\gamma'(0) = \gamma'(1) = e_2$
+J. A. Little showed that the space of all locally positive curves $γ$
+with $γ(0) = γ(1) = e_1$ and $γ'(0) = γ'(1) = e_2$
 has three connected components $L_{-1,c}$, $L_{+1}$, $L_{-1,n}$.
 These spaces and variants have been discussed, among others,
 by B. Shapiro, M. Shapiro and B. Khesin.
@@ -357,17 +339,17 @@ by B. Shapiro, M. Shapiro and B. Khesin.
 Our first aim is to describe the homotopy type of these spaces.
 The connected component $L_{-1,c}$ is known to be contractible.
 We construct maps from $L_{+1}$ and $L_{-1,n}$
-to $\Omega\mathbb{S}^3 \vee \mathbb{S}^2 \vee \mathbb{S}^6 \vee \mathbb{S}^{10} \vee \cdots$
-and $\Omega\mathbb{S}^3 \vee \mathbb{S}^4 \vee \mathbb{S}^8 \vee \mathbb{S}^{12} \vee \cdots$,
+to $Ω S³ ∨ S² ∨ S^6 ∨ S^{10} ∨ \cdots$
+and $Ω S³ ∨ S^4 ∨ S^8 ∨ S^{12} ∨ \cdots$,
 respectively, and show that they are (weak) homotopy equivalences.
 
 More generally, 
-a smooth curve $\gamma: [0,1] \to \mathbb{S}^n \subset \mathbf{R}^{n+1}$ is locally convex
-if $\det(\gamma(t),\ldots,\gamma^{n}(t)) > 0$ (for all $t$).
+a smooth curve $γ: [0,1] \to S^n \subset \mathbf{R}^{n+1}$ is locally convex
+if $\det(γ(t),\ldots,γ^{n}(t)) > 0$ (for all $t$).
 We would like to understand the homotopy type of the space
 $L$ of locally convex curves
-with $\gamma^{(j)}(0) = \gamma^{(j)}(1) = e_{j+1}$
-(for all $j \ne n$).
+with $γ^{(j)}(0) = γ^{(j)}(1) = e_{j+1}$
+(for all $j ≠ n$).
 We describe a CW complex with the same homotopy type.
 The homotopy type of $L$ is described for $n = 3$.
 
@@ -415,12 +397,12 @@ K3 surfaces are one of the few classes of algebraic surfaces which allow more th
 
 ### Sep 13 -- research problems and topics of interest
 
-  - **Daniel** - chiral polytopes,
-  - **Alex** - quasi-Hamiltonian version of Moore--Tachikawa category of G--Hamiltonian holomorphic symplectic varieties,
-  - **Lucas** - Lagrangian subvarieties on moduli spaces of Higgs bundles, with special regards to Gaiotto construction,
-  - **Arthur** — Weil reciprocity law,
-  - **Victor** — matrix factorizations categories and Bondal--Orlov criterion,
-  - **Sergey** — Kapustin--Rozansky’s big picture.
+- **Daniel** - chiral polytopes,
+- **Alex** - quasi-Hamiltonian version of Moore--Tachikawa category of G--Hamiltonian holomorphic symplectic varieties,
+- **Lucas** - Lagrangian subvarieties on moduli spaces of Higgs bundles, with special regards to Gaiotto construction,
+- **Arthur** — Weil reciprocity law,
+- **Victor** — matrix factorizations categories and Bondal--Orlov criterion,
+- **Sergey** — Kapustin--Rozansky’s big picture.
 
 
 ### Sep 6 -- **Eduardo Alves da Silva** -- Classification of log Calabi-Yau pairs $(P^3,D)$ after Ducat
@@ -522,10 +504,10 @@ serve as bridge between two mathematical "worlds"
 The notions of algebraic geometry (projective varieties, affine varieties, schemes, non-normal varieties; ampleness, discrepancies and types of singularities (smooth, terminal, canonical, log-terminal, (Q-)factorial, (Q-)Gorenstein..., Betti numbers) have counterparts in the world of convex and piecewise-linear lattice geometry (rational convex polytopes, rational convex cones, fans, sets in a lattice, convexity, reflexivity, simpliciality or simpleness, Delzant, ..., f-polynomials). 
 
 The bridge has proved to be useful in both directions:
-—  Stanley's proof that [Dehn-Sommerville relations](https://en.wikipedia.org/wiki/Dehn%E2%80%93Sommerville_equations) completely determine possible numbers of faces of a convex simplicial polytope: by associating to each such polytope P a family of toric varieties X and showing that the respective numbers correspond to Betti numbers of (intersection) homology of X. In this light Dehn-Sommervile relations are seen as [Poincaré duality](https://en.wikipedia.org/wiki/Poincar%C3%A9_duality) and [Hard Lefschetz theorem](https://en.wikipedia.org/wiki/Lefschetz_hyperplane_theorem#Hard_Lefschetz_theorem).
+—  Stanley's proof that [Dehn-Sommerville relations](https://en.wikipedia.org/wiki/Dehn%E2%80%93Sommerville_equations) completely determine possible numbers of faces of a convex simplicial polytope: by associating to each such polytope P a family of toric varieties X and showing that the respective numbers correspond to Betti numbers of (intersection) homology of X. In this light Dehn-Sommerville relations are seen as [Poincaré duality](https://en.wikipedia.org/wiki/Poincar%C3%A9_duality) and [Hard Lefschetz theorem](https://en.wikipedia.org/wiki/Lefschetz_hyperplane_theorem#Hard_Lefschetz_theorem).
 — [Bernstein—Kushnirenko theorem](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Kushnirenko_theorem) (1975) for number of roots of a system of polynomial equations as mixed volume of their Newton polytopes
 — explicit toric MMP, and later the use of birational cobordism and torification techniques to reproof resolution of singularities and [weak facotorization theorem](https://en.wikipedia.org/wiki/Birational_geometry#Fundamental_group_of_smooth_projective_varieties) (AKMW, 2002)
-— Batyrev's construction (and its generalization by Borisov) of trillions of mirror-dual pairs of Calabi-Yau threefolds as resolutions of singularities of hypersurfaces in toric fourfolds associated with reflexive polytopes in 4 dimensions (resp. complete intersections associated with with higher-dimensional polytopes and nef partitions)
+— Batyrev's construction (and its generalization by Lev Borisov) of trillions of mirror-dual pairs of Calabi-Yau threefolds as resolutions of singularities of hypersurfaces in toric fourfolds associated with reflexive polytopes in 4 dimensions (resp. complete intersections associated with with higher-dimensional polytopes and nef partitions)
 
 I will give basic definitions and sketch a dictionary, proving (or outlining/explaining) the results above.
 
@@ -550,7 +532,7 @@ The second talk in this series will focus on linearization in equivariant cobord
 
 ### Mar 27 (Wed) -- [**Boris Khesin**](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of [pentagram maps](https://en.wikipedia.org/wiki/Pentagram_map)
  
-The pentagram map on polygons in the projective plane was introduced by R.Schwartz in 1992 and is by now one of the most popular and classical discrete integrable systems. We survey definitions and integrability properties of the pentagram maps on generic plane polygons and their generalizations to higher dimensions. In particular, we define long-diagonal pentagram maps on polygons in $\mathbf{RP}^d$, encompassing all known integrable cases. We also describe the corresponding continuous limit of such pentagram maps: in dimension d it turns out to be the $(2, d + 1)$-equation of the KdV hierarchy, generalizing the Boussinesq equation in 2D. This is a joint work with F.Soloviev and A.Izosimov.
+The pentagram map on polygons in the projective plane was introduced by R.Schwartz in 1992 and is by now one of the most popular and classical discrete integrable systems. We survey definitions and integrability properties of the pentagram maps on generic plane polygons and their generalizations to higher dimensions. In particular, we define long-diagonal pentagram maps on polygons in $\mathbf{RP}^d$, encompassing all known integrable cases. We also describe the corresponding continuous limit of such pentagram maps: in dimension d it turns out to be the $(2, d + 1)$-equation of the KdV hierarchy, generalizing the Boussinesq equation in 2D. This is a joint work with F. Soloviev and A. Izosimov.
 
 ### Mar 8, 16h -- **Altan Erdnigor** -- [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization) and Equivariant Topology, part I/II
 
@@ -621,6 +603,7 @@ The moduli space $M(G)$ of Higgs bundles for a complex reductive group $G$ on a 
 
 
 ### Nov 24, 13h -- **Sérgio Loiola** -- introduction to [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
+
 I will talk about the Markov Chains. This term refers to the sequence of random variables where there is a single series dependency between adjacent periods. From this, I will talk about Hidden Markov Model: a process where hidden parameters are determined from observable parameters.
 
 
@@ -632,13 +615,13 @@ We discuss several recent results of ongoing work (in collaboration with I. Gaiu
 
 Nov 3: We present a new completely elementary model that describes the creation, annihilation, and motion of non-interacting electrons and positrons along a line. It is a modification of the model known under the names Feynman checkers, one-dimensional quantum walk, or the Ising model at imaginary temperature. It can be viewed as a six-vertex model with certain complex weights of the vertices. We show that the discrete model is consistent with the continuum quantum field theory, namely, reproduces the known expected charge density as the lattice step tends to zero. Most of the talk is accessible to undergraduate students; no knowledge of physics is assumed.
 
-Nov 10: This is a continuation of the previous talk. Last time we discussed a quantum mechanical model, and now we proceed to quantum field theory. We present a new completely elementary model that describes the creation, annihilation, and motion of non-interacting electrons and positrons along a line. It can be viewed as a six-vertex model with certain complex weights of the vertices. We show that the discrete model is consistent with the continuum quantum field theory, namely, reproduces the known expected charge density as the lattice step tends to zero.  
+Nov 10: This is a continuation of the previous talk. Last time we discussed a quantum mechanical model, and now we proceed to quantum field theory. We present a new completely elementary model that describes the creation, annihilation, and motion of non-interacting electrons and positrons along a line. It can be viewed as a six-vertex model with certain complex weights of the vertices. We show that the discrete model is consistent with the continuum quantum field theory, namely, reproduces the known expected charge density as the lattice step tends to zero.
 
-joint work with A. Ustinov
+Joint work with A. Ustinov.
 
 ### Oct 20 -- [**Dmitri Panov**](https://www.kcl.ac.uk/people/dmitri-panov) -- Spherical Surfaces
 
-A spherical surface is a surface that can be glued from a collection of spherical triangles by isometric identification of their sides. Such a surface has a metric of curvature one outside of a finite number of points, where the metric has a conical singularity. In particular, each spherical surface is naturally a Riemann surface. Contrary to the hyperbolic case, when the theory is identical to the theory of Riemann surfaces, the case of spherical surfaces is almost totally open. I will speak about recent results in the area, such as a full description of the moduli space of spherical metrics with one conical singularity on a torus (joint work with Gabrielle Mondello and Alex Eremenko) and the description of possible conical angles on a spherical metric on a 2-sphere (joint work with Gabirelle Mondello).
+A spherical surface is a surface that can be glued from a collection of spherical triangles by isometric identification of their sides. Such a surface has a metric of curvature one outside of a finite number of points, where the metric has a conical singularity. In particular, each spherical surface is naturally a Riemann surface. Contrary to the hyperbolic case, when the theory is identical to the theory of Riemann surfaces, the case of spherical surfaces is almost totally open. I will speak about recent results in the area, such as a full description of the moduli space of spherical metrics with one conical singularity on a torus (joint work with Gabrielle Mondello and Alex Eremenko) and the description of possible conical angles on a spherical metric on a 2-sphere (joint work with Gabrielle Mondello).
 
 
 ### Oct 6 -- **Ilia Gaiur** -- Multiplication Kernels: introduction and examples
@@ -661,26 +644,26 @@ In 1981, André Joyal started the development of an interesting theory of specie
 ### Sep 1, 14h -- **Sergey Galkin** -- Logarithmic volume forms and special birational transformations, part I
 
 Let $f(x,y) = P(x,y)/R(x,y)$ and $g(x,y) = Q(x,y)/R(x,y)$ be a pair of rational functions, i.e. elements of a field $\mathbf{C}(x,y)$ of fractions of a ring of polynomials $\mathbf{C}[x,y] \ni P,Q,R$ (in the first talks of the series the variables x and y will commute, but later they will stop commuting).
-For (x,y) a pair of complex numbers not in zero locus of PQR the map 
+For (x,y) a pair of complex numbers (not in zero locus of $PQR$) the map 
        $(x,y)  \mapsto  (f(x,y),g(x,y))$
-is well-defined and takes non-zero values, so a pair of rational functions f,g detrmine a rational map 
+is well-defined and takes non-zero values, so a pair of rational functions f,g determine a rational map 
        $φ : T - - - > T$
 from a two-dimensional (complex) torus (or any other rational surface) to itself.
-We say that rational map φ (almost) preserves logarithmic volume form 
+We say that rational map $φ$ (almost) preserves logarithmic volume form 
       $ω := dlog(x) \wedge dlog(y) = \frac{dx \wedge dy}{xy}$
-if there exists some complex number δ such that  φ^* ω = δ ω, that is
+if there exists some complex number $δ$ such that  $φ^* ω = δ ω$, that is
       $\frac{df \wedge dg}{fg}     =    δ \cdot \frac{dx \wedge dy}{xy}$,
 explicitly it means that a pair of rational functions f,g in $\mathbf{C}(x,y)$ satisfy the following homogeneous PDE of degree 2
       $x y (f_x g_y - f_y g_x) = δ f g$
 This is one of the simplest (maybe, the simplest) examples of volume-preserving maps between log-Calabi-Yau varieties as defined in Eduardo's talk.
 
-In his preprint [Symplectic automorphisms of CP^2 and the Thompson group T](https://arxiv.org/abs/math/0611604) (math/0611604) Alexandr Usnich defined a tropicalization of such maps — a homomorphism from the group of birational (invertible) volume-preserving maps to the group of piecewise-linear automorphism of R^2. 
+In his preprint [Symplectic automorphisms of CP^2 and the Thompson group T](https://arxiv.org/abs/math/0611604) (math/0611604) Alexandr Usnich defined a tropicalization of such maps — a homomorphism from the group of birational (invertible) volume-preserving maps to the group of piecewise-linear automorphism of $R^2$. 
 
-Usnich also described some their stuctural properties, including a conjecture on generators and relations, that was proved by Jérémy Blanc in [Symplectic birational transformations of the plane](https://arxiv.org/abs/1012.0706) (1012.0706). Blanc in his proof used heavily theory of algebraic surfaces. 
+Usnich also described some their structural properties, including a conjecture on generators and relations, that was proved by Jérémy Blanc in [Symplectic birational transformations of the plane](https://arxiv.org/abs/1012.0706) (1012.0706). Blanc in his proof used heavily theory of algebraic surfaces. 
 
 In other vein, Jeffrey Diller and Jan-Li Lin in [Rational surface maps with invariant meromorphic two forms](https://arxiv.org/abs/1308.2567) (1308.2567) motivated by study of birational dynamic also used theory of surfaces to prove Theorem E analogous to Usnich's construction, and then prove Degree Factorization Theorem: "topological degree" (which they denote $λ_2$) of a rational log-volume preserving map (x,y) —> f(x,y),g(x,y), i.e. the number of solutions of a system of equations f(x,y) = a, g(x,y) = b for generic pair (a,b) equals to the product S W, where numbers S=|δ| and W can be read off from tropicalization: W is the winding number of the respective continuous map from the circle to itself, and S is a scaling factor which is shown to be equal to δ. See Theorem 6.18 in loc.cit.
 
-I will prove higher-dimensional generalization of Degree Factorization Theorem: let $φ = (f_1(x_1,...,x_n)),...,f_n(x_1,...,x_n))$ be a rational map that preserves a logarithmic volume form $ω = \frac{d x_1 \wedge ... \wedge d x_n}{x_1 ... x_n}$ up to rescaling it by a complex constant δ,i.e. $φ^* ω = δ ω$. Then the respective scaling constant $δ \in \mathbf{C}$ is in fact an integer S, and the topological degree of φ factors as S W with W being a winding number, the degree of a map from (n-1)-dimensional sphere to itself obtained from tropicalization. Unlike work of Blanc and Diller-Lin, both relying on geometry of algebraic surfaces, other than standard tropical techniques including amoebas that I will explain in detail, I have to resort to analytic techniques, namely Griffiths's characterization of logarithmic forms in terms of grows asymptotics of respective integrals.
+I will prove higher-dimensional generalization of Degree Factorization Theorem: let $φ = (f_1(x_1,...,x_n)),...,f_n(x_1,...,x_n))$ be a rational map that preserves a logarithmic volume form $ω = \frac{d x_1 \wedge ... \wedge d x_n}{x_1 ... x_n}$ up to rescaling it by a complex constant δ,i.e. $φ^* ω = δ ω$. Then the respective scaling constant $δ \in \mathbf{C}$ is in fact an integer S, and the topological degree of φ factors as S W with W being a winding number, the degree of a map from (n-1)-dimensional sphere to itself obtained from tropicalization. Unlike work of Blanc and Diller--Lin, both relying on geometry of algebraic surfaces, other than standard tropical techniques including amoebas that I will explain in detail, I have to resort to analytic techniques, namely Griffiths's characterization of logarithmic forms in terms of grows asymptotics of respective integrals.
 
 Another related question is a rational logarithmic Jacobian conjecture — is it true that volume-preserving map is birational? In light of decomposition theorem above the counterexample shall involve log-volume-preserving maps with non-trivial winding numbers. I will explain geometric construction of some such maps already in dimension two. To the best of my knowledge no explicit formulas have been written down so far, despite theoretically this is being computable, and participants of the seminar shall be able to do it.
 
@@ -691,7 +674,7 @@ In the context of algebraic geometry, decomposition and inertia groups are speci
 
 ### Aug 18 -- **Altan Erdnigor** -- Homology of the Hilbert scheme of points on a surface
 A [Hilbert scheme of points](https://en.wikipedia.org/wiki/Hilbert_scheme#Hilbert_scheme_of_points_on_a_manifold) on a scheme X parametrizes configurations of n points on X.  If X is a non-singular surface, the Hilbert scheme $X^{[n]}$ is smooth and maps to the [symmetric power](https://en.wikipedia.org/wiki/Symmetric_power) $S^n X$ by Hilbert-Chow morphism.
-Hilbert schemes are connected to resolutions of singularities, [hyperkähler geometry](https://en.wikipedia.org/wiki/Hilbert_scheme#Hilbert_schemes_and_hyperkähler_geometry), [quiver varieties](https://ncatlab.org/nlab/show/quiver+variety), representation theory, and much more.  
+Hilbert schemes are connected to resolutions of singularities, [hyperkähler geometry](https://en.wikipedia.org/wiki/Hilbert_scheme#Hilbert_schemes_and_hyperkähler_geometry), [quiver varieties](https://ncatlab.org/nlab/show/quiver+variety), representation theory, and much more.
 In this talk, we will prove Göttsche's formula for computing the Betti numbers of the Hilbert scheme $X^{[n]}$ of $n$ points on a surface.
 We show how it is a corollary of the general theory of [intersection cohomology](https://en.wikipedia.org/wiki/Intersection_homology) and the [decomposition theorem](https://en.wikipedia.org/wiki/Decomposition_theorem_of_Beilinson,_Bernstein_and_Deligne) of Beilinson, Bernstein, Deligne, and Gabber.
 The talk is based on Nakajima's book on Hilbert schemes.
@@ -712,7 +695,7 @@ Based on work ["Mirror symmetry for Jacobians of hyperelliptic curves](https://g
 
 ### Aug 4 -- **Dmitrii Korshunov** -- [Bernstein-Sato polynomials and the division of distributions](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial)
 
-We will discuss some basic properties of left modules over the Weyl algebra ('algebraic D-modules on an affine space') up to the J. Bernstein's inequality and the notion of a holonomic module. We'll proceed to prove the existence of Bernstein-Sato polynomials and employ them to analytically continue complex powers of polynomials. As an application, a Hironaka-free solution to the problem of division of distributions by polynomials will follow. I will conclude with a remark about how all this provides a purely algebraic proof of theorems of Malgrange-Ehrenpreis and Lojasiewicz-Hormander about the existence of fundamental solutions of linear PDEs with constant coefficients.
+We will discuss some basic properties of left modules over the Weyl algebra ('algebraic D-modules on an affine space') up to the J. Bernstein's inequality and the notion of a holonomic module. We'll proceed to prove the existence of Bernstein-Sato polynomials and employ them to analytically continue complex powers of polynomials. As an application, a Hironaka-free solution to the problem of division of distributions by polynomials will follow. I will conclude with a remark about how all this provides a purely algebraic proof of theorems of Malgrange--Ehrenpreis and Lojasiewicz--Hormander about the existence of fundamental solutions of linear PDEs with constant coefficients.
 
 ### June 30 -- **Andrey Soldatenkov** -- An introduction to [**o-minimal structures**](https://en.wikipedia.org/wiki/O-minimal_theory)
 
@@ -722,7 +705,7 @@ I will start by recalling the definition of the latter and discussing the [Tarsk
 
 ### June 23 -- **Sergey Sergeev** -- WKB, Maslov's canonical operator and semi-classical analysis
 
-In many physical problems the small parameter $h$ appears in the PDE and sometimes such a parameter stands with the operator of differentiation, for example $h\partial / \partial x$. One can ask very natural question about asymptotics of the solution for such PDE while $h\to 0$. Traditionally one of the answers on this question is the [WKB approximation](https://en.wikipedia.org/wiki/WKB_approximation), when the solution is presented in the form of fast-oscillating exponential. This method gives the formal asymptotic solution for the PDE. From the other hand it is well known that WKB approximation fails near the so-called turning points which means that such form of the solution is not valid. We will present the generalization of the WKB approximation called the Maslov's Canonical Operator which allows to present asymptotics near turning points. This generalization admits the very interesting geometrical interpretation and also involves the Hamiltonian mechanics. As an example we will consider the 1D equation for the wave propagation in crystall and discuss some open questions related to this example.
+In many physical problems the small parameter $h$ appears in the PDE and sometimes such a parameter stands with the operator of differentiation, for example $h\partial / \partial x$. One can ask very natural question about asymptotics of the solution for such PDE while $h\to 0$. Traditionally one of the answers on this question is the [WKB approximation](https://en.wikipedia.org/wiki/WKB_approximation), when the solution is presented in the form of fast-oscillating exponential. This method gives the formal asymptotic solution for the PDE. From the other hand it is well known that WKB approximation fails near the so-called turning points which means that such form of the solution is not valid. We will present the generalization of the WKB approximation called the Maslov's Canonical Operator which allows to present asymptotics near turning points. This generalization admits the very interesting geometrical interpretation and also involves the Hamiltonian mechanics. As an example we will consider the 1D equation for the wave propagation in crystal and discuss some open questions related to this example.
 
 ### June 16 -- **Sergey Burkin** -- [**Operads**](https://en.wikipedia.org/wiki/Operad)
 
