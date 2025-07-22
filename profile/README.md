@@ -57,23 +57,23 @@ Feel free to join in person, or by zoom, and/or in the discussions in the telegr
 
 ## 2025, winter days (July 22-25), and 2025.2:
 
-[Winter days 2025, July 22-25](winter25.md):
+### [Winter days 2025, July 22-25](winter25.md):
 
-- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry
-- [**Sergey Tikhomirov**](https://sites.google.com/site/sergeytikhomirov/) on Shadowing vs Large Deviation for 1d DS
-- **Samuel Pacitti** on four-vertex theorems
-- **Filipe Bellio** on osculating conics
-- [**Jeanine Van Order**](https://sites.google.com/view/jeanine-van-order/main) on Borcherds products
-- [**Sajad Salami**](https://sites.google.com/a/ime.uerj.br/sajadsalami/)
-- **Simon Griffiths** -- Tail events in Random Graphs and Random Sets
-- "Pedro II" (TBC) on stochastic thermodynamics
-- TBA (Thermodynamic Bethe Ansatz), TBA (To Be Announced), TBA
+- July 22, **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry
+- July 23, 17h -- **Samuel Pacitti** on four-vertex theorems
+- July 24, 17h --  **Filipe Bellio** on osculating conics
+- July 23-24, morning -- [**Jeanine Van Order**](https://sites.google.com/view/jeanine-van-order/main) on Borcherds products
+- July 23-24, morning -- [**Sajad Salami**](https://sites.google.com/a/ime.uerj.br/sajadsalami/)
+- July 24, 15h -- [**Sergey Tikhomirov**](https://sites.google.com/site/sergeytikhomirov/) on Shadowing vs Large Deviation for 1d DS
+- July 25, 11h -- **Simon Griffiths** -- Tail events in Random Graphs and Random Sets
 
-Beyond:
+### Beyond, 2025.2 maybe:
 
-- **Eduardo Esteves** and **Piere Rodriguez** (TBC) -- [Degenerations of maps to projective spaces](https://arxiv.org/abs/2507.00901)
 - [**Francesco Toppan**](https://scholar.google.com/citations?user=FVZEAr0AAAAJ)
-- [**Marcos Craizer**](https://sites.google.com/view/marcos-craizer-home-page) on congruences of lines 
+- [**Marcos Craizer**](https://sites.google.com/view/marcos-craizer-home-page) on congruences of lines
+- "Pedro II" (TBC) on stochastic thermodynamics
+- **Eduardo Esteves** and **Piere Rodriguez** (TBC) -- [Degenerations of maps to projective spaces](https://arxiv.org/abs/2507.00901)
+- TBA (Thermodynamic Bethe Ansatz), TBA (To Be Announced), TBA
 - ...
 
 
