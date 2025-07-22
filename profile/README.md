@@ -220,10 +220,10 @@ Feel free to join in person, or by zoom, and/or in the discussions in the telegr
 # Abstracts of all talks 
 
 
-### 2025, July 21-24 -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry II/II
+### 2025, July 22 -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry II/II
 
 In this first talk (May 9) we presented the fundamental ideas of thermodynamic formalism from the point of view of dynamics, without entering into technical details.
-In a second talk, we shall show some recent developments relating thermodynamic formalism and information geometry. 
+In the second talk, we shall show some recent developments relating thermodynamic formalism and information geometry. 
 
 ### 2025, July 11 -- [**Welles Morgado**](https://www.fis.puc-rio.br/colaborador/welles-antonio-martinez-morgado/) -- [Stochastic thermodynamics](https://en.wikipedia.org/wiki/Stochastic_thermodynamics)
 
