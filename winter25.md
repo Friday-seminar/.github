@@ -7,6 +7,7 @@ title: Winter days, 2025, July 22-25. DMAT PUC-Rio.
 -------------+------------+-----------------------+---------------------------------------------------------------------------------------
  Tue 22.07   | 14:00      | Rafael Ruggiero       | Thermodynamic formalism and information geometry                                      
 -------------|------------|-----------------------|---------------------------------------------------------------------------------------
+ Wed 23.07   | 10h-13h    | TBA                   | Arithmetic geometry                                                                 
  Wed 23.07   | 17:00      | Samuel Pacitti Gentil | On extatic points and vertex theorems, continuous and discrete                        
 -------------|------------|-----------------------|---------------------------------------------------------------------------------------
  Thu 24.07   | 10:00      | Jeanine Van Order     | On Borcherds forms over $Gr^{++}(2,n)$                                                
