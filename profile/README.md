@@ -15,15 +15,10 @@
 
 
 
-### July 11 -- **Non-equilibrium thermodynamics day**:
-
-- 14:00-16:00 -- **Welles Morgado** -- On stochastic thermodynamics
-- 16:00-18:00 -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry II
+### July 22-25: [Winter Days](../winter25.md)
 
 
-
-## when and where:
-  - 🕑 Fridays (sexta-feiras) until **18:00**, start usually around 14:00 or 14h30m
+## Where:
   - **DMAT PUC-Rio**, room **L863** in Leme building (left from main entrance), take an elevator to 8th floor near "Bar Nossa Senhora do Carmo" on the opposite site of a bookshop.
 
 ## we are:
