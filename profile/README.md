@@ -14,7 +14,7 @@
 ## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
 
 
-### July 22-25: [冬の日 / Winter Days 2025](../winter25.md)
+### July 22-25: [冬の日 2025 Winter Days](../winter25.md)
 
 
 ## Where:
