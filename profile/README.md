@@ -59,10 +59,10 @@ Feel free to join in person, or by zoom, and/or in the discussions in the telegr
 ## 2025, July 22-25, [冬の日 2025 Winter Days](../winter25.md)
 
 - July 22, **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry
-- July 23, 17h -- **Samuel Pacitti** on four-vertex theorems
-- July 24, 17h --  **Filipe Bellio** on osculating conics
-- July 23-24, 11:30 -- [**Jeanine Van Order**](https://sites.google.com/view/jeanine-van-order/main) Borcherds products on Spin Shimura varieties
-- July 23-24, 10:00 -- [**Sajad Salami**](https://sites.google.com/a/ime.uerj.br/sajadsalami/) [Arithmetic geometry](https://en.wikipedia.org/wiki/Arithmetic_geometry) and weighted theory of heights.
+- July 23, 17h -- **Samuel Pacitti** -- on four-vertex theorems
+- July 24, 17h --  **Filipe Bellio** -- on osculating conics
+- July 23-24, 11:30 -- [**Jeanine Van Order**](https://sites.google.com/view/jeanine-van-order/main) -- Borcherds products on Spin Shimura varieties
+- July 23-24, 10:00 -- [**Sajad Salami**](https://sites.google.com/a/ime.uerj.br/sajadsalami/) -- [Arithmetic geometry](https://en.wikipedia.org/wiki/Arithmetic_geometry) and weighted theory of heights.
 - July 24, 15h -- [**Sergey Tikhomirov**](https://sites.google.com/site/sergeytikhomirov/) -- Relation between Shadowing and Large Deviation Theory for one-dimensional dynamical systems
 - July 25, 11h -- **Simon Griffiths** -- Tail events in Random Graphs and Random Sets
 
