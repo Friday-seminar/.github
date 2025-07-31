@@ -58,7 +58,7 @@ Feel free to join in person, or by zoom, and/or in the discussions in the telegr
 
 ## 2025, July 22-25, [冬の日 2025 Winter Days](../winter25.md)
 
-- July 22, **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry
+- July 22, 14h -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry
 - July 23, 17h -- **Samuel Pacitti** -- on four-vertex theorems
 - July 24, 17h --  **Filipe Bellio** -- on osculating conics
 - July 23-24, 11:30 -- [**Jeanine Van Order**](https://sites.google.com/view/jeanine-van-order/main) -- Borcherds products on Spin Shimura varieties
