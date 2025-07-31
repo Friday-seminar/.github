@@ -1,29 +1,24 @@
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊 
 
-## [telegram channel](https://t.me/+K3k4Y-aMViZkYjBi), zoom id: 277 392 671 (ask password from any participant or in group)
+was an open seminar running weekly in semesters 2023.1, 2023.2, 2024.1, 2024.2, 2025.1,
+and during one summer (Jan-Feb 2024) and two winters (2024 and 2025)
+presencilly in Mathematics Department of PUC-Rio, in hybrid mode, and online.
 
+## [Telegram channel](https://t.me/+K3k4Y-aMViZkYjBi) 
 
+hosts all past talks, video recordings for most of them, slides, and discussions.
+Feel free to join!
 
+## Zoom id: 277 392 671
 
-## Where:
+(ask password from any participant or in group)
+
+## Getting there:
   - **DMAT PUC-Rio**, rooms **863** and **856** in Leme building (left from main entrance).
   Take an elevator to **8th floor** near "Bar Nossa Senhora do Carmo", on the opposite site of a bookstore.
 
-## we are:
+## Some topics of interest of the core participants, including topics of some past talks:
 
-an open weekly seminar in mathematics department of PUC-Rio with core participants belonging to
-a research and study group interested in 
 [algebraic](https://en.wikipedia.org/wiki/Algebraic_geometry), 
 [symplectic](https://en.wikipedia.org/wiki/Symplectic_geometry),
 [affine](https://en.wikipedia.org/wiki/Affine_geometry),
@@ -49,12 +44,10 @@ their interfaces in
 [mirror symmetry](https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory)),
 [Langlands correspondence](https://en.wikipedia.org/wiki/Langlands_program),
 and related topics.
-Feel free to join in person, or by zoom, and/or in the discussions in the telegram channel and group.
+
  
 
-# Schedule 
-
-
+# Schedule of past talks
 
 ## 2025, July 22-25, [冬の日 2025 Winter Days](../winter25.md)
 
