@@ -799,7 +799,7 @@ The talk is based on the joint work with M.V. Budrevich.
 
 
 
-# some related topics of interest:
+## some related topics of interest:
 
 - Holomorphic Floer Theory: Kapustin-Rozansky, Kontsevich-Soibelman, [Doan-Rezchikov](https://arxiv.org/abs/2210.12047) (Fueter equations).
 - SUSY, Nahm's theorem on classification of supersymmetry
@@ -822,9 +822,9 @@ The talk is based on the joint work with M.V. Budrevich.
 - Gauged Linear Sigma Models and phase transition, VGIT and MMP, Goldstone and Higgs mechanisms of mass generation
 - [semiorthogonal decompositios](https://en.wikipedia.org/wiki/Semiorthogonal_decomposition)
 - [Calabi--Yau theorem](https://en.wikipedia.org/wiki/Calabi_conjecture) 
-- other research-related topics (add yours)
 
-More seminars in Rio de Janeiro: 
+
+## More seminars in Rio de Janeiro: 
 - Rio Geometry Seminar   
 - [Rio Joint Symplectic Seminar](https://sites.google.com/matematica.ufrj.br/semsimprio)
 - IMPA: Geometric Structures on Manifolds (Thu 17h), GADEPs (Fri, 10:30), Symplectic Geometry (Wed 15:30), Algebra (Wed 15:30)
