@@ -1,23 +1,15 @@
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊 
 
-was an open seminar running weekly in semesters 2023.1, 2023.2, 2024.1, 2024.2, 2025.1,
-and during one summer (Jan-Feb 2024) and two winters (2024 and 2025)
-presencilly in Mathematics Department of PUC-Rio, in hybrid mode, and online.
+## Contacts
 
-## [Telegram channel](https://t.me/+K3k4Y-aMViZkYjBi) 
-
-hosts all past talks, video recordings for most of them, slides, and discussions.
-Feel free to join!
-
-## Zoom id: 277 392 671
-
-(ask password from any participant or in group)
-
-## Getting there:
-  - **DMAT PUC-Rio**, rooms **863** and **856** in Leme building (left from main entrance).
+- [Telegram channel](https://t.me/+K3k4Y-aMViZkYjBi) 
+   hosts all past talks, video recordings for most of them, slides, and discussions.
+- Zoom id: 277 392 671  (ask password from any participant or in group)
+- In person:
+  **DMAT PUC-Rio**, rooms **863** and **856** in Leme building (left from main entrance).
   Take an elevator to **8th floor** near "Bar Nossa Senhora do Carmo", on the opposite site of a bookstore.
 
-## Some topics of interest of the core participants, including topics of some past talks:
+## A non-exhaustive list of topics of interest and/or past talks:
 
 [algebraic](https://en.wikipedia.org/wiki/Algebraic_geometry), 
 [symplectic](https://en.wikipedia.org/wiki/Symplectic_geometry),
@@ -42,12 +34,11 @@ and [operads](https://en.wikipedia.org/wiki/Operad),
 their interfaces in
 [quantum topology](https://en.wikipedia.org/wiki/Quantum_topology),
 [mirror symmetry](https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory)),
-[Langlands correspondence](https://en.wikipedia.org/wiki/Langlands_program),
-and related topics.
+[Langlands correspondence](https://en.wikipedia.org/wiki/Langlands_program),...
 
  
 
-# Schedule of past talks
+# Schedule of past talks (Dec 2022 - July 2025)
 
 ## 2025, July 22-25, [冬の日 2025 Winter Days](../winter25.md)
 
