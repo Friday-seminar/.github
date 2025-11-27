@@ -35,10 +35,11 @@ their interfaces in
 [quantum topology](https://en.wikipedia.org/wiki/Quantum_topology),
 [mirror symmetry](https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory)),
 [Langlands correspondence](https://en.wikipedia.org/wiki/Langlands_program),...
-
  
 
 # Schedule of past talks (Dec 2022 - July 2025)
+
+- November 28 - 15h -- **[Zhang Chi](https://www.pma.caltech.edu/people/chi-zhang)** -- F bundle and mirror symmetry of flag varieties
 
 ## 2025, July 22-25, [冬の日 2025 Winter Days](../winter25.md)
 
