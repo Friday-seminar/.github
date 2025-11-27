@@ -194,6 +194,9 @@ their interfaces in
 
 # Abstracts of all talks 
 
+### 2025, November 28 -- **Zhang Chi** --  F bundle and mirror symmetry of flag varieties
+
+This talk we present an introduction of mirror symmetry of flag varieties and introduces the notion of F-bundle, which helps us to prove the equivariant big mirror symmetry theorem of partial flag varieties.
 
 ### 2025, July 22 -- **Rafael Ruggiero** -- Thermodynamic formalism and Information geometry II/II
 
